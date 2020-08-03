@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <!-- What is the form and convention for naming the documents? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/1 -->
+            <title>Receipt Roll of the Irish Exchequer for 29 and 30 Edward I (The National
+               Archives, E 101)</title>
+            <!-- Responsibility for the edition. Confine to certain roles? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/2 -->
+            <!-- XML IDs for people. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/3 -->
+            <respStmt xml:id="MOC">
+               <name>Murchadh Ó Cuindlis</name>
+               <!-- How do we want to reresent responsibity? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/3 -->
+               <resp>Programme Director</resp>
+            </respStmt>
+            <respStmt xml:id="PD">
+               <name>Mac Fhirbhisigh</name>
+               <resp>Senior Records Specialist</resp>
+            </respStmt>
+            <respStmt xml:id="MP">
+               <name>Mathew Paris</name>
+               <resp>Postdoctoral Researcher</resp>
+            </respStmt>
+         </titleStmt>
+         <!-- Publisher and licence -->
+         <publicationStmt>
+            <publisher>Trinity College Dublin</publisher>
+            <pubPlace>Dublin</pubPlace>
+            <availability>
+               <p>This is an open access work licensed under a Creative Commons Attribution 4.0
+                  International license.</p>
+            </availability>
+         </publicationStmt>
+         <!-- Record it as part of a series? -->
+         <seriesStmt>
+            <p>Receipt Rolls of the Irish Exchequer (The National Archives, E 101). Part of the 
+               Beyond 2022 Medieval Gold Seam.</p>
+         </seriesStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>London</settlement>
+                  <repository>The National Archives</repository>
+                  <idno>E 101/233/16</idno>
+               </msIdentifier>
+               <msContents>
+                  <textLang>Latin</textLang>
+               </msContents>
+               <physDesc>
+                  <p>A parchment roll of 18 membranes.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <!-- Record changes made to the document -->
+      <revisionDesc>
+         <listChange>
+            <change status="draft" when="2020-08-01" resp="#MOC">Initial draft</change>
+            <!-- Updates by scripts can be recorded
+            <change status="update" when="2020-08-02">Entities added by a script</change>
+            -->
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+   </text>
+</TEI>
