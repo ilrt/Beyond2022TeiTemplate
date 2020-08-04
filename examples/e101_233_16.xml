@@ -10,7 +10,7 @@
             <!-- XML IDs for people. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/3 -->
             <respStmt xml:id="MOC">
                <name>Murchadh Ó Cuindlis</name>
-               <!-- How do we want to reresent responsibity? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/3 -->
+               <!-- How do we want to reresent responsibity? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/4 -->
                <resp>Programme Director</resp>
             </respStmt>
             <respStmt xml:id="PD">
@@ -24,17 +24,18 @@
          </titleStmt>
          <!-- Publisher and licence -->
          <publicationStmt>
+            <!-- Is Trinity College Dublin the publisher or the project? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/5 -->
             <publisher>Trinity College Dublin</publisher>
             <pubPlace>Dublin</pubPlace>
             <availability>
-               <p>This is an open access work licensed under a Creative Commons Attribution 4.0
-                  International license.</p>
+               <!-- Which license? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/6 -->
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
             </availability>
          </publicationStmt>
-         <!-- Record it as part of a series? -->
+         <!-- Record it as part of a series? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/7 -->
          <seriesStmt>
-            <p>Receipt Rolls of the Irish Exchequer (The National Archives, E 101). Part of the 
-               Beyond 2022 Medieval Gold Seam.</p>
+            <title>Receipt Rolls of the Irish Exchequer (The National Archives, E 101).</title>
+            <idno>E 101</idno>
          </seriesStmt>
          <sourceDesc>
             <msDesc>
