@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
+      <!-- Details about the document -->
       <fileDesc>
          <titleStmt>
             <!-- What is the form and convention for naming the documents? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/1 -->
@@ -13,7 +14,7 @@
                <!-- How do we want to reresent responsibity? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/4 -->
                <resp>Programme Director</resp>
             </respStmt>
-            <respStmt xml:id="PD">
+            <respStmt xml:id="MF">
                <name>Mac Fhirbhisigh</name>
                <resp>Senior Records Specialist</resp>
             </respStmt>
@@ -29,7 +30,8 @@
             <pubPlace>Dublin</pubPlace>
             <availability>
                <!-- Which license? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/6 -->
-               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/"
+                  >Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
             </availability>
          </publicationStmt>
          <!-- Record it as part of a series? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/7 -->
@@ -37,6 +39,7 @@
             <title>Receipt Rolls of the Irish Exchequer (The National Archives, E 101).</title>
             <idno>E 101</idno>
          </seriesStmt>
+         <!-- Details about the manuscript -->
          <sourceDesc>
             <msDesc>
                <msIdentifier>
@@ -53,7 +56,50 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <!-- Record changes made to the document -->
+      <encodingDesc>
+         <projectDesc>
+            <p>Created as part of the Medieval Gold Seam of the the Beyond 2022 project.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>The guiding principle is to make this edition of the accounts of the medieval Irish
+               Exchequer (and other medieval records populating Beyond 2022 Virtual Record Treasury)
+               as intelligible as possible to as wide an audience as possible. To that end, due to
+               their generally brief, formulaic nature the records are more or less directly
+               translated into modern English without losing the literal, technical sense of the
+               original language, which is almost exclusively Latin.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="la">Latin</language>
+            <language ident="ga">Irish</language>
+         </langUsage>
+         <creation>
+            <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
+         </creation>
+         <settingDesc>
+            <p>Probably drawn up in Ireland and despatched to Westminster, England, for an audit of
+               the accounts of the treasurer of the Irish Exchequer</p>
+         </settingDesc>
+         <!-- Library of Congress -->
+         <textClass>
+            <keywords scheme="http://id.loc.gov/authorities/subjects.html">
+               <term ref="http://id.loc.gov/authorities/subjects/sh85067964">Ireland</term>
+               <term ref="http://id.loc.gov/authorities/subjects/sh85085001">Middle Ages</term>
+               <term ref="http://id.loc.gov/authorities/subjects/sh85048256">Finance</term>
+               <term ref="http://id.loc.gov/authorities/subjects/sh85048326">Fines and
+                  Recoveries</term>
+            </keywords>
+         </textClass>
+         <!-- National Archives -->
+         <textClass>
+            <keywords scheme="http://discovery.nationalarchives.gov.uk/">
+               <term>Ireland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <!-- Changes made to the document -->
       <revisionDesc>
          <listChange>
             <change status="draft" when="2020-08-01" resp="#MOC">Initial draft</change>
