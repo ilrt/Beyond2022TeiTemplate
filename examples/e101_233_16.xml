@@ -56,10 +56,13 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <!-- Details about the encoding -->
       <encodingDesc>
+         <!-- What should we put for the project description? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/8 -->
          <projectDesc>
-            <p>Created as part of the Medieval Gold Seam of the the Beyond 2022 project.</p>
+            <p>Created as part of the Medieval Gold Seam of the Beyond 2022 project.</p>
          </projectDesc>
+         <!-- Generic or specific editorial declaration? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/9 -->
          <editorialDecl>
             <p>The guiding principle is to make this edition of the accounts of the medieval Irish
                Exchequer (and other medieval records populating Beyond 2022 Virtual Record Treasury)
