@@ -46,6 +46,7 @@
                   <settlement>London</settlement>
                   <repository>The National Archives</repository>
                   <idno>E 101/233/16</idno>
+                  <msName>Roll of receipts. 29 and 30 Edward I.</msName>
                </msIdentifier>
                <msContents>
                   <textLang>Latin</textLang>
@@ -72,11 +73,16 @@
                original language, which is almost exclusively Latin.</p>
          </editorialDecl>
       </encodingDesc>
+      <!-- Non bibliographic aspects of the text -->
       <profileDesc>
+         <!-- Languages used in the encoding. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/10 -->
          <langUsage>
-            <language ident="en">English</language>
-            <language ident="la">Latin</language>
-            <language ident="ga">Irish</language>
+            <language ident="eng">English</language>
+            <language ident="enm">English, Middle (1100–1500)</language>
+            <language ident="lat">Latin</language>
+            <language ident="gle">Irish</language>
+            <language ident="mga">Irish, Middle (900–1200)</language>
+            <language ident="fro">French, Old (842–ca. 1400)</language>
          </langUsage>
          <creation>
             <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
