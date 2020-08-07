@@ -33,13 +33,21 @@
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/"
                   >Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
             </availability>
+            <!-- Do we want to provide a postal address? https://github.com/ilrt/Beyond2022TeiTemplate/issues/11-->
+            <address>
+               <addrLine>Trinty College Dublin, the University of Dublin</addrLine>
+               <addrLine>College Green</addrLine>
+               <addrLine>Dublin 2</addrLine>
+               <addrLine>D02 PN40</addrLine>
+               <country>Ireland</country>
+            </address>
          </publicationStmt>
          <!-- Record it as part of a series? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/7 -->
          <seriesStmt>
             <title>Receipt Rolls of the Irish Exchequer (The National Archives, E 101).</title>
             <idno>E 101</idno>
          </seriesStmt>
-         <!-- Details about the manuscript -->
+         <!-- Details about the manuscript. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/12 -->
          <sourceDesc>
             <msDesc>
                <msIdentifier>
@@ -84,6 +92,7 @@
             <language ident="mga">Irish, Middle (900–1200)</language>
             <language ident="fro">French, Old (842–ca. 1400)</language>
          </langUsage>
+         <!-- Details about the creation of the text. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/12 -->
          <creation>
             <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
          </creation>
