@@ -64,11 +64,28 @@
                </physDesc>
                <history>
                   <origin>
-                     <p>Probably drawn up in Ireland and despatched to Westminster, England, for an audit of
-                        the accounts of the treasurer of the Irish Exchequer</p>
+                     <p>Probably drawn up in Ireland and despatched to Westminster, England, for an
+                        audit of the accounts of the treasurer of the Irish Exchequer</p>
                   </origin>
                </history>
             </msDesc>
+            <listBibl>
+               <bibl type="book">
+                  <editor><name><forename>Paul</forename><surname>Dryburgh</surname></name></editor>
+                  <editor><name><forename>Brendan</forename><surname>Smith</surname></name></editor>
+                  <title>Handbook &amp; select calendar of sources for medieval Ireland in the
+                     National Archives of the United Kingdom</title>
+                  <publisher>Four Courts Press</publisher>
+                  <pubPlace>Dublin</pubPlace>
+                  <date when="2015">2005</date>
+               </bibl>
+               <bibl type="website">
+                  <author><name><forename>Mike</forename><surname>Jones</surname></name></author>
+                  <title
+                     ref="https://jeangoldinginstitute.blogs.bristol.ac.uk/2020/08/10/digital-humanities-meets-medieval-financial-records/"
+                     >Digital Humanities meets Medieval Financial Records</title>
+               </bibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <!-- Details about the encoding -->
@@ -101,7 +118,7 @@
          <!-- Details about the creation of the text. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/12 -->
          <creation>
             <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
-          </creation>
+         </creation>
          <!-- Library of Congress -->
          <textClass>
             <keywords scheme="http://id.loc.gov/authorities/subjects.html">
