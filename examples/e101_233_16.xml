@@ -3,10 +3,18 @@
    <teiHeader>
       <!-- Details about the document -->
       <fileDesc>
+         <!-- Title deails. We put respsibility statements in the edition -->
          <titleStmt>
             <!-- What is the form and convention for naming the documents? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/1 -->
-            <title>Receipt Roll of the Irish Exchequer for 29 and 30 Edward I (The National
+            <!-- Is this title ok for the database? https://github.com/ilrt/Beyond2022TeiTemplate/issues/16 -->
+            <title>Receipt roll of the Irish Exchequer for 29 and 30 Edward I (The National
                Archives, E 101)</title>
+         </titleStmt>
+         <!-- Edition details including resposnibility -->
+         <editionStmt>
+            <!-- For the description (database), use the edition? -->
+            <edition>TEI/XML English tranlation of the Irish Exchequer receipt roll for 29 and 30
+               Edward I</edition>
             <!-- Responsibility for the edition. Confine to certain roles? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/2 -->
             <!-- XML IDs for people. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/3 -->
             <respStmt xml:id="MOC">
@@ -22,7 +30,9 @@
                <name>Mathew Paris</name>
                <resp>Postdoctoral Researcher</resp>
             </respStmt>
-         </titleStmt>
+         </editionStmt>
+         <extent>11 membranes of source material translated and encoded</extent>
+         <!-- <extent>xxxs bytes</extent> -->
          <!-- Publisher and licence -->
          <publicationStmt>
             <!-- Is Trinity College Dublin the publisher or the project? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/5 -->
@@ -53,6 +63,7 @@
                <msIdentifier>
                   <settlement>London</settlement>
                   <repository>The National Archives</repository>
+                  <!-- Is the idno sufficient for the unique reference code for the database? https://github.com/ilrt/Beyond2022TeiTemplate/issues/17-->
                   <idno>E 101/233/16</idno>
                   <msName>Roll of receipts. 29 and 30 Edward I.</msName>
                </msIdentifier>
