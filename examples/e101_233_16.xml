@@ -10,7 +10,7 @@
             <title>Receipt roll of the Irish Exchequer for 29 and 30 Edward I (The National
                Archives, E 101)</title>
          </titleStmt>
-         <!-- Edition details including resposnibility -->
+         <!-- Edition details including responsibility. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/18 -->
          <editionStmt>
             <!-- For the description (database), use the edition? -->
             <edition>TEI/XML English tranlation of the Irish Exchequer receipt roll for 29 and 30
@@ -31,6 +31,7 @@
                <resp>Postdoctoral Researcher</resp>
             </respStmt>
          </editionStmt>
+         <!-- Details about the extent of the file. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/18 -->
          <extent>11 membranes of source material translated and encoded</extent>
          <!-- <extent>xxxs bytes</extent> -->
          <!-- Publisher and licence -->
@@ -133,13 +134,13 @@
          <creation>
             <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
          </creation>
-         <!-- Beyond 2022 Ontology -->
+         <!-- Beyond 2022 knowledge graph. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/19 -->
          <textClass>
             <keywords scheme="http://ont.beyond2022.ie/ontology#">
                <term ref="https://kb.beyond2022.ie/person/615_-_0000_g>">Edward I</term>
             </keywords>
          </textClass>
-         <!-- Library of Congress -->
+         <!-- Library of Congress. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/14 -->
          <textClass>
             <keywords scheme="http://id.loc.gov/authorities/subjects.html">
                <term ref="http://id.loc.gov/authorities/subjects/sh85067964">Ireland</term>
@@ -149,7 +150,7 @@
                   Recoveries</term>
             </keywords>
          </textClass>
-         <!-- National Archives -->
+         <!-- National Archives. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/21 -->
          <textClass>
             <keywords scheme="http://discovery.nationalarchives.gov.uk/">
                <term>Ireland</term>
