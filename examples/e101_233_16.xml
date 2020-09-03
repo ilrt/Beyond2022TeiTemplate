@@ -36,8 +36,7 @@
          <!-- <extent>xxxs bytes</extent> -->
          <!-- Publisher and licence -->
          <publicationStmt>
-            <!-- Is Trinity College Dublin the publisher or the project? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/5 -->
-            <publisher>Trinity College Dublin</publisher>
+            <publisher>Trinity College Dublin, The University of Dublin</publisher>
             <pubPlace>Dublin</pubPlace>
             <availability>
                <!-- Which license? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/6 -->
