@@ -17,7 +17,7 @@
                Edward I</edition>
             <!-- Responsibility for the edition. Confine to certain roles? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/2 -->
             <!-- XML IDs for people. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/3 -->
-            <respStmt xml:id="MOC">
+            <respStmt xml:id="hjhj">
                <name>Murchadh Ó Cuindlis</name>
                <!-- How do we want to reresent responsibity? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/4 -->
                <resp>Programme Director</resp>
@@ -45,6 +45,7 @@
             </availability>
             <!-- Do we want to provide a postal address? https://github.com/ilrt/Beyond2022TeiTemplate/issues/11-->
             <address>
+               <name>Beyond 2022: Ireland's Virtual Record Treasury</name>
                <addrLine>Trinty College Dublin, the University of Dublin</addrLine>
                <addrLine>College Green</addrLine>
                <addrLine>Dublin 2</addrLine>
