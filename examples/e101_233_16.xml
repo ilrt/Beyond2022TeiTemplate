@@ -72,7 +72,8 @@
                   <repository>The National Archives</repository>
                   <idno>E 101/233/16</idno>
                   <idno type="MARC">UK-KeNA E 101/233/16</idno>
-                  <idno type="URI">https://discovery.nationalarchives.gov.uk/details/r/C4513834</idno>
+                  <idno type="URI"
+                     >https://discovery.nationalarchives.gov.uk/details/r/C4513834</idno>
                   <msName>Roll of receipts. 29 and 30 Edward I.</msName>
                </msIdentifier>
                <msContents>
@@ -106,11 +107,12 @@
       </fileDesc>
       <!-- Details about the encoding -->
       <encodingDesc>
-         <!-- What should we put for the project description? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/8 -->
+         <!-- Project description-->
          <projectDesc>
-            <p>Created as part of the Medieval Gold Seam of the Beyond 2022 project.</p>
+            <p>Created as part of the Medieval Gold Seam of the 'Beyond 2022: Ireland's Virtual
+               Record Treasury' Research Project, Phase 2 (2019–22)</p>
          </projectDesc>
-         <!-- Generic or specific editorial declaration? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/9 -->
+         <!-- Editorial declaration -->
          <editorialDecl>
             <p>The guiding principle is to make this edition of the accounts of the medieval Irish
                Exchequer (and other medieval records populating Beyond 2022 Virtual Record Treasury)
@@ -130,19 +132,19 @@
          <creation>
             <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
          </creation>
-         <!-- Beyond 2022 knowledge graph. For people, places and organizations/offices: -->
+         <!-- Beyond 2022 knowledge graph. For people, places and organizations/offices -->
          <textClass>
             <keywords scheme="http://ont.beyond2022.ie/ontology#">
                <term ref="https://kb.beyond2022.ie/person/615_-_0000_g>">Edward I</term>
             </keywords>
          </textClass>
-         <!-- Library of Congress. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/14 -->
+         <!-- searcFast: https://fast.oclc.org/searchfast/ -->
          <textClass>
-            <keywords scheme="http://id.loc.gov/authorities/subjects.html">
-               <term ref="http://id.loc.gov/authorities/subjects/sh85067964">Ireland</term>
-               <term ref="http://id.loc.gov/authorities/subjects/sh85085001">Middle Ages</term>
-               <term ref="http://id.loc.gov/authorities/subjects/sh85048256">Finance</term>
-               <term ref="http://id.loc.gov/authorities/subjects/sh85048326">Fines and
+            <keywords scheme="https://fast.oclc.org/">
+               <term ref="http://id.worldcat.org/fast/1205427.rdf.xml">Ireland</term>
+               <term ref="http://id.worldcat.org/fast/1020301.rdf.xml">Middle Ages</term>
+               <term ref="http://id.worldcat.org/fast/924349.rdf.xml">Finance</term>
+               <term ref="http://id.worldcat.org/fast/924841.rdf.xml">Fines and
                   Recoveries</term>
             </keywords>
          </textClass>
