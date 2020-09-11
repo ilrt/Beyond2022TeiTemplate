@@ -5,13 +5,13 @@
       <fileDesc>
          <!-- Title deails. We put respsibility statements in the edition -->
          <titleStmt>
-            <title>Receipt roll of the Irish Exchequer for 29 and 30 Edward I</title>
+            <title>Writ from Henry V to the treasurer of Ireland</title>
          </titleStmt>
-         <!-- Edition details including responsibility. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/18 -->
+         <!-- Edition -->
          <editionStmt>
             <!-- For the description (database), use the edition? -->
-            <edition>TEI/XML English translation of the Irish Exchequer receipt roll for 29 and 30
-               Edward I</edition>
+            <edition>TEI/XML English translation of writ from Henry V to the 
+               treasurer of Ireland, 8 July [1420]</edition>
             <!-- Responsibility for the edition. -->
             <respStmt xml:id="peter-crooks">
                <name>Peter Crooks</name>
@@ -39,7 +39,7 @@
             </respStmt>
          </editionStmt>
          <!-- Details about the extent of the original document. -->
-         <extent>A parchment roll of 18 membranes.</extent>
+         <extent>A single parchement writ.</extent>
          <!-- Publisher and licence -->
          <publicationStmt>
             <publisher>Trinity College Dublin, The University of Dublin</publisher>
@@ -61,7 +61,7 @@
          </publicationStmt>
          <!-- Part of a series? -->
          <seriesStmt>
-            <title>rish Exchequer Accounts  (The National Archives, E 101).</title>
+            <title>Irish Exchequer Accounts (The National Archives, E 101).</title>
             <idno>E 101</idno>
          </seriesStmt>
          <!-- Details about the manuscript. -->
@@ -70,17 +70,17 @@
                <msIdentifier>
                   <settlement>London</settlement>
                   <repository>The National Archives</repository>
-                  <idno>E 101/233/16</idno>
-                  <idno type="MARC">UK-KeNA E 101/233/16</idno>
+                  <idno>E 101/237/14, m. 15 recto</idno>
+                  <idno type="MARC">UK-KeNA E 101/237/14, m. 15 recto</idno>
                   <idno type="URI"
                      >https://discovery.nationalarchives.gov.uk/details/r/C4513834</idno>
-                  <msName>Roll of receipts. 29 and 30 Edward I.</msName>
+                  <msName>Writs and receipts. 8 Hen V. 1 file.</msName>
                </msIdentifier>
                <msContents>
                   <textLang mainLang="la">Latin</textLang>
                </msContents>
                <physDesc>
-                  <p>A parchment roll of 18 membranes.</p>
+                  <p>A single writ damaged on the right-hand side.</p>
                </physDesc>
             </msDesc>
             <!-- Do we want to link to other relevant printed or digital material. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/15 -->
@@ -130,12 +130,16 @@
          </langUsage>
          <!-- Details about the creation of the text. -->
          <creation>
-            <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
+            <date when="1420-07-08">8 July [1420]</date>
          </creation>
          <!-- Beyond 2022 knowledge graph. For people, places and organizations/offices -->
          <textClass>
             <keywords scheme="http://ont.beyond2022.ie/ontology#">
-               <term ref="https://kb.beyond2022.ie/person/615_-_0000_g>">Edward I</term>
+               <term>Henry IV</term>
+               <term>Henry V</term>
+               <term ref="https://kb.beyond2022.ie/person/Brown_Thomas_0000_a">Brown, Thomas</term>
+               <term ref="https://kb.beyond2022.ie/person/Butler_James_C15_b">Butler, James</term>
+               <term>Dublin</term>
             </keywords>
          </textClass>
          <!-- searchFast: https://fast.oclc.org/searchfast/ -->
@@ -144,15 +148,14 @@
                <term ref="http://id.worldcat.org/fast/1205427.rdf.xml">Ireland</term>
                <term ref="http://id.worldcat.org/fast/1020301.rdf.xml">Middle Ages</term>
                <term ref="http://id.worldcat.org/fast/924349.rdf.xml">Finance</term>
-               <term ref="http://id.worldcat.org/fast/924841.rdf.xml">Fines and
-                  Recoveries</term>
+               <term resp="http://id.worldcat.org/fast/1181694.rdf.xml">Writs</term>
             </keywords>
          </textClass>
       </profileDesc>
       <!-- Changes made to the document -->
       <revisionDesc>
          <listChange>
-            <change status="draft" when="2020-08-01" resp="#MOC">Initial draft</change>
+            <change status="draft" when="2020-09-11" resp="#elizabeth-biggs">Initial draft</change>
             <!-- Updates by scripts can be recorded
             <change status="update" when="2020-08-02">Entities added by a script</change>
             -->
@@ -161,7 +164,24 @@
    </teiHeader>
    <text>
       <body>
-         <p>Some text here.</p>
+         <p>Henry V to the treasurer of Ireland or his deputy, and the chamberlains of the Irish
+            exchequer. When his father, Henry IV, <gap reason="damage"/>
+            <supplied>12</supplied> January <supplied>1402</supplied> 3 Henry IV by letters patent
+            and he has confirmed on 31 January <supplied>1414</supplied> 1 Henry V by his letters
+            patent, the grant to <supplied reason="damage">Thomas Broun the office
+            of</supplied> clerk of the crown in the chancery of Ireland for the term of his life,
+            receiving 10 marks annually at the exchequer in equal portions at Michaelmas and Easter
+               <gap reason="damaged"/>. Wishing to know the arrears of the said Thomas of his fee of
+            ten marks <gap reason="damaged"/> from the aforesaid 12 January until 2 May last, has
+            ordered the treasurer and chamberlains to search the records of the exchequer <gap
+               reason="damaged"/> and to return their findings in chancery. They returned that the
+            arrears of Thomas’ fee of 10 marks annually <gap reason="damaged"/> until 20 March
+               <supplied>1413</supplied> 14 Henry IV were £25 12s 8d and similarly the arrears of
+            the said Thomas of his fee <gap reason="damaged"/> January to 2 May last, viz. six and a quarter
+            years complete, £29 18s 8d <gap reason="damaged"/>. The king orders them to pay Thomas £25 12s 8d
+            <gap reason="damaged"/> and £29 18s 8d, <gap reason="damaged"/> and to pay his fee year by year, term by term
+            during the life of the said Thomas, <supplied reason="damaged">receiving</supplied> acquittance from him.
+            Endorsed by James Butler, earl of Ormond, lieutenant of Ireland, at Dublin 8 July <gap reason="damaged"/>.</p>
       </body>
    </text>
 </TEI>
