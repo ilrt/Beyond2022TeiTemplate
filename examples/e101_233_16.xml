@@ -12,8 +12,7 @@
             <!-- For the description (database), use the edition? -->
             <edition>TEI/XML English tranlation of the Irish Exchequer receipt roll for 29 and 30
                Edward I</edition>
-            <!-- Responsibility for the edition. Confine to certain roles? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/2 -->
-            <!-- XML IDs for people. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/3 -->
+            <!-- Responsibility for the edition. -->
             <respStmt xml:id="peter-crooks">
                <name>Peter Crooks</name>
                <resp>editor</resp>
