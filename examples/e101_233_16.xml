@@ -38,15 +38,14 @@
                <resp>editor</resp>
             </respStmt>
          </editionStmt>
-         <!-- Details about the extent of the file. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/18 -->
-         <extent>11 membranes of source material translated and encoded</extent>
-         <!-- <extent>xxxs bytes</extent> -->
+         <!-- Details about the extent of the original document. -->
+         <extent>A parchment roll of 18 membranes.</extent>
          <!-- Publisher and licence -->
          <publicationStmt>
             <publisher>Trinity College Dublin, The University of Dublin</publisher>
             <pubPlace>Dublin</pubPlace>
             <availability>
-               <!-- Which license? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/6 -->
+               <!-- License -->
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/"
                   >Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
             </availability>
@@ -60,7 +59,7 @@
                <country>Ireland</country>
             </address>
          </publicationStmt>
-         <!-- Record it as part of a series? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/7 -->
+         <!-- Paart of a series? -->
          <seriesStmt>
             <title>Receipt Rolls of the Irish Exchequer (The National Archives, E 101).</title>
             <idno>E 101</idno>
@@ -123,16 +122,11 @@
       </encodingDesc>
       <!-- Non bibliographic aspects of the text -->
       <profileDesc>
-         <!-- Languages used in the encoding. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/10 -->
+         <!-- Languages used in the encoding. -->
          <langUsage>
             <language ident="eng">English</language>
-            <language ident="enm">English, Middle (1100–1500)</language>
-            <language ident="lat">Latin</language>
-            <language ident="gle">Irish</language>
-            <language ident="mga">Irish, Middle (900–1200)</language>
-            <language ident="fro">French, Old (842–ca. 1400)</language>
          </langUsage>
-         <!-- Details about the creation of the text. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/12 -->
+         <!-- Details about the creation of the text. -->
          <creation>
             <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
          </creation>
