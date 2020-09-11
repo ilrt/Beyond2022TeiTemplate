@@ -50,7 +50,7 @@
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/"
                   >Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
             </availability>
-            <!-- Do we want to provide a postal address? https://github.com/ilrt/Beyond2022TeiTemplate/issues/11-->
+            <!-- Contact details -->
             <address>
                <name>Beyond 2022: Ireland's Virtual Record Treasury</name>
                <addrLine>Trinty College Dublin, the University of Dublin</addrLine>
@@ -71,22 +71,17 @@
                <msIdentifier>
                   <settlement>London</settlement>
                   <repository>The National Archives</repository>
-                  <!-- Is the idno sufficient for the unique reference code for the database? https://github.com/ilrt/Beyond2022TeiTemplate/issues/17-->
                   <idno>E 101/233/16</idno>
+                  <idno type="MARC">UK-KeNA E 101/233/16</idno>
+                  <idno type="URI">https://discovery.nationalarchives.gov.uk/details/r/C4513834</idno>
                   <msName>Roll of receipts. 29 and 30 Edward I.</msName>
                </msIdentifier>
                <msContents>
-                  <textLang>Latin</textLang>
+                  <textLang mainLang="la">Latin</textLang>
                </msContents>
                <physDesc>
                   <p>A parchment roll of 18 membranes.</p>
                </physDesc>
-               <history>
-                  <origin>
-                     <p>Probably drawn up in Ireland and despatched to Westminster, England, for an
-                        audit of the accounts of the treasurer of the Irish Exchequer</p>
-                  </origin>
-               </history>
             </msDesc>
             <!-- Do we want to link to other relevant printed or digital material. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/15 -->
             <listBibl>
