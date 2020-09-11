@@ -5,8 +5,7 @@
       <fileDesc>
          <!-- Title deails. We put respsibility statements in the edition -->
          <titleStmt>
-            <title>Receipt roll of the Irish Exchequer for 29 and 30 Edward I (The National
-               Archives, E 101/233/16)</title>
+            <title>Receipt roll of the Irish Exchequer for 29 and 30 Edward I</title>
          </titleStmt>
          <!-- Edition details including responsibility. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/18 -->
          <editionStmt>
@@ -15,18 +14,29 @@
                Edward I</edition>
             <!-- Responsibility for the edition. Confine to certain roles? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/2 -->
             <!-- XML IDs for people. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/3 -->
-            <respStmt xml:id="hjhj">
-               <name>Murchadh Ó Cuindlis</name>
-               <!-- How do we want to reresent responsibity? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/4 -->
-               <resp>Programme Director</resp>
+            <respStmt xml:id="peter-crooks">
+               <name>Peter Crooks</name>
+               <resp>editor</resp>
             </respStmt>
-            <respStmt xml:id="MF">
-               <name>Mac Fhirbhisigh</name>
-               <resp>Senior Records Specialist</resp>
+            <respStmt xml:id="paul-dryburgh">
+               <name>Paul Dryburgh</name>
+               <resp>editor</resp>
             </respStmt>
-            <respStmt xml:id="MP">
-               <name>Mathew Paris</name>
-               <resp>Postdoctoral Researcher</resp>
+            <respStmt xml:id="lynn-kilgannon">
+               <name>Lynn Kilgannon</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="elizabeth-biggs">
+               <name>Elizabeth Biggs</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="mike-jones">
+               <name>Mike Jones</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="brendan-smith">
+               <name>Brendan Smith</name>
+               <resp>editor</resp>
             </respStmt>
          </editionStmt>
          <!-- Details about the extent of the file. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/18 -->
