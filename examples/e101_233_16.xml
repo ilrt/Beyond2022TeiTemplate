@@ -150,12 +150,6 @@
                   Recoveries</term>
             </keywords>
          </textClass>
-         <!-- National Archives. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/21 -->
-         <textClass>
-            <keywords scheme="http://discovery.nationalarchives.gov.uk/">
-               <term>Ireland</term>
-            </keywords>
-         </textClass>
       </profileDesc>
       <!-- Changes made to the document -->
       <revisionDesc>
