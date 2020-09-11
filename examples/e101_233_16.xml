@@ -5,10 +5,8 @@
       <fileDesc>
          <!-- Title deails. We put respsibility statements in the edition -->
          <titleStmt>
-            <!-- What is the form and convention for naming the documents? See https://github.com/ilrt/Beyond2022TeiTemplate/issues/1 -->
-            <!-- Is this title ok for the database? https://github.com/ilrt/Beyond2022TeiTemplate/issues/16 -->
             <title>Receipt roll of the Irish Exchequer for 29 and 30 Edward I (The National
-               Archives, E 101)</title>
+               Archives, E 101/233/16)</title>
          </titleStmt>
          <!-- Edition details including responsibility. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/18 -->
          <editionStmt>
