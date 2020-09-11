@@ -132,7 +132,7 @@
          <creation>
             <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
          </creation>
-         <!-- Beyond 2022 knowledge graph. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/19 -->
+         <!-- Beyond 2022 knowledge graph. For people, places and organizations/offices: -->
          <textClass>
             <keywords scheme="http://ont.beyond2022.ie/ontology#">
                <term ref="https://kb.beyond2022.ie/person/615_-_0000_g>">Edward I</term>
