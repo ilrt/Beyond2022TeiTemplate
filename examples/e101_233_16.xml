@@ -3,7 +3,7 @@
    <teiHeader>
       <!-- Details about the document -->
       <fileDesc>
-         <!-- Title deails. We put respsibility statements in the edition -->
+         <!-- Title details. We put respsibility statements in the edition -->
          <titleStmt>
             <title>Receipt roll of the Irish Exchequer for 29 and 30 Edward I</title>
          </titleStmt>
@@ -71,7 +71,7 @@
                   <settlement>London</settlement>
                   <repository>The National Archives</repository>
                   <idno>E 101/233/16</idno>
-                  <idno type="MARC">UK-KeNA E 101/233/16</idno>
+                  <idno type="b2022-idno">UK-KeNA E 101/233/16</idno>
                   <idno type="URI"
                      >https://discovery.nationalarchives.gov.uk/details/r/C4513834</idno>
                   <msName>Roll of receipts. 29 and 30 Edward I.</msName>

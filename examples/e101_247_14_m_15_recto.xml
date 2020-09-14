@@ -3,7 +3,7 @@
    <teiHeader>
       <!-- Details about the document -->
       <fileDesc>
-         <!-- Title deails. We put respsibility statements in the edition -->
+         <!-- Title details. We put respsibility statements in the edition -->
          <titleStmt>
             <title>Writ from Henry V to the treasurer of Ireland</title>
          </titleStmt>
@@ -70,8 +70,8 @@
                <msIdentifier>
                   <settlement>London</settlement>
                   <repository>The National Archives</repository>
-                  <idno>E 101/237/14, m. 15 recto</idno>
-                  <idno type="MARC">UK-KeNA E 101/237/14, m. 15 recto</idno>
+                  <idno>E 101/247/14, m. 15 recto</idno>
+                  <idno type="b2022-idno">UK-KeNA E 101/247/14, m. 15 recto</idno>
                   <idno type="URI"
                      >https://discovery.nationalarchives.gov.uk/details/r/C4513834</idno>
                   <msName>Writs and receipts. 8 Hen V. 1 file.</msName>
@@ -83,26 +83,6 @@
                   <p>A single writ damaged on the right-hand side.</p>
                </physDesc>
             </msDesc>
-            <!-- Do we want to link to other relevant printed or digital material. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/15 -->
-            <listBibl>
-               <bibl type="book">
-                  <editor><name><forename>Paul</forename><surname>Dryburgh</surname></name></editor>
-                  <editor><name><forename>Brendan</forename><surname>Smith</surname></name></editor>
-                  <title>Handbook &amp; select calendar of sources for medieval Ireland in the
-                     National Archives of the United Kingdom</title>
-                  <publisher>Four Courts Press</publisher>
-                  <pubPlace>Dublin</pubPlace>
-                  <date when="2015">2005</date>
-               </bibl>
-               <bibl type="website">
-                  <author><name><forename>Mike</forename><surname>Jones</surname></name></author>
-                  <title
-                     ref="https://jeangoldinginstitute.blogs.bristol.ac.uk/2020/08/10/digital-humanities-meets-medieval-financial-records/"
-                     >Digital Humanities meets Medieval Financial Records</title>
-                  <publisher>Jean Golding Instute, University of Bristol</publisher>
-                  <date when="2020-08-10">10 August 2020</date>
-               </bibl>
-            </listBibl>
          </sourceDesc>
       </fileDesc>
       <!-- Details about the encoding -->
