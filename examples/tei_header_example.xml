@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <!-- Details about the document -->
+      <fileDesc>
+         <!-- Title details. We put respsibility statements in the edition -->
+         <titleStmt>
+            <title>Receipt roll of the Irish Exchequer for 29 and 30 Edward I</title>
+         </titleStmt>
+         <!-- Edition details including responsibility. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/18 -->
+         <editionStmt>
+            <!-- For the description (database), use the edition? -->
+            <edition>TEI/XML English translation of the Irish Exchequer receipt roll for 29 and 30
+               Edward I</edition>
+            <!-- Responsibility for the edition. -->
+            <respStmt xml:id="peter-crooks">
+               <name>Peter Crooks</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="paul-dryburgh">
+               <name>Paul Dryburgh</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="lynn-kilgannon">
+               <name>Lynn Kilgannon</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="elizabeth-biggs">
+               <name>Elizabeth Biggs</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="mike-jones">
+               <name>Mike Jones</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="brendan-smith">
+               <name>Brendan Smith</name>
+               <resp>editor</resp>
+            </respStmt>
+         </editionStmt>
+         <!-- Details about the extent of the original document. -->
+         <extent>A parchment roll of 18 membranes.</extent>
+         <!-- Publisher and licence -->
+         <publicationStmt>
+            <publisher>Trinity College Dublin, The University of Dublin</publisher>
+            <pubPlace>Dublin</pubPlace>
+            <availability>
+               <!-- License -->
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/"
+                  >Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <!-- Contact details -->
+            <address>
+               <name>Beyond 2022: Ireland's Virtual Record Treasury</name>
+               <addrLine>Trinty College Dublin, the University of Dublin</addrLine>
+               <addrLine>College Green</addrLine>
+               <addrLine>Dublin 2</addrLine>
+               <addrLine>D02 PN40</addrLine>
+               <country>Ireland</country>
+            </address>
+         </publicationStmt>
+         <!-- Part of a series? -->
+         <seriesStmt>
+            <title>Irish Exchequer Accounts  (The National Archives, E 101).</title>
+            <idno>E 101</idno>
+         </seriesStmt>
+         <!-- Details about the manuscript. -->
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>London</settlement>
+                  <repository>The National Archives</repository>
+                  <idno>E 101/233/16</idno>
+                  <idno type="b2022-idno">UK-KeNA E 101/233/16</idno>
+                  <idno type="URI"
+                     >https://discovery.nationalarchives.gov.uk/details/r/C4513834</idno>
+                  <msName>Roll of receipts. 29 and 30 Edward I.</msName>
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="la">Latin</textLang>
+               </msContents>
+               <physDesc>
+                  <p>A parchment roll of 18 membranes.</p>
+               </physDesc>
+            </msDesc>
+            <!-- Do we want to link to other relevant printed or digital material. See https://github.com/ilrt/Beyond2022TeiTemplate/issues/15 -->
+            <listBibl>
+               <bibl type="book">
+                  <editor><name><forename>Paul</forename><surname>Dryburgh</surname></name></editor>
+                  <editor><name><forename>Brendan</forename><surname>Smith</surname></name></editor>
+                  <title>Handbook &amp; select calendar of sources for medieval Ireland in the
+                     National Archives of the United Kingdom</title>
+                  <publisher>Four Courts Press</publisher>
+                  <pubPlace>Dublin</pubPlace>
+                  <date when="2015">2005</date>
+               </bibl>
+               <bibl type="website">
+                  <author><name><forename>Mike</forename><surname>Jones</surname></name></author>
+                  <title
+                     ref="https://jeangoldinginstitute.blogs.bristol.ac.uk/2020/08/10/digital-humanities-meets-medieval-financial-records/"
+                     >Digital Humanities meets Medieval Financial Records</title>
+                  <publisher>Jean Golding Instute, University of Bristol</publisher>
+                  <date when="2020-08-10">10 August 2020</date>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <!-- Details about the encoding -->
+      <encodingDesc>
+         <!-- Project description-->
+         <projectDesc>
+            <p>Created as part of the Medieval Gold Seam of the 'Beyond 2022: Ireland's Virtual
+               Record Treasury' Research Project, Phase 2 (2019–22)</p>
+         </projectDesc>
+         <!-- Editorial declaration -->
+         <editorialDecl>
+            <p>The guiding principle is to make this edition of the accounts of the medieval Irish
+               Exchequer (and other medieval records populating Beyond 2022 Virtual Record Treasury)
+               as intelligible as possible to as wide an audience as possible. To that end, due to
+               their generally brief, formulaic nature the records are more or less directly
+               translated into modern English without losing the literal, technical sense of the
+               original language, which is almost exclusively Latin.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <!-- Non bibliographic aspects of the text -->
+      <profileDesc>
+         <!-- Languages used in the encoding. -->
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <!-- Details about the creation of the text. -->
+         <creation>
+            <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
+         </creation>
+         <!-- Beyond 2022 knowledge graph. For people, places and organizations/offices -->
+         <textClass>
+            <keywords scheme="http://ont.beyond2022.ie/ontology#">
+               <term ref="https://kb.beyond2022.ie/person/615_-_0000_g>">Edward I</term>
+            </keywords>
+         </textClass>
+         <!-- searchFast: https://fast.oclc.org/searchfast/ -->
+         <textClass>
+            <keywords scheme="https://fast.oclc.org/">
+               <term ref="http://id.worldcat.org/fast/1205427.rdf.xml">Ireland</term>
+               <term ref="http://id.worldcat.org/fast/1020301.rdf.xml">Middle Ages</term>
+               <term ref="http://id.worldcat.org/fast/924349.rdf.xml">Finance</term>
+               <term ref="http://id.worldcat.org/fast/924841.rdf.xml">Fines and
+                  Recoveries</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <!-- Changes made to the document -->
+      <revisionDesc>
+         <listChange>
+            <change status="draft" when="2020-08-01" resp="#MOC">Initial draft</change>
+            <!-- Updates by scripts can be recorded
+            <change status="update" when="2020-08-02">Entities added by a script</change>
+            -->
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+   </text>
+</TEI>
