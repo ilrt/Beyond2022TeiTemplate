@@ -10,8 +10,8 @@
          <!-- Edition -->
          <editionStmt>
             <!-- For the description (database), use the edition? -->
-            <edition>TEI/XML English translation of writ from Henry V to the 
-               treasurer of Ireland, 8 July [1420]</edition>
+            <edition>TEI/XML English translation of writ from Henry V to the treasurer of Ireland, 8
+               July [1420]</edition>
             <!-- Responsibility for the edition. -->
             <respStmt xml:id="peter-crooks">
                <name>Peter Crooks</name>
@@ -148,20 +148,21 @@
             exchequer. When his father, Henry IV, <gap reason="damage"/>
             <supplied>12</supplied> January <supplied>1402</supplied> 3 Henry IV by letters patent
             and he has confirmed on 31 January <supplied>1414</supplied> 1 Henry V by his letters
-            patent, the grant to <supplied reason="damage">Thomas Broun the office
-            of</supplied> clerk of the crown in the chancery of Ireland for the term of his life,
-            receiving 10 marks annually at the exchequer in equal portions at Michaelmas and Easter
-               <gap reason="damaged"/>. Wishing to know the arrears of the said Thomas of his fee of
-            ten marks <gap reason="damaged"/> from the aforesaid 12 January until 2 May last, has
+            patent, the grant to <supplied reason="damage">Thomas Broun the office of</supplied>
+            clerk of the crown in the chancery of Ireland for the term of his life, receiving 10
+            marks annually at the exchequer in equal portions at Michaelmas and Easter <gap
+               reason="damaged"/>. Wishing to know the arrears of the said Thomas of his fee of ten
+            marks <gap reason="damaged"/> from the aforesaid 12 January until 2 May last, has
             ordered the treasurer and chamberlains to search the records of the exchequer <gap
                reason="damaged"/> and to return their findings in chancery. They returned that the
             arrears of Thomas’ fee of 10 marks annually <gap reason="damaged"/> until 20 March
                <supplied>1413</supplied> 14 Henry IV were £25 12s 8d and similarly the arrears of
-            the said Thomas of his fee <gap reason="damaged"/> January to 2 May last, viz. six and a quarter
-            years complete, £29 18s 8d <gap reason="damaged"/>. The king orders them to pay Thomas £25 12s 8d
-            <gap reason="damaged"/> and £29 18s 8d, <gap reason="damaged"/> and to pay his fee year by year, term by term
-            during the life of the said Thomas, <supplied reason="damaged">receiving</supplied> acquittance from him.
-            Endorsed by James Butler, earl of Ormond, lieutenant of Ireland, at Dublin 8 July <gap reason="damaged"/>.</p>
+            the said Thomas of his fee <gap reason="damaged"/> January to 2 May last, viz. six and a
+            quarter years complete, £29 18s 8d <gap reason="damaged"/>. The king orders them to pay
+            Thomas £25 12s 8d <gap reason="damaged"/> and £29 18s 8d, <gap reason="damaged"/> and to
+            pay his fee year by year, term by term during the life of the said Thomas, <supplied
+               reason="damaged">receiving</supplied> acquittance from him. Endorsed by James Butler,
+            earl of Ormond, lieutenant of Ireland, at Dublin 8 July <gap reason="damaged"/>.</p>
       </body>
    </text>
 </TEI>
