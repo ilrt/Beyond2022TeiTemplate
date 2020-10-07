@@ -61,7 +61,7 @@
          </publicationStmt>
          <!-- Part of a series? -->
          <seriesStmt>
-            <title>Irish Exchequer Accounts  (The National Archives, E 101).</title>
+            <title>Irish Exchequer Accounts (The National Archives, E 101).</title>
             <idno>E 101</idno>
          </seriesStmt>
          <!-- Details about the manuscript. -->
@@ -144,8 +144,7 @@
                <term ref="http://id.worldcat.org/fast/1205427.rdf.xml">Ireland</term>
                <term ref="http://id.worldcat.org/fast/1020301.rdf.xml">Middle Ages</term>
                <term ref="http://id.worldcat.org/fast/924349.rdf.xml">Finance</term>
-               <term ref="http://id.worldcat.org/fast/924841.rdf.xml">Fines and
-                  Recoveries</term>
+               <term ref="http://id.worldcat.org/fast/924841.rdf.xml">Fines and Recoveries</term>
             </keywords>
          </textClass>
       </profileDesc>
@@ -161,7 +160,327 @@
    </teiHeader>
    <text>
       <body>
-         <p>Some text here.</p>
+         <pb type="membrane" n="1"/>
+         <head>Gross receipt in Michaelmas term at the end of 29 Edward I and the beginning of 30
+            Edward I in the time of Richard de Bereford, treasurer of Ireland.</head>
+         <div type="week">
+            <div type="day">
+               <head><date when="1301-09-30">Saturday, the morrow of Michaelmas, 29 Edward I [30
+                     September 1301]</date></head>
+               <div>
+                  <opener rend="left-margin">URIEL</opener>
+                  <ab>From Henry de Curcy 5 marks of a fine for trespass.</ab>
+               </div>
+               <div>
+                  <opener rend="left-margin">TRIM</opener>
+                  <ab>John Maungne, 10s. for him and his pledges, for he came not though
+                     mainperned.</ab>
+                  <ab>William de Kent, 10s., for him and his pledges likewise.</ab>
+                  <ab>John Ringere, 1 mark for a false claim against J. de Fresingfeld.</ab>
+                  <ab>Richard fitz John, ½ mark to have a writ.</ab>
+                  <ab>Geoffrey de Geneville, 10s. for debts of divers persons.</ab>
+               </div>
+               <div>
+                  <opener>CORK</opener>
+                  <ab>William de Cauntone, sheriff, £20 for debts of divers persons.</ab>
+                  <ab>Geoffrey de Cogan, £10 for the same.</ab>
+                  <ab>Of profit of the county, 46s.8d. by William de Cauntone, sheriff. </ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Thomas de Salop, chaplain, ½ mark as he did not have a warrant of the king’s
+                     service.</ab>
+                  <ab>Richard, vicar of the church of Moling, 20d. for unjust detention.</ab>
+                  <ab>William, vicar of Donehammore, ½ mark to have a writ.</ab>
+               </div>
+               <div>
+                  <opener>DROGHEDA IN MEATH</opener>
+                  <ab>Farm of the town, 10 marks by Ralph de Bigdone.</ab>
+                  <ab>Farm of the lands of Thomas de Arundel, 20s. by Richard Botild.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Farm of the mills of Taghyanewy, 10s. by Edusam Inmaulouz.</ab>
+               </div>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>Roger Roth, sheriff, £20 of debts of divers persons.</ab>
+                  <ab>The same, 50s. of the profits of the county.</ab>
+               </div>
+               <div>
+                  <opener>KILKENNY</opener>
+                  <ab>Ralph de Monthermer, earl, and J. his wife, £6 of the arrears of their account
+                     by F., seneschal.</ab>
+                  <ab>F., the seneschal, £13 of the debts of divers persons.</ab>
+                  <ab>Of aid promised to the king, £8.13s.4d., by the community of the town of
+                     Kilkenny.</ab>
+               </div>
+               <closer>DAILY SUM RECEIVED: £97.5s. </closer>
+            </div>
+            <div type="day">
+               <head><date when="1301-10-02">Monday 2 October</date></head>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>James de Audelee, 25s. of a fine for trespass.</ab>
+                  <ab>John de Trim, £10 of a fine for the release of a suit for peace.</ab>
+                  <ab>The same John, 5 marks to have licence to plead by bill.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Nicholas de Cruis, 50s. for the wardship and marriage of the lands and the
+                     heir of Jordan Locard.</ab>
+               </div>
+               <closer>SUM: £17.10d.</closer>
+            </div>
+            <div type="day">
+               <head><date when="1301-10-03">Tuesday 3 October</date></head>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>The villata of Loughsewdy, 30s. for the escape of Reginald le Tanner.</ab>
+                  <ab>Robert le Fleming, ½ mark as he came not when summoned.</ab>
+               </div>
+               <div>
+                  <opener>TRIM</opener>
+                  <ab>Of aid promised to the king, £10.6s.8d., by T. de Assheb’.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>John de Wodelok, sheriff, 20s. of the arrears of his account, by Walter de
+                     Burford.</ab>
+                  <ab>William Davillers, 20s. to have licence to make agreement, by the pledge of
+                     Philip Drake.</ab>
+                  <ab>Philip Davillers, ½ mark for unjust detention.</ab>
+                  <ab>Allexander Donethe, ½ mark to have licence to make an agreement with Hugh de
+                     Freines.</ab>
+                  <ab>Robert de Maundeville and Roger de Burford, 26s.8d. of a fine for
+                     trespass.</ab>
+               </div>
+               <div>
+                  <opener>KILDARE</opener>
+                  <ab>Patrick de Rocheford and others, 26s.8d. of a fine, by Alfr’ Maddok.</ab>
+                  <ab>William le Blund de Otimi, 53s.4d. of a fine for trespass.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Robert de Beuver, 20s. of a fine for trespass.</ab>
+                  <ab>Gilbert de Ningg and others, 40s. as he made a false valuation of the chattels
+                     of J. de Ningg.</ab>
+                  <ab>The villata of Molifarnan, 40s. of a fine for trespass.</ab>
+                  <ab>The same, £6 of a fine for having peace.</ab>
+               </div>
+               <closer>SUM: £31.3s.4d.</closer>
+            </div>
+            <div type="day">
+               <head>Wednesday 4 October</head>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>Robert Dromgole, 10s. of a fine for trespass.</ab>
+                  <ab>John Adm, 9s.2d. for the plevin of Richard de Cruis for escape.</ab>
+                  <ab>John de Trim, 4s.4d. of a fine for trespass.</ab>
+               </div>
+               <closer>SUM: 23s.6d.</closer>
+            </div>
+            <div>
+               <head>Thursday 5 October</head>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>Nicholas, archbishop of Armagh, £10 of a fine for trespass.</ab>
+               </div>
+               <div>
+                  <opener>ENGLISH DEBTS BY THE MERCHANTS OF LUCCA</opener>
+                  <ab>From the merchants of the society of the Riccardi of Lucca, £154.3s.7d. of
+                     their English debts, by G. Chimbardi.</ab>
+               </div>
+               <closer>SUM: £164.3s.7d.</closer>
+            </div>
+            <div>
+               <head>Friday 6 October</head>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>William Taillefer, 33s.4d. of a fine for trespass.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Nicholas de Cruis, 50s. for the wardship of the land and the marriage of the
+                     heir of Jordan Locard.</ab>
+               </div>
+               <closer>SUM: £4.3s.4d.</closer>
+            </div>
+            <div>
+               <head>Saturday 7 October</head>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Of the rent of the town of Athlone [Adthelone], £4.13s.4d., by William le
+                     Taverner.</ab>
+                  <ab>John Wodelok, sheriff, 47s.6d. of the debts of divers persons, by Stephen
+                     Wulbot.</ab>
+                  <ab>The same sheriff, 32s.8d. of the same, by Nicholas Benet.</ab>
+                  <ab>John Colin, ½ mark for himself and his pledges, as he did not come after
+                     mainprise.</ab>
+               </div>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>Roger Roth, sheriff, £10 of the debts of divers persons.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Nicholas Rudipak, juror, 4s., as he did not come.</ab>
+               </div>
+               <closer>SUM: £19.4s.2d.</closer>
+            </div>
+            <closer>SUM OF THE WEEKLY RECEIPTS: £236.19s.7d.</closer>
+         </div>
+         <div type="week">
+            <div type="day">
+               <head><date when="1301-10-09">Monday 9 October</date></head>
+               <div>
+                  <opener>KILDARE</opener>
+                  <ab>Of aid promised to the king in county Kildare, £20, by David le Mazener,
+                     sheriff.</ab>
+                  <ab>The same sheriff, £13 of the arrears of his account.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Theobald de Wyk and his associates, 20s. for divers amercements.</ab>
+                  <ab>Master Nicholas de Exeter, archdeacon of Ossory, one mark for himself and his
+                     pledges, as he did not prosecute.</ab>
+                  <ab>Robert Long de Lough, 11s. of a fine for trespass.</ab>
+                  <ab>William fitz William Haket, 40s. to have two writs.</ab>
+                  <ab>John Wodelok, sheriff, 49s. of the debts of divers persons, by William
+                     Boneis.</ab>
+               </div>
+               <closer>SUM: £39.13s.4d.</closer>
+            </div>
+            <div type="day">
+               <head><date when="1301-10-10">Tuesday 10 October</date></head>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Ralph del Nase, ½ mark for not convening a jury to hold a view, as
+                     ordered.</ab>
+               </div>
+               <closer> SUM: 6s.8d.</closer>
+            </div>
+            <pb type="membrane" n="2"/>
+            <div type="day">
+               <head><date when="1301-10-11">Wednesday 11 October</date></head>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Roger de Novo Castro, an Irishman, 20s. for having entry on his tenements at
+                     Swords.</ab>
+                  <ab>Of the issues of the lands late of Cristiana de Mariscis at Killimen [?],
+                     40s., by William Molroni.</ab>
+               </div>
+               <closer>SUM: 60s.</closer>
+            </div>
+            <div type="day">
+               <head><date when="1301-10-12">Thursday 12 October</date></head>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>The farm of the city, £14.6s.8d., by William Calan and J. de Castelknok.</ab>
+                  <ab>Adam Karrik, 8s.4d. of a fine for the death of J. de Suttone, by Adam le
+                     Latimer.</ab>
+               </div>
+               <closer>SUM: £14.15s.</closer>
+            </div>
+            <div type="day">
+               <head><date when="1301-10-13">Friday 13 October</date></head>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>Thomas de Stanlee, 50s. of a fine for release from an indictment.</ab>
+               </div>
+               <div>
+                  <opener>WATERFORD</opener>
+                  <ab>Jordan de Exeter, £10.6s.8d. of the rent of Admethan.</ab>
+               </div>
+               <div>
+                  <opener>KILKENNY</opener>
+                  <ab>Thomas McDermot and Bren, 46s.8d. of a fine to have peace, by Jordan de Exeter
+                     in cows [in vaccis].</ab>
+               </div>
+               <div>
+                  <opener>CONNACHT</opener>
+                  <ab>Of the rent of the lands late of Adam le Fleming, felon, 16d. by the same
+                     Jordan, for two terms.</ab>
+                  <ab>The same receipt from the same of the lands of William le Fleming.</ab>
+               </div>
+               <div>
+                  <opener>DROGHEDA IN URIEL</opener>
+                  <ab>Thomas Page, ½ mark for contempt.</ab>
+               </div>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>William de Clintone and his wife, Isabella, 40s. for the marriage of the said
+                     Isabella.</ab>
+                  <ab>William de Graftone, 20s. of a fine for trespass.</ab>
+                  <ab>John Pope, 5s. for the same.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Simon fitz Simon de Tanelagh, 10s. of a fine for obstructing the holding of a
+                     view.</ab>
+               </div>
+               <closer>SUM: £20.8s.10d.</closer>
+            </div>
+            <div type="day">
+               <head><date when="1301-10-14">Saturday 14 October</date></head>
+               <div>
+                  <opener>WEXFORD</opener>
+                  <ab>Philip le Hore, 20s. of a fine for trespass.</ab>
+                  <ab>Geoffrey Mare, reeve of Edirdrim, ½ mark for the same.</ab>
+                  <ab>William Veyse and John Peris, a mark for the same.</ab>
+                  <ab>Reymund Barry, one mark as he did not come when summoned.</ab>
+                  <ab>Adam de la Roche, seneschal, 106s.8d. of debts of divers persons.</ab>
+               </div>
+               <div>
+                  <opener>KILDARE</opener>
+                  <ab>John de Coventr’, sheriff, £7 of the arrears of his account, by Philip
+                     Houlot.</ab>
+               </div>
+               <div>
+                  <opener>URIEL</opener>
+                  <ab>Richard Gernun, 20s. of a fine for trespass.</ab>
+               </div>
+               <div>
+                  <opener>CONNACHT</opener>
+                  <ab>Henry de Bermingham, sheriff, £31 of the debts of divers persons.</ab>
+               </div>
+               <div>
+                  <opener>KILDARE</opener>
+                  <ab>Of the rent of Thristeldermot and Gavernagh, £7, by Walter Ivethorn.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Roger Simon de Slane, ½ mark as he did not come when summoned.</ab>
+                  <ab>Osbert le Blake de Barainy, ½ mark for the same.</ab>
+                  <ab>Robert Hwe, ½ mark for the same.</ab>
+                  <ab>John Andreu de Graungethiz, ½ mark for the same.</ab>
+               </div>
+               <div>
+                  <opener>CONNACHT</opener>
+                  <ab>Gilbert Linet, 40s. of a fine to have peace.</ab>
+                  <ab>Of the rent of Admekin, £12, by Walter de Ridelesford.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>The arrears of the rent of Esker, 40s. by Henry Kisshok.</ab>
+                  <ab>Adam de Galleth, 10s. for himself and his pledges as he did not come when
+                     mainperned.</ab>
+                  <ab>Adam de Cromelin, sheriff, 30s. of the arrears of his account.</ab>
+               </div>
+               <div>
+                  <opener>LIMERICK</opener>
+                  <ab>Henry le Waleis, sheriff, 26s.8d. of the arrears of his account, by Anastacia,
+                     his wife.</ab>
+               </div>
+               <div>
+                  <opener>DUBLIN</opener>
+                  <ab>Adam de Cromelin, sheriff, 20s. of the arrears of his account, by Richard fitz
+                     Robert.</ab>
+               </div>
+               <closer>SUM: £75.13s.4d.</closer>
+            </div>
+            <closer>SUM OF WEEKLY RECEIPTS: £153.17s.2d.</closer>
+         </div>
       </body>
    </text>
 </TEI>
