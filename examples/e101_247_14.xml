@@ -145,36 +145,56 @@
       <body>
          <pb type="membrane" n="1 recto"/>
 
-         <p>Acquittance of <persName ref='https://kb.beyond2022.ie/person/White_John_0000_a'><forename>John</forename>
-            <surname>White</surname>, <roleName ref='https://kb.beyond2022.ie/occupation/IE/king%27s%20attorney'>attorney</roleName></persName> of the lord king
-            in the <orgName>Irish exchequer</orgName>, that he received in the <orgName>Common
-               Bench</orgName> from <persName><forename>Hugh</forename>
-               <surname>Burgh</surname>, <roleName>treasurer</roleName> and the
-                  <roleName>chamberlain</roleName></persName> of the aforesaid
-               <orgName>exchequer</orgName>
+         <p>Acquittance of <persName ref="https://kb.beyond2022.ie/person/White_John_0000_a"
+                  ><forename>John</forename>
+               <surname>White</surname>, <roleName
+                  ref="https://kb.beyond2022.ie/occupation/IE/king%27s%20attorney"
+                  >attorney</roleName></persName> of the lord king in the <orgName
+               ref="https://kb.beyond2022.ie/office/IE/chamberlain%20of%20the%20exchequer">Irish
+               exchequer</orgName>, that he received in the <orgName
+               ref="https://kb.beyond2022.ie/organisation/IE/Common%20bench">Common Bench</orgName>
+            from <persName ref="https://kb.beyond2022.ie/person/Burgh_Hugh_0000_a"
+                  ><forename>Hugh</forename>
+               <surname>Burgh</surname>, <roleName
+                  ref="https://kb.beyond2022.ie/office/IE/treasurer%20of%20Ireland"
+                  >treasurer</roleName> and the <roleName
+                  ref="https://kb.beyond2022.ie/office/IE/chamberlain%20of%20the%20exchequer"
+                  >chamberlain</roleName></persName> of the aforesaid <orgName
+               ref="https://kb.beyond2022.ie/organisation/IE/Great%20exchequer">exchequer</orgName>
             <measure type="currency">50s</measure> of his annual fee of <measure type="currency"
-               >100s</measure>. At the <orgName>exchequer</orgName>, <date type="regnal"
-               when="1420-07-25">25 July [1420] 8 Henry V.</date></p>
+               >100s</measure>. At the <orgName
+               ref="ttps://kb.beyond2022.ie/organisation/IE/Great%20exchequer">exchequer</orgName>,
+               <date type="regnal" when="1420-07-25">25 July [1420] 8 Henry V</date>.</p>
 
          <pb type="membrane" n="1 verso"/>
          <gap reason="blank page"/>
 
          <pb type="membrane" n="2 recto"/>
-         <p><persName><forename>Henry</forename>
+         <p><persName ref="https://kb.beyond2022.ie/person/2184_Henry_0000_u"
+                  ><forename>Henry</forename>
                <genName>V</genName></persName> to the treasurer and chamberlains of the Irish
             exchequer. With reference to letter patent <date type="regnal" when="1412-03-18">18
-               March [1412] 1 Henry V</date> appointing <persName><forename>John</forename>
-               <surname>White</surname></persName> as <roleName>king’s attorney</roleName> in the
-               <orgName>exchequer</orgName> and <orgName>Common Bench</orgName>, order to grant him
-               <measure type="currency">50s</measure> of the arrears of his fee from <date
-               type="regnal" when="1414-03-18">18 March [1414] 1 Henry V</date>, on which day he was
-            appointed by assent of <persName>Thomas, <roleName type="ecclesiastical">archbishop of
-                  Dublin</roleName></persName>, then <roleName type="secular">justiciar of
+               March [1412] 1 Henry V</date> appointing <persName
+               ref="https://kb.beyond2022.ie/person/White_John_0000_a"><forename>John</forename>
+               <surname>White</surname></persName> as <roleName
+               ref="https://kb.beyond2022.ie/occupation/IE/king%27s%20attorney">king’s
+               attorney</roleName> in the <orgName
+               ref="https://kb.beyond2022.ie/organisation/IE/Great%20excheque">exchequer</orgName>
+            and <orgName ref="https://kb.beyond2022.ie/organisation/IE/Common%20bench">Common
+               Bench</orgName>, order to grant him <measure type="currency">50s</measure> of the
+            arrears of his fee from <date type="regnal" when="1414-03-18">18 March [1414] 1 Henry
+               V</date>, on which day he was appointed by assent of
+                  <persName><forename>Thomas</forename>, <roleName>archbishop of
+               Dublin</roleName></persName>, then <roleName
+               ref="https://kb.beyond2022.ie/office/IE/justiciar%20of%20Ireland">justiciar of
                Ireland</roleName>, during good behaviour taking a fee of <measure type="currency"
                >100s</measure> annually until <date when="1420-07-24">24 July [1420]</date> last.
-            Endorsed by <persName>James Butler, earl of Ormond, <roleName>lieutenant of
-                  Ireland</roleName></persName>. Dublin <date type="regnal" when="1420-07-25">25
-               July [1420] 8 Henry V.</date></p>
+            Endorsed by <persName ref="https://kb.beyond2022.ie/person/Butler_James_C15_a"
+                  ><forename>James</forename>
+               <surname>Butler</surname>, <roleName>earl of Ormond</roleName>, <roleName
+                  ref="https://kb.beyond2022.ie/office/IE/king%27s%20lieutenant%20of%20Ireland"
+                  >lieutenant of Ireland</roleName></persName>. <placeName>Dublin</placeName> <date type="regnal"
+               when="1420-07-25">25 July [1420] 8 Henry V.</date></p>
          <note>For the bibliography, in CIRCLE here:
             https://chancery.tcd.ie/document/Close/8-henry-v/9</note>
 
