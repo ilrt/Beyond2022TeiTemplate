@@ -145,8 +145,8 @@
       <body>
          <pb type="membrane" n="1 recto"/>
 
-         <p>Acquittance of <persName><forename>John</forename>
-               <surname>White</surname>, <roleName>attorney</roleName></persName> of the lord king
+         <p>Acquittance of <persName ref='https://kb.beyond2022.ie/person/White_John_0000_a'><forename>John</forename>
+            <surname>White</surname>, <roleName ref='https://kb.beyond2022.ie/occupation/IE/king%27s%20attorney'>attorney</roleName></persName> of the lord king
             in the <orgName>Irish exchequer</orgName>, that he received in the <orgName>Common
                Bench</orgName> from <persName><forename>Hugh</forename>
                <surname>Burgh</surname>, <roleName>treasurer</roleName> and the
@@ -160,15 +160,21 @@
          <gap reason="blank page"/>
 
          <pb type="membrane" n="2 recto"/>
-         <p><persName><forename>Henry</forename> <genName>V</genName></persName> to the treasurer and chamberlains of the Irish exchequer. With reference to
-            letter patent <date type="regnal" when="1412-03-18">18 March [1412] 1 Henry V</date>
-            appointing <persName><forename>John</forename> <surname>White</surname></persName> as <roleName>king’s attorney</roleName> in the <orgName>exchequer</orgName> and <orgName>Common Bench</orgName>, order to
-            grant him <measure type="currency">50s</measure> of the arrears of his fee from <date type="regnal" when="1414-03-18">18
-               March [1414] 1 Henry V</date>, on which day he was appointed by assent of <persName>Thomas,
-            <roleName type="episcopal">archbishop of Dublin</roleName></persName>, then justiciar of Ireland, during good behaviour taking a fee of
-            100s annually until <date when="1420-07-24">24 July [1420]</date> last.
-            Endorsed by James Butler, earl of Ormond, lieutenant of Ireland. Dublin <date
-               type="regnal" when="1420-07-25">25 July [1420] 8 Henry V.</date></p>
+         <p><persName><forename>Henry</forename>
+               <genName>V</genName></persName> to the treasurer and chamberlains of the Irish
+            exchequer. With reference to letter patent <date type="regnal" when="1412-03-18">18
+               March [1412] 1 Henry V</date> appointing <persName><forename>John</forename>
+               <surname>White</surname></persName> as <roleName>king’s attorney</roleName> in the
+               <orgName>exchequer</orgName> and <orgName>Common Bench</orgName>, order to grant him
+               <measure type="currency">50s</measure> of the arrears of his fee from <date
+               type="regnal" when="1414-03-18">18 March [1414] 1 Henry V</date>, on which day he was
+            appointed by assent of <persName>Thomas, <roleName type="ecclesiastical">archbishop of
+                  Dublin</roleName></persName>, then <roleName type="secular">justiciar of
+               Ireland</roleName>, during good behaviour taking a fee of <measure type="currency"
+               >100s</measure> annually until <date when="1420-07-24">24 July [1420]</date> last.
+            Endorsed by <persName>James Butler, earl of Ormond, <roleName>lieutenant of
+                  Ireland</roleName></persName>. Dublin <date type="regnal" when="1420-07-25">25
+               July [1420] 8 Henry V.</date></p>
          <note>For the bibliography, in CIRCLE here:
             https://chancery.tcd.ie/document/Close/8-henry-v/9</note>
 
