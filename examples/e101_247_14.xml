@@ -109,7 +109,7 @@
          </langUsage>
          <!-- Details about the creation of the text. -->
          <creation>
-            <date when="1420-07-08">8 July [1420]</date>
+            <date from="1420-03-21" to="1422-03-20">21 March 1301 to 20 March 1302</date>
          </creation>
          <!-- Beyond 2022 knowledge graph. For people, places and organizations/offices -->
          <textClass>
@@ -167,9 +167,11 @@
                <date type="regnal" when="1420-07-25">25 July [1420] 8 Henry V</date>.</p>
 
          <pb type="membrane" n="1 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="2 recto"/>
+
          <p><persName ref="https://kb.beyond2022.ie/person/2184_Henry_0000_u"
                   ><forename>Henry</forename>
                <genName>V</genName></persName> to the treasurer and chamberlains of the Irish
@@ -193,169 +195,217 @@
                   ><forename>James</forename>
                <surname>Butler</surname>, <roleName>earl of Ormond</roleName>, <roleName
                   ref="https://kb.beyond2022.ie/office/IE/king%27s%20lieutenant%20of%20Ireland"
-                  >lieutenant of Ireland</roleName></persName>. <placeName>Dublin</placeName> <date type="regnal"
-               when="1420-07-25">25 July [1420] 8 Henry V.</date></p>
-         <note>For the bibliography, in CIRCLE here:
-            https://chancery.tcd.ie/document/Close/8-henry-v/9</note>
+                  >lieutenant of Ireland</roleName></persName>. <placeName>Dublin</placeName>
+            <date type="regnal" when="1420-07-25">25 July [1420] 8 Henry V</date>. <note
+               type="footnote">For the bibliography, in CIRCLE here <ref
+                  target="https://chancery.tcd.ie/document/Close/8-henry-v/9"
+                  >https://chancery.tcd.ie/document/Close/8-henry-v/9</ref>
+            </note></p>
 
          <pb type="membrane" n="2 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="3 recto"/>
-         <p>Henry V to the treasurer and the chamberlains of the Irish exchequer. John
-            Passevaunt.</p>
-         <note>this writ is heavily faded and needs to be looked at under UV light- EB]</note>
-         <note>https://chancery.tcd.ie/document/close/8-henry-v/12]</note>
+
+         <p>Henry V to the treasurer and the chamberlains of the Irish exchequer. John Passevaunt.
+               <note type="footnote"><ref
+                  target="https://chancery.tcd.ie/document/close/8-henry-v/12"
+                  >https://chancery.tcd.ie/document/close/8-henry-v/12</ref>. This writ is heavily
+               faded and needs to be looked at under UV light.</note></p>
 
          <pb type="membrane" n="3 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="4 recto"/>
+
          <p>Acquittance of Henry Strangeways, chief chamberlain of the exchequer in Ireland, that he
             received from Hugh Burgh, knight, treasurer and the chamberlains of the exchequer 66s 8d
-            of his annual fee of 10 marks. At the exchequer 15 July [1420] 8 Henry V.</p>
+            of his annual fee of 10 marks. At the exchequer <date type="regnal" when="1420-07-15">15
+               July [1420] 8 Henry V</date>.</p>
 
          <pb type="membrane" n="4 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="5 recto"/>
+
          <p>Henry V to the treasurer of Ireland or his deputy and the chamberlains of the exchequer.
-            Confirming grants of 26 January [1405] 6 Henry IV under the great seal of Ireland,
-            letters patent 2 March [1410] 11 Henry IV under the great seal of England, and grant 29
-            May [1414] 2 Henry V, to Henry Strangeways of the office of chief chamberlain of the
-            Irish exchequer for life, at a fee of 10 marks and robes annually received at the
-            exchequer, as Robert Sutton had had as chief chamberlain.</p>
+            Confirming grants of <date type="regnal" when="1405-01-26">26 January [1405] 6 Henry
+               IV</date> under the great seal of Ireland, letters patent <date type="regnal"
+               when="1410-03-02">2 March [1410] 11 Henry IV</date> under the great seal of England,
+            and grant 29 May [1414] 2 Henry V, to Henry Strangeways of the office of chief
+            chamberlain of the Irish exchequer for life, at a fee of 10 marks and robes annually
+            received at the exchequer, as Robert Sutton had had as chief chamberlain.</p>
 
-         <p>Endorsed by James Butler, earl of Ormond, lieutenant, Dublin 13 July [1420] 8 Henry
-            V.</p>
-
-         <note>[https://chancery.tcd.ie/document/patent/2-henry-v/116]</note>
+         <p>Endorsed by James Butler, earl of Ormond, lieutenant, Dublin <date type="regnal"
+               when="1420-07-13">13 July [1420] 8 Henry V</date>.<note type="footnote"><ref
+                  target="https://chancery.tcd.ie/document/patent/2-henry-v/116"
+                  >https://chancery.tcd.ie/document/patent/2-henry-v/116</ref></note></p>
 
          <pb type="membrane" n="5 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="6 recto"/>
-         <p>Acquittance of Hugh Burgh, knight, treasurer of Ireland that he had received £36 6s 10½
-            d completing his fee of 3s 4d per day. At the exchequer 16 July [1420] 8 Henry V.</p>
+
+         <p>Acquittance of Hugh Burgh, knight, treasurer of Ireland that he had received <measure
+               type="currency">£36 6s 10½ d</measure> completing his fee of 3s 4d per day. At the
+            exchequer <date type="regnal" when="1420-07-16">16 July [1420] 8 Henry V</date>.</p>
 
          <pb type="membrane" n="6 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="7 recto"/>
+
          <p>Henry V to treasurer and chamberlains of the Irish exchequer. Hugh Burgh, treasurer of
             Ireland, has pleaded that he was appointed to that office by letters patent, and granted
             the customary fee, and that some treasurers of Ireland before this time received £40
             yearly and 5s daily, others received £40 yearly and and 6s 8d daily. He seeks a
-            competent reward beyond the customary fee from 18 Sept. [1414] 2 Henry V, when he was
-            sworn into office, and thereafter for as long as he held the office. Of the king's
-            special grace and by assent of John Talbot of Halomshire, former lieutenant of Ireland,
-            and the king’'s council of the same land, the king granted Hugh 3s 4d a day from the
-            said 18 September [1414] and thereafter for as long as he held that office.</p>
+            competent reward beyond the customary fee from <date type="regnal" when="1414-09-18">18
+               Sept. [1414] 2 Henry V</date>, when he was sworn into office, and thereafter for as
+            long as he held the office. Of the king's special grace and by assent of John Talbot of
+            Halomshire, former lieutenant of Ireland, and the king’'s council of the same land, the
+            king granted Hugh 3s 4d a day from the said 18 September [1414] and thereafter for as
+            long as he held that office.</p>
          <p>Wishing to be informed as to the arrears of Hugh, the king ordered the treasurer and
             chamberlains to search the rolls, records, and memoranda of the exchequer, returning
             their findings in chancery under the seal of the exchequer. They returned that his
-            arrears from 18 Sept. [1414] until 9 July [1420] last amount to £74 18s 7 ½d. They are
-            to pay Hugh that sum, receiving from Hugh letters of acquittance. Endorsed by James
-            Butler, earl of Ormond, lieutenant of Ireland at Dublin 10 July [1420] 8 Henry V.</p>
-         <note>[https://chancery.tcd.ie/document/patent/2-henry-v/116</note>
-         <note>https://chancery.tcd.ie/document/Close/8-henry-v/5]</note>
-
+            arrears from <date when="1414-09-18">18 Sept. [1414]</date> until <date
+               when="1420-07-09">9 July [1420]</date> last amount to £74 18s 7 ½d. They are to pay
+            Hugh that sum, receiving from Hugh letters of acquittance. Endorsed by James Butler,
+            earl of Ormond, lieutenant of Ireland at Dublin <date type="regnal" when="1420-07-10">10
+               July [1420] 8 Henry V</date>. <note type="footnote"><ref
+                  target="https://chancery.tcd.ie/document/patent/2-henry-v/116"
+                  >https://chancery.tcd.ie/document/patent/2-henry-v/116</ref> and <ref
+                  target="https://chancery.tcd.ie/document/Close/8-henry-v/5"
+                  >https://chancery.tcd.ie/document/Close/8-henry-v/5</ref></note></p>
 
          <pb type="membrane" n="7 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="8 recto"/>
+
          <p>Acquittance from John Batman chirographer and keeper of the records of the Common Bench
             of Ireland, receiving from Hugh Burgh treasurer and the chamberlains of the Irish
-            exchequer in Ireland 25s of his fee of 100s yearly. At the exchequer, 4 July [1420] 8
-            Henry V. </p>
+            exchequer in Ireland 25s of his fee of 100s yearly. At the exchequer, <date
+               type="regnal" when="1420-07-04">4 July [1420] 8 Henry V</date>.</p>
 
          <pb type="membrane" n="8 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="9 recto"/>
+
          <p>Henry V to the treasurer or his deputy and the chamberlains of the Irish exchequer.
             Henry IV, father of the present king, granted to John Bateman, during good behavior, the
             office of chirographer and keeper of the records of the Common Bench at the usual fee of
-            100s yearly. By letters patent of England 13 June [1413] 1 Henry V confirmed John
-            Bateman in that office. </p>
-         <p>Wishing to be informed as to the arrears of his 100s fee from 12 November [1413] 1 Henry
-            V, when John was sworn into office as John fitz Adam, former chief justice of the Common
-            Bench of Ireland, has testified before the king in the Irish chancery, the king ordered
-            the treasurer and chamberlains to search the rolls and memoranda in the exchequer,
-            returning their findings in chancery under the exchequer seal. They returned that his
-            arrears from 12 Nov. [1413] until 20 June [1420] last amount to 25s. He orders them to
-            pay him those 25s; and, moreover, they are to pay him those 100s per annum henceforth
-            annually, receiving from him letters of acquittance. Endorsed by James Butler, earl of
-            Ormond, lieutenant of Ireland Dublin 24 July [1420] 8 Henry V. </p>
-         <note>[https://chancery.tcd.ie/document/Close/8-henry-v/8]</note>
+            100s yearly. By letters patent of England <date type="regnal" when="1413-06-13">13 June
+               [1413] 1 Henry V</date> confirmed John Bateman in that office. </p>
+         <p>Wishing to be informed as to the arrears of his 100s fee from <date type="regnal"
+               when="1413-11-12">12 November [1413] 1 Henry V</date>, when John was sworn into
+            office as John fitz Adam, former chief justice of the Common Bench of Ireland, has
+            testified before the king in the Irish chancery, the king ordered the treasurer and
+            chamberlains to search the rolls and memoranda in the exchequer, returning their
+            findings in chancery under the exchequer seal. They returned that his arrears from 12
+            Nov. [1413] until 20 June [1420] last amount to 25s. He orders them to pay him those
+            25s; and, moreover, they are to pay him those 100s per annum henceforth annually,
+            receiving from him letters of acquittance. Endorsed by James Butler, earl of Ormond,
+            lieutenant of Ireland Dublin <date type="regnal" when="1420-07-24">24 July [1420] 8
+               Henry V</date>. <note type="footnote"><ref
+                  target="https://chancery.tcd.ie/document/Close/8-henry-v/8"
+                  >https://chancery.tcd.ie/document/Close/8-henry-v/8</ref></note></p>
 
          <pb type="membrane" n="9 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="10 recto"/>
+
          <p>Acquittance of John Blakeney, chief justice of the Common Bench in Ireland, that he had
             received from Hugh Burgh, knight, treasurer and the chamberlains of the Irish exchequer
-            £8 4¾d of his fee of £40 yearly. At the exchequer 20 July [1420] 8 Henry V. </p>
-         <note>[related to https://chancery.tcd.ie/document/patent/8-henry-v/24]</note>
+            £8 4¾d of his fee of £40 yearly. At the exchequer <date type="regnal" when="1420-07-20"
+               >20 July [1420] 8 Henry V</date>. <note type="footnote">Related to <ref
+                  target="https://chancery.tcd.ie/document/patent/8-henry-v/24"
+                  >https://chancery.tcd.ie/document/patent/8-henry-v/24 </ref></note></p>
 
          <pb type="membrane" n="10 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="11 recto"/>
+
          <p>Acquittance of Stephen Bray, chief justice of the King’s Bench in Ireland, that he had
             received from Hugh Burgh, knight, treasurer and the chamberlains of the Irish Exchequer
-            £26 13s 4d of his fee of £40 yearly and 40d daily. At the exchequer, 23 July [1420] 8
-            Henry V. </p>
+               <measure type="currency">£26 13s 4d</measure> of his fee of £40 yearly and 40d daily.
+            At the exchequer, <date type="regnal" when="1420-07-23">23 July [1420] 8 Henry V</date>. </p>
+
          <pb type="membrane" n="11 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="12 recto"/>
+
          <p>Acquittance of Thomas Brown [Broune] clerk of the crown in the Irish chancery that he
             had received from Hugh Burgh, knight, treasurer, and the chamberlains of the Irish
-            exchequer 66s 8d of his fee of 10 marks yearly. At the exchequer, 3 July [1420] 8 Henry
-            V. </p>
+            exchequer 66s 8d of his fee of 10 marks yearly. At the exchequer, <date type="regnal"
+               when="1420-07-03">3 July [1420] 8 Henry V</date>.</p>
+
          <pb type="membrane" n="12 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="13 recto"/>
-         <p>Henry V to the treasurer or his deputy and the chamberlains of the Irish exchequer. On
-            account of his fidelity and circumspection, having granted to John Blakeney on 26 April
-            [1420] last the office of chief justice of the Common Bench in Ireland, to hold during
-            good behaviour by letter patent, receiving the customary fee and wages. Wishing to be
-            informed of the arrears of his fees from 26 April last to 9 July last, the king ordered
-            the treasurer and chamberlains of the exchequer to search the rolls and records. They
-            returned that the arrears of John’s fee of £40 annually, which other chief justices of
-            the Common Bench were accustomed to receive before this time, from 26 April until 9
-            July, that is 75 days inclusive, are £8 4s ¾d. The king orders them to pay John the said
-            £8 4s ¾d and the £40 annually of his fee year by year and term by term. They are also to
-            receive from John letters of acquittance. Endorsed by James Butler, earl of Ormond,
-            lieutenant of Ireland at Dublin, 10 July [1420] 8 Henry V. </p>
-         <note> https://chancery.tcd.ie/document/close/8-henry-v/4</note>
 
+         <p>Henry V to the treasurer or his deputy and the chamberlains of the Irish exchequer. On
+            account of his fidelity and circumspection, having granted to John Blakeney on <date
+               when="1420-04-26">26 April [1420]</date> last the office of chief justice of the
+            Common Bench in Ireland, to hold during good behaviour by letter patent, receiving the
+            customary fee and wages. Wishing to be informed of the arrears of his fees from <date
+               when="1420-04-26">26 April last</date> to <date when="1420-04-09">9 July last</date>,
+            the king ordered the treasurer and chamberlains of the exchequer to search the rolls and
+            records. They returned that the arrears of John’s fee of £40 annually, which other chief
+            justices of the Common Bench were accustomed to receive before this time, from 26 April
+            until 9 July, that is 75 days inclusive, are £8 4s ¾d. The king orders them to pay John
+            the said £8 4s ¾d and the £40 annually of his fee year by year and term by term. They
+            are also to receive from John letters of acquittance. Endorsed by James Butler, earl of
+            Ormond, lieutenant of Ireland at Dublin, <date type="regnal" when="1420-07-10">10 July
+               [1420] 8 Henry V</date>. <note type="footnote"><ref
+                  target="https://chancery.tcd.ie/document/close/8-henry-v/4"
+                  >https://chancery.tcd.ie/document/close/8-henry-v/4</ref></note></p>
 
          <pb type="membrane" n="13 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="14 recto"/>
+
          <p>Henry V to the treasurer of Ireland or his deputy, and the chamberlains of the Irish
-            Exchequer. Having appointed on 28 September [1413] 1 Henry V by letter patent Stephen
-            Bray as chief justice of King’s Bench in Ireland, to have in that office the fees that
-            the same Stephen had in the same office in the time of Henry IV, [the king’s] father.
-            Wishing to know Stephen’s arrears from 28 September [1413] to 12 July [1420] last, the
-            king ordered the treasurer and chamberlains to search the records of the exchequer and
-            to return their findings in chancery. They returned that of Stephen’s fee of £40
-            annually and 40d daily, the arrears from 28 September until 28 June last are £487 12s
-            2d. The king orders them to pay the £487 12s 2d and to pay Stephen’s wages year by year,
-            term by term, receiving from the said Stephen letters of acquittance. Endorsed by James
-            Butler, earl of Ormond, lieutenant of Ireland, at Dublin 13 July [1420] 8 Henry V. </p>
-         <note> https://chancery.tcd.ie/document/close/8-henry-v/6</note>
+            Exchequer. Having appointed on <date type="regnal" when="1413-09-28">28 September [1413]
+               1 Henry V</date> by letter patent Stephen Bray as chief justice of King’s Bench in
+            Ireland, to have in that office the fees that the same Stephen had in the same office in
+            the time of Henry IV, [the king’s] father. Wishing to know Stephen’s arrears from 28
+            September [1413] to 12 July [1420] last, the king ordered the treasurer and chamberlains
+            to search the records of the exchequer and to return their findings in chancery. They
+            returned that of Stephen’s fee of £40 annually and 40d daily, the arrears from 28
+            September until 28 June last are £487 12s 2d. The king orders them to pay the <measure
+               type="currency">£487 12s 2d</measure> and to pay Stephen’s wages year by year, term
+            by term, receiving from the said Stephen letters of acquittance. Endorsed by James
+            Butler, earl of Ormond, lieutenant of Ireland, at Dublin <date type="regnal"
+               when="1420-07-13">13 July [1420] 8 Henry V</date>. <note type="footnote"><ref
+                  target="https://chancery.tcd.ie/document/close/8-henry-v/6"
+                  >https://chancery.tcd.ie/document/close/8-henry-v/6</ref></note></p>
 
 
          <pb type="membrane" n="14 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="15 recto"/>
+
          <p>Henry V to the treasurer of Ireland or his deputy, and the chamberlains of the Irish
             exchequer. When his father, Henry IV, <gap reason="damaged"/><supplied>12</supplied>
             January [1402] 3 Henry IV by letters patent and he has confirmed on 31 January [1414] 1
@@ -367,34 +417,44 @@
             January until 2 May last, has ordered the treasurer and chamberlains to search the
             records of the exchequer <gap reason="damaged"/> and to return their findings in
             chancery. They returned that the arrears of Thomas’ fee of 10 marks annually <gap
-               reason="damaged"/> until 20 March [1413] 14 Henry IV were £25 12s 8d and similarly
-            the arrears of the said Thomas of his fee <gap reason="damaged"/> January to 2 May last,
-            viz six and a quarter years complete, £29 18s 8d <gap reason="damaged"/>. The king
-            orders them to pay Thomas £25 12s 8d <gap reason="damaged"/> and £29 18s 8d, <gap
+               reason="damaged"/> until <date type="regnal" when="">20 March [1413] 14 Henry
+               IV</date> were <measure type="currency">£25 12s 8d</measure> and similarly the
+            arrears of the said Thomas of his fee <gap reason="damaged"/> January to 2 May last, viz
+            six and a quarter years complete, <measure type="currency">£29 18s 8d</measure>
+            <gap reason="damaged"/>. The king orders them to pay Thomas <measure type="currency">£25
+               12s 8d</measure>
+            <gap reason="damaged"/> and <measure type="currency">£29 18s 8d</measure>, <gap
                reason="damaged"/> and to pay his fee year by year, term by term during the time of
             the life of the said Thomas, <gap reason="damaged"/>
             <supplied>receiving</supplied> acquittance from him. Endorsed by James Butler, earl of
-            Ormond, lieutenant of Ireland, at Dublin 8 July <gap reason="damaged"/>. </p>
-         <note>https://chancery.tcd.ie/document/close/8-henry-v/2</note>
+            Ormond, lieutenant of Ireland, at Dublin 8 July <gap reason="damaged"/>. <note
+               type="footnote"><ref target="https://chancery.tcd.ie/document/close/8-henry-v/2"
+                  >https://chancery.tcd.ie/document/close/8-henry-v/2</ref></note></p>
 
 
          <pb type="membrane" n="15 verso"/>
-         <gap reason="blank page"/>
+
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="16 recto"/>
+
          <p>Acquittance of John Passegent, clerk, keeper or clerk of the hanaper of chancery in
             Ireland, that he had received from Hugh Burgh, and the chamberlains of the exchequer 50s
-            of his fee. At the exchequer, [illeg] [1420] 8 Henry V </p>
+            of his fee. At the exchequer, <date type="regnal" when="1420"><unclear
+                  reason="illegible"/> [1420] 8 Henry V</date></p>
+
          <pb type="membrane" n="16 verso"/>
-         <gap reason="blank page"/>
+         <gap reason="blank membrane"/>
 
          <pb type="membrane" n="17 recto"/>
-         <p>Acquittance of Sir Laurence M[er]bury, chancellor of Ireland that he has received from
-            Hugh Burgh, treasurer and the chamberlains of the exchequer ??? in part satisfaction of
-            the arrears of his fee. At the exchequer 11 July [1420] 8 Henry V. </p>
-         <pb type="membrane" n="16 verso"/>
-         <gap reason="blank page"/>
 
+         <p>Acquittance of Sir Laurence M<ex>er</ex>]bury, chancellor of Ireland that he has
+            received from Hugh Burgh, treasurer and the chamberlains of the exchequer ??? in part
+            satisfaction of the arrears of his fee. At the exchequer <date type="regnal"
+               when="1420-07-11">11 July [1420] 8 Henry V</date>. </p>
+
+         <pb type="membrane" n="16 verso"/>
+         <gap reason="blank membrane"/>
 
       </body>
    </text>
