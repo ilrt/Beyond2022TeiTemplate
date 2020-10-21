@@ -191,7 +191,7 @@
     </xsl:template>
 
     <xsl:template name="repository-id">
-        <fo:block font-family="{$font}" space-before="12pt" font-size="10pt" text-align="left">
+        <fo:block border-bottom-width="1px" padding-bottom="12px" margin-bottom="12px" border-bottom-style="solid" font-family="{$font}" space-before="12pt" font-size="10pt" text-align="left">
             <xsl:value-of
                 select="normalize-space(//tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:repository)"/>
             <xsl:text>, </xsl:text>
