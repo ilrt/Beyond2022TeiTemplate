@@ -130,7 +130,7 @@
          </langUsage>
          <!-- Details about the creation of the text. -->
          <creation>
-            <date from="1301-09-30" to="1302-09-29">30 September to 29 September 1302</date>
+            <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
          </creation>
          <!-- Beyond 2022 knowledge graph. For people, places and organizations/offices -->
          <textClass>
@@ -160,8 +160,10 @@
    </teiHeader>
    <text>
       <body>
-         <div type="term">
-            <head>Michaelmas</head>
+         <div type="term" n="Michaelmas">
+            <pb type="membrane" n="1"/>
+            <head>Gross receipt in Michaelmas term at the end of 29 Edward I and the beginning of 30
+               Edward I in the time of Richard de Bereford, treasurer of Ireland. </head>
             <div n="1" type="week">
                <div type="day">
                   <head><date when="1301-09-30">Saturday 30 September</date></head>
@@ -172,15 +174,15 @@
                   </div>
                   <div>
                      <opener>TRIM</opener>
-                     <ab>John Maungne, <measure type="currency">10s.</measure> for him and his
+                     <ab>John Maungne, <measure type="currency">10s</measure> for him and his
                         pledges, for he came not though mainperned.</ab>
-                     <ab>William de Kent, <measure type="currency">10s.</measure>, for him and his
+                     <ab>William de Kent, <measure type="currency">10s</measure>, for him and his
                         pledges likewise.</ab>
                      <ab>John Ringere, <measure type="currency">1 mark</measure> for a false claim
                         against J. de Fresingfeld.</ab>
                      <ab>Richard fitz John, <measure type="currency">½ mark</measure> to have a
                         writ.</ab>
-                     <ab>Geoffrey de Geneville, <measure type="currency">10s.</measure> for debts of
+                     <ab>Geoffrey de Geneville, <measure type="currency">10s</measure> for debts of
                         divers persons.</ab>
                   </div>
                   <div>
@@ -189,7 +191,7 @@
                         debts of divers persons.</ab>
                      <ab>Geoffrey de Cogan, <measure type="currency">£10</measure> for the
                         same.</ab>
-                     <ab>Of profit of the county, <measure type="currency">46s.8d.</measure> by
+                     <ab>Of profit of the county, <measure type="currency">46s 8d</measure> by
                         William de Cauntone, sheriff.</ab>
                   </div>
                   <div>
@@ -197,7 +199,7 @@
                      <ab>Thomas de Salop, chaplain, <measure type="currency">½ mark</measure> as he
                         did not have a warrant of the king's service.</ab>
                      <ab>Richard, vicar of the church of Moling, <measure type="currency"
-                           >20d.</measure> for unjust detention.</ab>
+                           >20d</measure> for unjust detention.</ab>
                      <ab>William, vicar of Donehammore, <measure type="currency">½ mark</measure> to
                         have a writ.</ab>
                   </div>
@@ -206,18 +208,18 @@
                      <ab>Farm of the town, <measure type="currency">10 marks</measure> by Ralph de
                         Bigdone.</ab>
                      <ab>Farm of the lands of Thomas de Arundel, <measure type="currency"
-                           >20s.</measure> by Richard Botild.</ab>
+                           >20s</measure> by Richard Botild.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Farm of the mills of Taghyanewy, <measure type="currency">10s.</measure> by
+                     <ab>Farm of the mills of Taghyanewy, <measure type="currency">10s</measure> by
                         Edusam Inmaulouz.</ab>
                   </div>
                   <div>
                      <opener>URIEL</opener>
                      <ab>Roger Roth, sheriff, <measure type="currency">£20</measure> of debts of
                         divers persons.</ab>
-                     <ab>The same, <measure type="currency">50s.</measure> of the profits of the
+                     <ab>The same, <measure type="currency">50s</measure> of the profits of the
                         county.</ab>
                   </div>
                   <div>
@@ -226,10 +228,10 @@
                            >£6</measure> of the arrears of their account by F., seneschal.</ab>
                      <ab>F., the seneschal, <measure type="currency">£13</measure> of the debts of
                         divers persons.</ab>
-                     <ab>Of aid promised to the king, <measure type="currency">£8.13s.4d.</measure>,
+                     <ab>Of aid promised to the king, <measure type="currency">£8 13s 4d</measure>,
                         by the community of the town of Kilkenny.</ab>
                   </div>
-                  <closer>DAILY SUM RECEIVED: <measure type="currency">£97.5s.</measure></closer>
+                  <closer>DAILY SUM RECEIVED: <measure type="currency">£97 5s</measure></closer>
                </div>
             </div>
             <div n="2" type="week">
@@ -237,7 +239,7 @@
                   <head><date when="1301-10-02">Monday 2 October</date></head>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>James de Audelee, <measure type="currency">25s.</measure> of a fine for
+                     <ab>James de Audelee, <measure type="currency">25s</measure> of a fine for
                         trespass.</ab>
                      <ab>John de Trim, <measure type="currency">£10</measure> of a fine for the
                         release of a suit for peace.</ab>
@@ -246,70 +248,70 @@
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Nicholas de Cruis, <measure type="currency">50s.</measure> for the wardship
+                     <ab>Nicholas de Cruis, <measure type="currency">50s</measure> for the wardship
                         and marriage of the lands and the heir of Jordan Locard.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£17.20d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£17 20d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-03">Tuesday 3 October</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>The villata of Loughsewdy, <measure type="currency">30s.</measure> for the
+                     <ab>The villata of Loughsewdy, <measure type="currency">30s</measure> for the
                         escape of Reginald le Tanner.</ab>
                      <ab>Robert le Fleming, <measure type="currency">½ mark</measure> as he came not
                         when summoned.</ab>
                   </div>
                   <div>
                      <opener>TRIM</opener>
-                     <ab>Of aid promised to the king, <measure type="currency">£10.6s.8d.</measure>,
+                     <ab>Of aid promised to the king, <measure type="currency">£10 6s 8d</measure>,
                         by T. de Assheb'.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>John de Wodelok, sheriff, <measure type="currency">20s.</measure> of the
+                     <ab>John de Wodelok, sheriff, <measure type="currency">20s</measure> of the
                         arrears of his account, by Walter de Burford.</ab>
-                     <ab>William Davillers, <measure type="currency">20s.</measure> to have licence
+                     <ab>William Davillers, <measure type="currency">20s</measure> to have licence
                         to make agreement, by the pledge of Philip Drake.</ab>
                      <ab>Philip Davillers, <measure type="currency">½ mark</measure> for unjust
                         detention.</ab>
                      <ab>Allexander Donethe, <measure type="currency">½ mark</measure> to have
                         licence to make an agreement with Hugh de Freines.</ab>
-                     <ab>Robert de Maundeville and Roger de Burford, <measure type="currency"
-                           >26s.8d.</measure> of a fine for trespass.</ab>
+                     <ab>Robert de Maundeville and Roger de Burford, <measure type="currency">26s
+                           8d</measure> of a fine for trespass.</ab>
                   </div>
                   <div>
                      <opener>KILDARE</opener>
-                     <ab>Patrick de Rocheford and others, <measure type="currency">26s.8d.</measure>
+                     <ab>Patrick de Rocheford and others, <measure type="currency">26s 8d</measure>
                         of a fine, by Alfr' Maddok.</ab>
-                     <ab>William le Blund de Otimi, <measure type="currency">53s.4d.</measure> of a
+                     <ab>William le Blund de Otimi, <measure type="currency">53s 4d</measure> of a
                         fine for trespass.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Robert de Beuver, <measure type="currency">20s.</measure> of a fine for
+                     <ab>Robert de Beuver, <measure type="currency">20s</measure> of a fine for
                         trespass.</ab>
-                     <ab>Gilbert de Ningg and others, <measure type="currency">40s.</measure> as he
+                     <ab>Gilbert de Ningg and others, <measure type="currency">40s</measure> as he
                         made a false valuation of the chattels of J. de Ningg.</ab>
-                     <ab>The villata of Molifarnan, <measure type="currency">40s.</measure> of a
-                        fine for trespass.</ab>
+                     <ab>The villata of Molifarnan, <measure type="currency">40s</measure> of a fine
+                        for trespass.</ab>
                      <ab>The same, <measure type="currency">£6</measure> of a fine for having
                         peace.</ab>
                   </div>
-                  <closer>SUM: £31.3s.4d.</closer>
+                  <closer>SUM: <measure type="currency">£31 3s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-04">Wednesday 4 October</date></head>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Robert Dromgole, <measure type="currency">10s.</measure> of a fine for
+                     <ab>Robert Dromgole, <measure type="currency">10s</measure> of a fine for
                         trespass.</ab>
-                     <ab>John Adm, <measure type="currency">9s.2d.</measure> for the plevin of
+                     <ab>John Adm, <measure type="currency">9s 2d</measure> for the plevin of
                         Richard de Cruis for escape.</ab>
-                     <ab>John de Trim, <measure type="currency">4s.4d.</measure> of a fine for
+                     <ab>John de Trim, <measure type="currency">4s 4d</measure> of a fine for
                         trespass.</ab>
                   </div>
-                  <closer>SUM: 23s.6d.</closer>
+                  <closer>SUM: <measure type="currency">23s 6d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-05">Thursday 5 October</date></head>
@@ -321,35 +323,35 @@
                   <div>
                      <opener>ENGLISH DEBTS BY THE MERCHANTS OF LUCCA</opener>
                      <ab>From the merchants of the society of the Riccardi of Lucca, <measure
-                           type="currency">£154.3s.7d.</measure> of their English debts, by G.
+                           type="currency">£154 3s 7d</measure> of their English debts, by G.
                         Chimbardi.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£164.3s.7d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£164 3s 7d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-06">Friday 6 October</date></head>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>William Taillefer, <measure type="currency">33s.4d.</measure> of a fine for
+                     <ab>William Taillefer, <measure type="currency">33s 4d</measure> of a fine for
                         trespass.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Nicholas de Cruis, <measure type="currency">50s.</measure> for the wardship
+                     <ab>Nicholas de Cruis, <measure type="currency">50s</measure> for the wardship
                         of the land and the marriage of the heir of Jordan Locard.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£4.3s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£4 3s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-07">Saturday 7 October</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the rent of the town of Athlone [Adthelone], <measure type="currency"
-                           >£4.13s.4d.</measure>, by William le Taverner.</ab>
-                     <ab>John Wodelok, sheriff, <measure type="currency">47s.6d.</measure> of the
+                     <ab>Of the rent of the town of Athlone [Adthelone], <measure type="currency">£4
+                           13s 4d</measure>, by William le Taverner.</ab>
+                     <ab>John Wodelok, sheriff, <measure type="currency">47s 6d</measure> of the
                         debts of divers persons, by Stephen Wulbot.</ab>
-                     <ab>The same sheriff, <measure type="currency">32s.8d.</measure> of the same,
-                        by Nicholas Benet.</ab>
+                     <ab>The same sheriff, <measure type="currency">32s 8d</measure> of the same, by
+                        Nicholas Benet.</ab>
                      <ab>John Colin, <measure type="currency">½ mark</measure> for himself and his
                         pledges, as he did not come after mainprise.</ab>
                   </div>
@@ -360,13 +362,13 @@
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Nicholas Rudipak, juror, <measure type="currency">4s.</measure>, as he did
+                     <ab>Nicholas Rudipak, juror, <measure type="currency">4s</measure>, as he did
                         not come.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£19.4s.2d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£19 4s 2d</measure></closer>
                </div>
-               <closer>SUM OF THE WEEKLY RECEIPTS: <measure type="currency"
-                  >£236.19s.7d.</measure></closer>
+               <closer>SUM OF THE WEEKLY RECEIPTS: <measure type="currency">£236 19s
+                  7d</measure></closer>
             </div>
             <div n="3" type="week">
                <div type="day">
@@ -380,18 +382,19 @@
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Theobald de Wyk and his associates, <measure type="currency">20s.</measure>
+                     <ab>Theobald de Wyk and his associates, <measure type="currency">20s</measure>
                         for divers amercements.</ab>
-                     <ab>Master Nicholas de Exeter, archdeacon of Ossory, one mark for himself and
-                        his pledges, as he did not prosecute.</ab>
-                     <ab>Robert Long de Lough, <measure type="currency">11s.</measure> of a fine for
+                     <ab>Master Nicholas de Exeter, archdeacon of Ossory, <measure type="currency"
+                           >one mark</measure> for himself and his pledges, as he did not
+                        prosecute.</ab>
+                     <ab>Robert Long de Lough, <measure type="currency">11s</measure> of a fine for
                         trespass.</ab>
-                     <ab>William fitz William Haket, <measure type="currency">40s.</measure> to have
+                     <ab>William fitz William Haket, <measure type="currency">40s</measure> to have
                         two writs.</ab>
-                     <ab>John Wodelok, sheriff, <measure type="currency">49s.</measure> of the debts
+                     <ab>John Wodelok, sheriff, <measure type="currency">49s</measure> of the debts
                         of divers persons, by William Boneis.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£39.13s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£39 13s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-10">Tuesday 10 October</date></head>
@@ -400,53 +403,53 @@
                      <ab>Ralph del Nase, <measure type="currency">½ mark</measure> for not convening
                         a jury to hold a view, as ordered.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">6s.8d.</measure></closer>
+                  <closer>SUM: <measure type="currency">6s 8d</measure></closer>
                </div>
                <pb type="membrane" n="2"/>
                <div type="day">
                   <head><date when="1301-10-11">Wednesday 11 October</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Roger de Novo Castro, an Irishman, <measure type="currency">20s.</measure>
+                     <ab>Roger de Novo Castro, an Irishman, <measure type="currency">20s</measure>
                         for having entry on his tenements at Swords.</ab>
                      <ab>Of the issues of the lands late of Cristiana de Mariscis at Killimen [?],
-                           <measure type="currency">40s.</measure>, by William Molroni.</ab>
+                           <measure type="currency">40s</measure>, by William Molroni.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">60s.</measure></closer>
+                  <closer>SUM: <measure type="currency">60s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-12">Thursday 12 October</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>The farm of the city, <measure type="currency">£14.6s.8d.</measure>, by
+                     <ab>The farm of the city, <measure type="currency">£14 6s 8d</measure>, by
                         William Calan and J. de Castelknok.</ab>
-                     <ab>Adam Karrik, <measure type="currency">8s.4d.</measure> of a fine for the
+                     <ab>Adam Karrik, <measure type="currency">8s 4d</measure> of a fine for the
                         death of J. de Suttone, by Adam le Latimer.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£14.15s.</measure></closer>
+                  <closer>SUM: <measure type="currency">£14 15s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-13">Friday 13 October</date></head>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Thomas de Stanlee, <measure type="currency">50s.</measure> of a fine for
+                     <ab>Thomas de Stanlee, <measure type="currency">50s</measure> of a fine for
                         release from an indictment.</ab>
                   </div>
                   <div>
                      <opener>WATERFORD</opener>
-                     <ab>Jordan de Exeter, <measure type="currency">£10.6s.8d.</measure> of the rent
+                     <ab>Jordan de Exeter, <measure type="currency">£10 6s 8d</measure> of the rent
                         of Admethan.</ab>
                   </div>
                   <div>
                      <opener>KILKENNY</opener>
-                     <ab>Thomas McDermot and Bren, <measure type="currency">46s.8d.</measure> of a
+                     <ab>Thomas McDermot and Bren, <measure type="currency">46s 8d</measure> of a
                         fine to have peace, by Jordan de Exeter in cows [in vaccis].</ab>
                   </div>
                   <div>
                      <opener>CONNACHT</opener>
                      <ab>Of the rent of the lands late of Adam le Fleming, felon, <measure
-                           type="currency">22s.6d.</measure> by the same Jordan, for two terms.</ab>
-                     <ab>The same receipt from the same, <measure type="currency">16d.</measure>, of
+                           type="currency">22s 6d</measure> by the same Jordan, for two terms.</ab>
+                     <ab>The same receipt from the same, <measure type="currency">16d</measure>, of
                         the lands of William le Fleming.</ab>
                   </div>
                   <div>
@@ -456,30 +459,31 @@
                   <div>
                      <opener>URIEL</opener>
                      <ab>William de Clintone and his wife, Isabella, <measure type="currency"
-                           >40s.</measure> for the marriage of the said Isabella.</ab>
-                     <ab>William de Graftone, <measure type="currency">20s.</measure> of a fine for
+                           >40s</measure> for the marriage of the said Isabella.</ab>
+                     <ab>William de Graftone, <measure type="currency">20s</measure> of a fine for
                         trespass.</ab>
-                     <ab>John Pope, <measure type="currency">5s.</measure> for the same.</ab>
+                     <ab>John Pope, <measure type="currency">5s</measure> for the same.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Simon fitz Simon de Tanelagh, <measure type="currency">10s.</measure> of a
+                     <ab>Simon fitz Simon de Tanelagh, <measure type="currency">10s</measure> of a
                         fine for obstructing the holding of a view.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£20.8s.10d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£20 8s 10d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-14">Saturday 14 October</date></head>
                   <div>
                      <opener>WEXFORD</opener>
-                     <ab>Philip le Hore, <measure type="currency">20s.</measure> of a fine for
+                     <ab>Philip le Hore, <measure type="currency">20s</measure> of a fine for
                         trespass.</ab>
                      <ab>Geoffrey Mare, reeve of Edirdrim, <measure type="currency">½ mark</measure>
                         for the same.</ab>
                      <ab>William Veyse and John Peris, <measure type="currency">a mark</measure> for
                         the same.</ab>
-                     <ab>Reymund Barry, one mark as he did not come when summoned.</ab>
-                     <ab>Adam de la Roche, seneschal, <measure type="currency">106s.8d.</measure> of
+                     <ab>Reymund Barry, <measure type="currency">one mark</measure> as he did not
+                        come when summoned.</ab>
+                     <ab>Adam de la Roche, seneschal, <measure type="currency">106s 8d</measure> of
                         debts of divers persons.</ab>
                   </div>
                   <div>
@@ -489,7 +493,7 @@
                   </div>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Richard Gernun, <measure type="currency">20s.</measure> of a fine for
+                     <ab>Richard Gernun, <measure type="currency">20s</measure> of a fine for
                         trespass.</ab>
                   </div>
                   <div>
@@ -514,62 +518,62 @@
                   </div>
                   <div>
                      <opener>CONNACHT</opener>
-                     <ab>Gilbert Linet, <measure type="currency">40s.</measure> of a fine to have
+                     <ab>Gilbert Linet, <measure type="currency">40s</measure> of a fine to have
                         peace.</ab>
                      <ab>Of the rent of Admekin, <measure type="currency">£12</measure>, by Walter
                         de Ridelesford.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>The arrears of the rent of Esker, <measure type="currency">40s.</measure>
-                        by Henry Kisshok.</ab>
-                     <ab>Adam de Galleth, <measure type="currency">10s.</measure> for himself and
-                        his pledges as he did not come when mainperned.</ab>
-                     <ab>Adam de Cromelin, sheriff, <measure type="currency">30s.</measure> of the
+                     <ab>The arrears of the rent of Esker, <measure type="currency">40s</measure> by
+                        Henry Kisshok.</ab>
+                     <ab>Adam de Galleth, <measure type="currency">10s</measure> for himself and his
+                        pledges as he did not come when mainperned.</ab>
+                     <ab>Adam de Cromelin, sheriff, <measure type="currency">30s</measure> of the
                         arrears of his account.</ab>
                   </div>
                   <div>
                      <opener>LIMERICK</opener>
-                     <ab>Henry le Waleis, sheriff, <measure type="currency">26s.8d.</measure> of the
+                     <ab>Henry le Waleis, sheriff, <measure type="currency">26s 8d</measure> of the
                         arrears of his account, by Anastacia, his wife.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Adam de Cromelin, sheriff, <measure type="currency">20s.</measure> of the
+                     <ab>Adam de Cromelin, sheriff, <measure type="currency">20s</measure> of the
                         arrears of his account, by Richard fitz Robert.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£75.13s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£75 13s 4d</measure></closer>
                </div>
-               <closer>SUM OF WEEKLY RECEIPTS: <measure type="currency"
-                  >£153.17s.2d.</measure></closer>
+               <closer>SUM OF WEEKLY RECEIPTS: <measure type="currency">£153 17s
+                  2d</measure></closer>
             </div>
             <div n="4" type="week">
                <div type="day">
                   <head><date when="1301-10-16">Monday 16 October</date></head>
                   <div>
                      <opener>WEXFORD</opener>
-                     <ab>Philip Furlang, <measure type="currency">27s.8d.</measure> of a fine for
+                     <ab>Philip Furlang, <measure type="currency">27s 8d</measure> of a fine for
                         trespass.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>The Abbot of Glounart, <measure type="currency">30s.</measure> of a fine to
+                     <ab>The Abbot of Glounart, <measure type="currency">30s</measure> of a fine to
                         have peace.</ab>
                   </div>
                   <div>
                      <opener>TIPPERARY</opener>
-                     <ab>Walter Uncle, sheriff, <measure type="currency">20s.</measure> of the
+                     <ab>Walter Uncle, sheriff, <measure type="currency">20s</measure> of the
                         arrears of his account, by Walter le Bret.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>John Dengayne, <measure type="currency">20s.</measure> of a fine for
+                     <ab>John Dengayne, <measure type="currency">20s</measure> of a fine for
                         trespass.</ab>
                   </div>
                   <div>
                      <opener>TIPPERARY</opener>
                      <ab>The bishop-elect of Killaloe [Kildalo], <measure type="currency"
-                           >60s.</measure> of a fine for trespass.</ab>
+                           >60s</measure> of a fine for trespass.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
@@ -578,16 +582,16 @@
                   </div>
                   <div>
                      <opener>KILDARE</opener>
-                     <ab>William Prene, <measure type="currency">20s.</measure> of his forfeited
+                     <ab>William Prene, <measure type="currency">20s</measure> of his forfeited
                         chattels at Balininok, by J. Giffard.</ab>
                   </div>
-                  <closer>SUM: £9.4s.4d.</closer>
+                  <closer>SUM: <measure type="currency">£9 4s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-17">Tuesday 17 October</date></head>
                   <div>
                      <opener>TIPPERARY</opener>
-                     <ab>Nicholas Crok, <measure type="currency">18s.</measure> of a fine to have
+                     <ab>Nicholas Crok, <measure type="currency">18s</measure> of a fine to have
                         peace.</ab>
                   </div>
                   <div>
@@ -601,19 +605,19 @@
                   </div>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Roger Gernun, sheriff, <measure type="currency">£20.12s.</measure> of debts
+                     <ab>Roger Gernun, sheriff, <measure type="currency">£20 12s</measure> of debts
                         of divers persons.</ab>
                   </div>
                   <div>
                      <opener>WATERFORD</opener>
-                     <ab>Richard de Valle, sheriff, <measure type="currency">40s.</measure> of debts
+                     <ab>Richard de Valle, sheriff, <measure type="currency">40s</measure> of debts
                         of divers persons.</ab>
                   </div>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Walter Brusbon, <measure type="currency">71s.11¼d.</measure> of a fine for
+                     <ab>Walter Brusbon, <measure type="currency">71s 11¼d.</measure> of a fine for
                         instigating a malicious appeal.</ab>
-                     <ab>The abbot of Mellifont, <measure type="currency">£9.6s.8d.</measure> of a
+                     <ab>The abbot of Mellifont, <measure type="currency">£9 6s 8d</measure> of a
                         fine.</ab>
                   </div>
                   <div>
@@ -622,26 +626,25 @@
                   </div>
                   <div>
                      <opener>WATERFORD</opener>
-                     <ab>John fitz William le Graunt, <measure type="currency">100s.</measure> of a
+                     <ab>John fitz William le Graunt, <measure type="currency">100s</measure> of a
                         fine.</ab>
                   </div>
                   <div>
                      <opener>WEXFORD</opener>
-                     <ab>William de Fithered, <measure type="currency">20s.</measure> of a fine for
-                        a ship called la Alice de Herwith.</ab>
+                     <ab>William de Fithered, <measure type="currency">20s</measure> of a fine for a
+                        ship called la Alice de Herwith.</ab>
                   </div>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Ralph Burgeis, <measure type="currency">16s.8d.</measure> of a fine for
+                     <ab>Ralph Burgeis, <measure type="currency">16s 8d</measure> of a fine for
                         trespass.</ab>
-                     <ab>Richard Burgeis, <measure type="currency">8s.4d.</measure> of the
-                        same.</ab>
+                     <ab>Richard Burgeis, <measure type="currency">8s 4d</measure> of the same.</ab>
                      <ab>John fitz John Tel, <measure type="currency">½ mark</measure> for licence
                         to renew a writ now lapsed.</ab>
                      <ab>Geoffrey de Mortone, <measure type="currency">½ mark</measure> of a fine
                         for licence to make an agreement.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£95.6s.11¼d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£95 6s 11¼d.</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-18">Wednesday 18 October</date></head>
@@ -653,12 +656,12 @@
                   <head><date when="1301-10-19">Thursday 19 October</date></head>
                   <div>
                      <opener>ESCHEATRY</opener>
-                     <ab>Of the issues of the escheatry, <measure type="currency">50s.4d.</measure>,
+                     <ab>Of the issues of the escheatry, <measure type="currency">50s 4d</measure>,
                         by Walter de la Haye, escheator.</ab>
                   </div>
                   <div>
                      <opener>KILDARE</opener>
-                     <ab>Gilbert de Suttone, sheriff, <measure type="currency">26s.8d.</measure> of
+                     <ab>Gilbert de Suttone, sheriff, <measure type="currency">26s 8d</measure> of
                         the arrears of his account.</ab>
                   </div>
                   <div>
@@ -667,21 +670,21 @@
                            marks</measure> of the arrears of his account for John fitz H., by John
                         fitz John de la Hide.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£10.10s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£10 10s 4d</measure></closer>
                </div>
                <pb type="membrane" n="3"/>
                <div type="day">
                   <head><date when="1301-10-20">Friday 20 October</date></head>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Richard Hauberge, <measure type="currency">26s.8d.</measure> of a fine for
+                     <ab>Richard Hauberge, <measure type="currency">26s 8d</measure> of a fine for
                         trespass.</ab>
-                     <ab>Richard Gernoun, <measure type="currency">16s.4d.</measure> for a false
+                     <ab>Richard Gernoun, <measure type="currency">16s 4d</measure> for a false
                         judgment.</ab>
                   </div>
                   <div>
                      <opener>WATERFORD</opener>
-                     <ab>John Baret, sheriff, <measure type="currency">20s.</measure> of the arrears
+                     <ab>John Baret, sheriff, <measure type="currency">20s</measure> of the arrears
                         of his account, by the prior of St John's Waterford.</ab>
                   </div>
                   <div>
@@ -692,13 +695,13 @@
                   <div>
                      <opener>DUBLIN</opener>
                      <ab>Of the arrears of the farm of the manor of Crumlin, <measure
-                           type="currency">£20.8s.</measure>, by William Sampson de Calan, in
+                           type="currency">£20 8s</measure>, by William Sampson de Calan, in
                         victuals at Dublin.</ab>
                   </div>
                   <div>
                      <opener>KILDARE</opener>
                      <ab>Of the rent of Thristeldermot and Gavernagh, <measure type="currency"
-                           >100s.</measure> by Walter de Ivethorn.</ab>
+                           >100s</measure> by Walter de Ivethorn.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN CITY</opener>
@@ -707,58 +710,61 @@
                   </div>
                   <div>
                      <opener>DROGHEDA IN MEATH</opener>
-                     <ab>The farm of the city, <measure type="currency">40s.</measure> by Ralph
+                     <ab>The farm of the city, <measure type="currency">40s</measure> by Ralph
                         Bigdone.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Adam de Cromelin, sheriff, <measure type="currency">£17.6s.8d.</measure> of
+                     <ab>Adam de Cromelin, sheriff, <measure type="currency">£17 6s 8d</measure> of
                         the arrears of his account, by N. bishop of Leighlin of a fine for
                         trespass.</ab>
                      <ab>Richard de St Michael, <measure type="currency">½ mark</measure> as he came
                         not when summoned.</ab>
                      <ab>The same for the <measure type="currency" unit="mark" quantity="0.5"
                            >same</measure>.</ab>
-                     <ab>The same <measure type="currency">3s.4d.</measure> for the same.</ab>
+                     <ab>The same <measure type="currency">3s 4d</measure> for the same.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£139.14s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£139 14s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-21">Saturday 21 October</date></head>
                   <div>
                      <opener>WEXFORD</opener>
-                     <ab>John Casshe, <measure type="currency">10s.</measure> of a fine for
+                     <ab>John Casshe, <measure type="currency">10s</measure> of a fine for
                         trespass.</ab>
                   </div>
                   <div>
                      <opener>ESCHEATRY</opener>
-                     <ab>Of the issues of the escheatry, <measure type="currency">26s.8d.</measure>,
+                     <ab>Of the issues of the escheatry, <measure type="currency">26s 8d</measure>,
                         by Walter de la Haye.</ab>
-                     <ab><measure type="currency">20s.2d.</measure> of the same.</ab>
-                     <ab><measure type="currency">14s.</measure> of the same.</ab>
+                     <ab><measure type="currency">20s 2d</measure> of the same.</ab>
+                     <ab><measure type="currency">14s</measure> of the same.</ab>
                   </div>
                   <div>
                      <opener>LIMERICK</opener>
-                     <ab>John fitz Ralph, a mark of a fine for release from visne.</ab>
+                     <ab>John fitz Ralph, <measure type="currency">a mark</measure> of a fine for
+                        release from visne.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Gilbert le Blund de Baliscadan, <measure type="currency">40s.</measure> of
-                        a fine for trespass.</ab>
+                     <ab>Gilbert le Blund de Baliscadan, <measure type="currency">40s</measure> of a
+                        fine for trespass.</ab>
                   </div>
                   <div>
                      <opener>WEXFORD</opener>
-                     <ab>William de Prendergast, <measure type="currency">15s.8d.</measure> of a
-                        fine for trespass.</ab>
+                     <ab>William de Prendergast, <measure type="currency">15s 8d</measure> of a fine
+                        for trespass.</ab>
                   </div>
                   <div>
                      <opener>LIMERICK</opener>
                      <ab>Henry fitz Griffin de Rupe, <measure type="currency">10 marks</measure> of
                         a fine, by George de Rupe.</ab>
                   </div>
-                  <closer>WEEKLY SUM: <measure type="currency">£268.9s.1¼d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£13 13s 2d</measure></closer>   
                </div>
-               <closer>SUM OF A DAY AND THREE WEEKS: <measure type="currency">£756.10s.10¼d.</measure></closer>
+               <closer>WEEKLY SUM: <measure type="currency">£268 9s 1¼d</measure></closer>
+               <closer>SUM OF A DAY AND THREE WEEKS: <measure type="currency">£756 10s
+                     10¼d</measure></closer>
             </div>
             <div n="5" type="week">
                <div type="day">
@@ -772,50 +778,51 @@
                   </div>
                   <div>
                      <opener>DROGHEDA IN URIEL</opener>
-                     <ab>The farm of the town, <measure type="currency">£17</measure>, by William de Grafton and J. le Blund, in
-                        victuals.</ab>
+                     <ab>The farm of the town, <measure type="currency">£17</measure>, by William de
+                        Grafton and J. le Blund, in victuals.</ab>
                      <ab>Ralph the baker [pistor] of Drogheda, <measure type="currency"
-                           >20d.</measure> of a fine for trespass.</ab>
+                           >20d</measure> of a fine for trespass.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£27.20d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£27 20d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-24">Tuesday 24 October</date></head>
                   <div>
                      <opener>KERRY</opener>
-                     <ab>Richard de Cantilupo, sheriff, <measure type="currency">60s.</measure> for
+                     <ab>Richard de Cantilupo, sheriff, <measure type="currency">60s</measure> for
                         divers escapes.</ab>
-                     <ab>Luke Ruddel, <measure type="currency">40s.</measure> of a fine for
+                     <ab>Luke Ruddel, <measure type="currency">40s</measure> of a fine for
                         trespass.</ab>
-                     <ab>Phillip le Phiretter and others, <measure type="currency">25s.4d.</measure>
+                     <ab>Phillip le Phiretter and others, <measure type="currency">25s 4d</measure>
                         of a fine for the same.</ab>
-                     <ab>Gilbert fitz John le Brun, <measure type="currency">26s.8d.</measure> for
+                     <ab>Gilbert fitz John le Brun, <measure type="currency">26s 8d</measure> for
                         the same.</ab>
-                     <ab>Richard fitz William Cantilupo, <measure type="currency">33s.2d.</measure>
+                     <ab>Richard fitz William Cantilupo, <measure type="currency">33s 2d</measure>
                         of a fine for release from visne.</ab>
-                     <ab>Geoffrey de Clahull, sheriff, <measure type="currency">73s.4d.</measure> of
+                     <ab>Geoffrey de Clahull, sheriff, <measure type="currency">73s 4d</measure> of
                         divers escapes, by R. de Clahull.</ab>
-                     <ab>Philip fitz John Brun, <measure type="currency">20s.</measure> of a fine to
+                     <ab>Philip fitz John Brun, <measure type="currency">20s</measure> of a fine to
                         have peace.</ab>
                      <ab>Andrew Brun and Ragenilda, his wife, and G. fitz Andrew Brun, <measure
-                           type="currency">20s.</measure> of a fine to have peace.</ab>
-                     <ab>Peter Murlegan, <measure type="currency">40s.</measure> of a fine for
+                           type="currency">20s</measure> of a fine to have peace.</ab>
+                     <ab>Peter Murlegan, <measure type="currency">40s</measure> of a fine for
                         trespass.</ab>
-                     <ab>The profits of the county of Kerry, <measure type="currency">£4.7s.8d.</measure>, by R. de Cant',
-                        sheriff.</ab>
-                     <ab>Richard de Cantilupo, sheriff, <measure type="currency">£40.13s.10d.</measure>, of debts of divers
-                        persons.</ab>
+                     <ab>The profits of the county of Kerry, <measure type="currency">£4 7s
+                           8d</measure>, by R. de Cant', sheriff.</ab>
+                     <ab>Richard de Cantilupo, sheriff, <measure type="currency">£40 13s
+                           10d</measure>, of debts of divers persons.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the farm of the manor of Newcastle Lyons, <measure type="currency">£19</measure>, by William le Blund.</ab>
+                     <ab>Of the farm of the manor of Newcastle Lyons, <measure type="currency"
+                           >£19</measure>, by William le Blund.</ab>
                   </div>
                   <div>
                      <opener>ESCHEATRY</opener>
-                     <ab>Of the issues of the lands late of J. de Curcy in county Kerry, <measure type="currency">50s.</measure>, by
-                        James de Keting.</ab>
+                     <ab>Of the issues of the lands late of J. de Curcy in county Kerry, <measure
+                           type="currency">50s</measure>, by James de Keting.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£83.10s.</measure></closer>
+                  <closer>SUM: <measure type="currency">£83 10s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-25">Wednesday 25 October</date></head>
@@ -826,13 +833,13 @@
                   </div>
                   <div>
                      <opener>KERRY</opener>
-                     <ab>Richard de Cantilupo, sheriff, <measure type="currency">60s.</measure> of
+                     <ab>Richard de Cantilupo, sheriff, <measure type="currency">60s</measure> of
                         debts of divers persons.</ab>
                   </div>
                   <div>
                      <opener>ESCHEATRY</opener>
-                     <ab>Of the issues of the escheatry, <measure type="currency">46s.8d.</measure>, by Richard de Cantilupo for Walter
-                        de la Haye, escheator.</ab>
+                     <ab>Of the issues of the escheatry, <measure type="currency">46s 8d</measure>,
+                        by Richard de Cantilupo for Walter de la Haye, escheator.</ab>
                   </div>
                   <closer>SUM: <measure type="currency">£12</measure>.</closer>
                </div>
@@ -846,16 +853,18 @@
                   <head><date when="1301-10-27">Friday 27 October</date></head>
                   <div>
                      <opener>LIMERICK</opener>
-                     <ab>The farm of the city, <measure type="currency">£31.13s.4d.</measure>, by Gaillard de Pontefract.</ab>
+                     <ab>The farm of the city, <measure type="currency">£31 13s 4d</measure>, by
+                        Gaillard de Pontefract.</ab>
                   </div>
                   <div>
                      <opener>CARLOW</opener>
-                     <ab>Richard de Rupella, seneschal, <measure type="currency"
-                           >£9.19s.2d.</measure> of debts of divers persons.</ab>
-                     <ab>William de Haukeswell, seneschal, <measure type="currency"
-                           >£8.9s.11d.</measure> of the arrears of his account, by Richard, the
+                     <ab>Richard de Rupella, seneschal, <measure type="currency">£9 19s 2d</measure>
+                        of debts of divers persons.</ab>
+                     <ab>William de Haukeswell, seneschal, <measure type="currency">£8 9s
+                           11d</measure> of the arrears of his account, by Richard, the
                         seneschal.</ab>
-                     <ab>Of the aid promised the king, <measure type="currency">30s.11d.</measure>, by the same seneschal.</ab>
+                     <ab>Of the aid promised the king, <measure type="currency">30s 11d</measure>,
+                        by the same seneschal.</ab>
                   </div>
                   <div>
                      <opener>TIPPERARY</opener>
@@ -869,7 +878,7 @@
                      <ab>Richard le Fleming, <measure type="currency">½ mark</measure> for himself
                         and his pledges as he did not prosecute.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£55.13s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£55 13s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-28">Saturday 28 October</date></head>
@@ -877,37 +886,38 @@
                      <ab>NOTHING</ab>
                   </div>
                </div>
-               <closer>WEEKLY RECEIPT: <measure type="currency">£178.5s.</measure></closer>
+               <closer>WEEKLY RECEIPT: <measure type="currency">£178 5s</measure></closer>
             </div>
             <div n="6" type="week">
                <div type="day">
                   <head><date when="1301-10-30">Monday 30 October</date></head>
                   <div>
                      <opener>TRIM</opener>
-                     <ab>Of the aid promised to the king, <measure type="currency">110s.3d.</measure>, by T. de Assheb' and J.
-                        Fraunceis.</ab>
+                     <ab>Of the aid promised to the king, <measure type="currency">110s
+                        3d</measure>, by T. de Assheb' and J. Fraunceis.</ab>
                   </div>
                   <div>
                      <opener>CORK</opener>
-                     <ab>Robert fitz Maurice, <measure type="currency">2s.6d.</measure> for the
+                     <ab>Robert fitz Maurice, <measure type="currency">2s 6d</measure> for the
                         sergeanty of the county, by Gerald fitz Maurice.</ab>
                   </div>
                   <div>
                      <opener>TIPPERARY</opener>
-                     <ab>Walter Uncle, sheriff, <measure type="currency">56s.8d.</measure> of the
+                     <ab>Walter Uncle, sheriff, <measure type="currency">56s 8d</measure> of the
                         arrears of his account, by the tenants of Brungaveston.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>The farm of Newcastle Lyons, <measure type="currency">£6</measure>, by William le Blund.</ab>
+                     <ab>The farm of Newcastle Lyons, <measure type="currency">£6</measure>, by
+                        William le Blund.</ab>
                   </div>
                   <div>
                      <opener>NEW CUSTOM</opener>
                      <ab>Brother Walter le Bacheler, master of the knights of the Temple, <measure
-                           type="currency">73s.4d.</measure> to have the collection of the new
-                        custom of Waterford, by Brother W. de Treminham.</ab>
+                           type="currency">73s 4d</measure> to have the collection of the new custom
+                        of Waterford, by Brother W. de Treminham.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£18.2s.9d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£18 2s 9d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-10-31">Tuesday 31 October</date></head>
@@ -934,65 +944,68 @@
                   <head><date when="1301-11-03">Friday 3 November</date></head>
                   <div>
                      <opener>WATERFORD</opener>
-                     <ab>Richard de Autone, sheriff, <measure type="currency">47s.</measure> of the
+                     <ab>Richard de Autone, sheriff, <measure type="currency">47s</measure> of the
                         arrears of his account.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
                      <ab>Jordan de Exeter and Juvana, his wife, <measure type="currency"
-                           >20s.</measure> to have a writ.</ab>
+                           >20s</measure> to have a writ.</ab>
                      <ab>Thomas Peveril, <measure type="currency">½ mark</measure> as he came not
                         when summoned, by A. de Cromelin, sheriff.</ab>
                      <ab>Nicholas Troy, <measure type="currency">1 mark</measure> of a fine for
                         trespass.</ab>
-                     <ab>John de Strattone, constable, <measure type="currency">106s.8d.</measure>
-                        of the arrears of his account.</ab>
+                     <ab>John de Strattone, constable, <measure type="currency">106s 8d</measure> of
+                        the arrears of his account.</ab>
                   </div>
                   <div>
                      <opener>KILDARE</opener>
-                     <ab>John de Coventre, sheriff, <measure type="currency">60s.</measure> of the
+                     <ab>John de Coventre, sheriff, <measure type="currency">60s</measure> of the
                         arrears of his account, by Philip Hulot.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>William Short de Killori, <measure type="currency">36s.8d.</measure> of a
+                     <ab>William Short de Killori, <measure type="currency">36s 8d</measure> of a
                         fine for him and his associates.</ab>
                      <ab>William de Shenhull, <measure type="currency">½ mark</measure> of a fine to
                         have visne relaxed.</ab>
                      <pb type="membrane" n="4"/>
-                     <ab>John Wodelok, sheriff, <measure type="currency">40s.</measure> of the
-                        issues of the forfeited lands of Hugh fitz Audeon.</ab>
-                     <ab>Ralph de Trivers, <measure type="currency">a mark</measure> of a fine to have peace, by W. Sauvage.</ab>
+                     <ab>John Wodelok, sheriff, <measure type="currency">40s</measure> of the issues
+                        of the forfeited lands of Hugh fitz Audeon.</ab>
+                     <ab>Ralph de Trivers, <measure type="currency">a mark</measure> of a fine to
+                        have peace, by W. Sauvage.</ab>
                      <ab>Ralph Betagh and his associates, <measure type="currency">5 marks</measure>
                         of a fine to have peace.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£20.17s.</measure></closer>
+                  <closer>SUM: <measure type="currency">£20 17s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-04">Saturday 4 November</date></head>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Roger Gernon, sheriff, <measure type="currency">£9.3d.</measure> of the arrears of his account.</ab>
-                     <ab>Hugh de Clintone, sheriff, <measure type="currency">45s.0½d.</measure> of the same.</ab>
-                     <ab>Of the issues of Castle Fraunk and the manor of Ays, <measure type="currency">£16.13s.4d.</measure>, by Ralph
-                        Devening.</ab>
+                     <ab>Roger Gernon, sheriff, <measure type="currency">£9 3d</measure> of the
+                        arrears of his account.</ab>
+                     <ab>Hugh de Clintone, sheriff, <measure type="currency">45s 0½d</measure> of
+                        the same.</ab>
+                     <ab>Of the issues of Castle Fraunk and the manor of Ays, <measure
+                           type="currency">£16 13s 4d</measure>, by Ralph Devening.</ab>
                   </div>
                   <div>
                      <opener>KILDARE</opener>
-                     <ab>David Mazener, sheriff, <measure type="currency">£28.11s.11d.</measure> of
+                     <ab>David Mazener, sheriff, <measure type="currency">£28 11s 11d</measure> of
                         the arrears of his account, in victuals at Dublin.</ab>
                      <ab>The same sheriff, <measure type="currency">£40</measure> of debts of divers
                         persons, in victuals as above.</ab>
                   </div>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Roger Roth, sheriff, <measure type="currency">40s.</measure> of the arrears
+                     <ab>Roger Roth, sheriff, <measure type="currency">40s</measure> of the arrears
                         of his account, by G. de Lonne, for the pledge of Denahuth Orayly and Cathel
                         Thenagh.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£98.10s.6½d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£98 10s 6½d</measure></closer>
                </div>
-               <closer>WEEKLY RECEIPT: <measure type="currency">£143.10s.3½d.</measure></closer>
+               <closer>WEEKLY RECEIPT: <measure type="currency">£143 10s 3½d</measure></closer>
             </div>
             <div n="7" type="week">
                <div type="day">
@@ -1007,18 +1020,18 @@
                            mark</measure> for an undue return of a writ.</ab>
                      <ab>The same, <measure type="currency">½ mark</measure> for a false return of a
                         writ.</ab>
-                     <ab>Robert de Doningtone, <measure type="currency">3s.4d.</measure> for unjust
+                     <ab>Robert de Doningtone, <measure type="currency">3s 4d</measure> for unjust
                         detention.</ab>
-                     <ab>Geoffrey Wolleter, <measure type="currency">3s.4d.</measure> for a false
+                     <ab>Geoffrey Wolleter, <measure type="currency">3s 4d</measure> for a false
                         raising of the hue and cry.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£4.13s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£4 13s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-07">Tuesday 7 November</date></head>
                   <div>
                      <opener>LIMERICK</opener>
-                     <ab>Nicholas le Deveneys, sheriff, <measure type="currency">50s.</measure> of
+                     <ab>Nicholas le Deveneys, sheriff, <measure type="currency">50s</measure> of
                         the arrears of his account.</ab>
                   </div>
                   <div>
@@ -1033,7 +1046,8 @@
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>William de Managhan, <measure type="currency">a mark</measure> of a like fine.</ab>
+                     <ab>William de Managhan, <measure type="currency">a mark</measure> of a like
+                        fine.</ab>
                      <ab>Thomas fitz Walter, <measure type="currency">½ mark</measure> for the
                         same.</ab>
                   </div>
@@ -1045,17 +1059,17 @@
                         for trespass.</ab>
                      <ab>Geoffrey le Bret, sheriff, <measure type="currency">£100</measure> of the
                         arrears of his account.</ab>
-                     <ab>The same sheriff, <measure type="currency">100s.</measure> of the profits
-                        of the county.</ab>
-                     <ab>Henry le Noreis, <measure type="currency">20s.</measure> of a fine for
+                     <ab>The same sheriff, <measure type="currency">100s</measure> of the profits of
+                        the county.</ab>
+                     <ab>Henry le Noreis, <measure type="currency">20s</measure> of a fine for
                         trespass.</ab>
                   </div>
                   <div>
                      <opener>LIMERICK</opener>
-                     <ab>Richard de Assheburne, sheriff, <measure type="currency">10s.</measure> of
+                     <ab>Richard de Assheburne, sheriff, <measure type="currency">10s</measure> of
                         the arrears of his account, by Roger de Assheburne.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£114.13s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£114 13s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-08">Wednesday 8 November</date></head>
@@ -1065,7 +1079,7 @@
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Walter de la Haie, <measure type="currency">60s.</measure> of the issues of
+                     <ab>Walter de la Haie, <measure type="currency">60s</measure> of the issues of
                         the archbishopric of Dublin, by Roger de Novo Castro.</ab>
                   </div>
                   <div>
@@ -1073,31 +1087,34 @@
                      <ab>Hugh Purcel, sheriff, <measure type="currency">£12</measure> of the arrears
                         of his account.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£15.6s.8d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£15 6s 8d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-09">Thursday 9 November</date></head>
                   <div>
                      <opener>TIPPERARY</opener>
-                     <ab>Thomas de Oxeburne, <measure type="currency">a mark</measure> for conspiracy.</ab>
+                     <ab>Thomas de Oxeburne, <measure type="currency">a mark</measure> for
+                        conspiracy.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the farm of Crumlin, <measure type="currency">79s.6d.</measure>, by John Russel.</ab>
+                     <ab>Of the farm of Crumlin, <measure type="currency">79s 6d</measure>, by John
+                        Russel.</ab>
                      <ab>Leticia, late the wife of Hugh Tyrel, <measure type="currency">½
                            mark</measure> for a false claim.</ab>
                      <ab>The same Leticia, <measure type="currency">½ mark</measure> to have a
                         writ.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">106s.2d.</measure></closer>
+                  <closer>SUM: <measure type="currency">106s 2d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-10">Friday 10 November</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the farm of the mills by Dublin castle, <measure type="currency">40s.</measure>, by Henry le Freines.</ab>
+                     <ab>Of the farm of the mills by Dublin castle, <measure type="currency"
+                           >40s</measure>, by Henry le Freines.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">40s.</measure></closer>
+                  <closer>SUM: <measure type="currency">40s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-11">Saturday 11 November</date></head>
@@ -1105,15 +1122,15 @@
                      <ab>NOTHING</ab>
                   </div>
                </div>
-               <closer>WEEKLY RECEIPT: <measure type="currency">£141.19s.6d.</measure></closer>
+               <closer>WEEKLY RECEIPT: <measure type="currency">£141 19s 6d</measure></closer>
             </div>
             <div n="8" type="week">
                <div type="day">
                   <head><date when="1301-11-13">Monday 13 November</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the farm of the manor of Chapelizod, <measure type="currency">£11.13s.4d.</measure>, by Brother W. de Ros,
-                        prior of Kilmainham.</ab>
+                     <ab>Of the farm of the manor of Chapelizod, <measure type="currency">£11 13s
+                           4d</measure>, by Brother W. de Ros, prior of Kilmainham.</ab>
                      <ab>Osbert le Blake de Baraym', <measure type="currency">½ mark</measure> as he
                         came not when summoned.</ab>
                      <ab>Roger Simone de Slane, <measure type="currency">½ mark</measure> for the
@@ -1128,81 +1145,85 @@
                   <head><date when="1301-11-14">Tuesday 14 November</date></head>
                   <div>
                      <opener>TRIM</opener>
-                     <ab>Of the king's aid promised in the county of Trim, <measure type="currency">£10</measure>, by T. de Assheburne
-                        and J. Fraunceys.</ab>
+                     <ab>Of the king's aid promised in the county of Trim, <measure type="currency"
+                           >£10</measure>, by T. de Assheburne and J. Fraunceys.</ab>
                   </div>
                   <div>
                      <opener>KILKENNY</opener>
-                     <ab>Nicholas de Avenil, <measure type="currency">56s.8d.</measure> for the
+                     <ab>Nicholas de Avenil, <measure type="currency">56s 8d</measure> for the
                         marriage of Juliana de Clare, by P. Ulf.</ab>
                   </div>
                   <div>
                      <opener>LIMERICK</opener>
-                     <ab>Adam de Creting, <measure type="currency">21s.</measure> of the arrears of
+                     <ab>Adam de Creting, <measure type="currency">21s</measure> of the arrears of
                         his account of the issues of Cathircorny, by the same P.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Adam le Blund and G. de Brendewode, <measure type="currency">40s.</measure>
+                     <ab>Adam le Blund and G. de Brendewode, <measure type="currency">40s</measure>
                         of the chattels of Thomas le Keu, felon.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£15.17s.8d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£15 17s 8d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-15">Wednesday 15 November</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Richard Tyrel of Castroknok, <measure type="currency">40s.</measure> of a
+                     <ab>Richard Tyrel of Castroknok, <measure type="currency">40s</measure> of a
                         fine for the issues of his lands and tenements.</ab>
-                     <ab>John le Taillur, <measure type="currency">5s.</measure> for a false
+                     <ab>John le Taillur, <measure type="currency">5s</measure> for a false
                         claim.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">45s.</measure></closer>
+                  <closer>SUM: <measure type="currency">45s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-16">Thursday 16 November</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the farm of Tassagard, <measure type="currency">£7.10s.</measure> by Robert le Deveneis.</ab>
-                     <ab>Of the same, <measure type="currency">£8.6s.8d.</measure> by William le
+                     <ab>Of the farm of Tassagard, <measure type="currency">£7 10s</measure> by
+                        Robert le Deveneis.</ab>
+                     <ab>Of the same, <measure type="currency">£8 6s 8d</measure> by William le
                         Archer.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£15.16s.8d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£15 16s 8d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-17">Friday 17 November</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the farm of Newcastle Lyons, <measure type="currency">£7</measure>, by William le Blund.</ab>
-                     <ab>Of the rent of Esker, <measure type="currency">60s.</measure> by Henry
+                     <ab>Of the farm of Newcastle Lyons, <measure type="currency">£7</measure>, by
+                        William le Blund.</ab>
+                     <ab>Of the rent of Esker, <measure type="currency">60s</measure> by Henry
                         Kisshok.</ab>
-                     <ab>Of the arrears of this rent, <measure type="currency">10s.</measure>, by the same.</ab>
+                     <ab>Of the arrears of this rent, <measure type="currency">10s</measure>, by the
+                        same.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£10.10s.</measure></closer>
+                  <closer>SUM: <measure type="currency">£10 10s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-18">Saturday 18 November</date></head>
                   <div>
                      <opener>ESCHEATRY</opener>
-                     <ab>Walter de la Haye, <measure type="currency">61s.</measure> of the arrears
-                        of the escheatry, by Richard Gernun.</ab>
-                     <ab>The same, <measure type="currency">£10.13s.10½d</measure>. by Richard de Exeter.</ab>
+                     <ab>Walter de la Haye, <measure type="currency">61s</measure> of the arrears of
+                        the escheatry, by Richard Gernun.</ab>
+                     <ab>The same, <measure type="currency">£10 13s 10½d</measure>. by Richard de
+                        Exeter.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Henry de Wiltone, <measure type="currency">5s.</measure> for him and his
+                     <ab>Henry de Wiltone, <measure type="currency">5s</measure> for him and his
                         pledges as he came not when attached.</ab>
                   </div>
                   <div>
                      <opener>KILDARE</opener>
-                     <ab>The farm of the lands late of John de Mohun at Bertone, <measure type="currency">£24</measure>, by Margaret
-                        Wogan.</ab>
+                     <ab>The farm of the lands late of John de Mohun at Bertone, <measure
+                           type="currency">£24</measure>, by Margaret Wogan.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£37.19s.10½d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£37 19s 10½d</measure></closer>
                </div>
                <pb type="membrane" n="5"/>
-               <closer>WEEKLY SUM: <measure type="currency">£95.9s.2½d.</measure></closer>
-               <closer>MONTHLY SUM: <measure type="currency">£559.4s.</measure></closer>
+               <closer>WEEKLY SUM: <measure type="currency">£95 9s 2½d</measure></closer>
+               <closer>MONTHLY SUM: <measure type="currency">£559 4s</measure></closer>
             </div>
             <div n="9" type="week">
                <div type="day">
@@ -1215,17 +1236,19 @@
                   <head><date when="1301-11-21">Tuesday 21 November</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the farm of Tassagard, <measure type="currency">30s.</measure>, by Robert le Deveneis.</ab>
-                     <ab>The same, <measure type="currency">40s.</measure>, by William le Archer.</ab>
-                     <ab>The same, <measure type="currency">24s.</measure>, by Richard Brun.</ab>
+                     <ab>Of the farm of Tassagard, <measure type="currency">30s</measure>, by Robert
+                        le Deveneis.</ab>
+                     <ab>The same, <measure type="currency">40s</measure>, by William le
+                        Archer.</ab>
+                     <ab>The same, <measure type="currency">24s</measure>, by Richard Brun.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£4.14s.</measure></closer>
+                  <closer>SUM: <measure type="currency">£4 14s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-22">Wednesday 22 November</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Reginald Bernevalle, <measure type="currency">46s.</measure> for the relief
+                     <ab>Reginald Bernevalle, <measure type="currency">46s</measure> for the relief
                         of his lands.</ab>
                   </div>
                </div>
@@ -1256,19 +1279,19 @@
                   <head><date when="1301-11-27">Monday 27 November</date></head>
                   <div>
                      <opener>URIEL</opener>
-                     <ab>Henry Adthelard, <measure type="currency">15s.</measure> of a fine for
+                     <ab>Henry Adthelard, <measure type="currency">15s</measure> of a fine for
                         instigating a false appeal.</ab>
-                     <ab>Walter Brisbon, <measure type="currency">20s.</measure> of a fine for the
+                     <ab>Walter Brisbon, <measure type="currency">20s</measure> of a fine for the
                         same.</ab>
-                     <ab>Roger Roth, sheriff, <measure type="currency">20s.</measure> of the arrears
+                     <ab>Roger Roth, sheriff, <measure type="currency">20s</measure> of the arrears
                         of his account, by the same Walter.</ab>
-                     <ab>Of the issues of Castle Frank and the manor of Ays, <measure type="currency">100s.</measure>, by Ralph
-                        Devening.</ab>
+                     <ab>Of the issues of Castle Frank and the manor of Ays, <measure
+                           type="currency">100s</measure>, by Ralph Devening.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Peter le Petit, <measure type="currency">20s.</measure> of a fine for
-                        having peace.</ab>
+                     <ab>Peter le Petit, <measure type="currency">20s</measure> of a fine for having
+                        peace.</ab>
                   </div>
                   <div>
                      <opener>GENEVILLE</opener>
@@ -1277,51 +1300,53 @@
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the rent of Kilinnin, <measure type="currency">20s.</measure>, by Thomas de Kent, seneschal.</ab>
-                     <ab>Reginald de Bernevalle, <measure type="currency">14s.</measure> for the
+                     <ab>Of the rent of Kilinnin, <measure type="currency">20s</measure>, by Thomas
+                        de Kent, seneschal.</ab>
+                     <ab>Reginald de Bernevalle, <measure type="currency">14s</measure> for the
                         relief of his lands.</ab>
-                     <ab>From the same, <measure type="currency">10s.</measure> of a fine.</ab>
+                     <ab>From the same, <measure type="currency">10s</measure> of a fine.</ab>
                   </div>
                   <div>
                      <opener>ROSCOMMON</opener>
-                     <ab>Richard de Oxon' , sheriff, <measure type="currency">102s.2d.</measure> of
+                     <ab>Richard de Oxon' , sheriff, <measure type="currency">102s 2d</measure> of
                         the arrears of his account.</ab>
-                     <ab>From the same sheriff, <measure type="currency">10s.</measure> of the
+                     <ab>From the same sheriff, <measure type="currency">10s</measure> of the
                         chattels of Roger Betag', who has drowned.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£29.17s.10d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£29 17s 10d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-28">Tuesday 28 November</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>William le Rede de Arcath, <measure type="currency">3s.4d.</measure> as he
+                     <ab>William le Rede de Arcath, <measure type="currency">3s 4d</measure> as he
                         did not come when summoned.</ab>
-                     <ab>Richard Gervas', <measure type="currency">5s.</measure> for him and his
+                     <ab>Richard Gervas', <measure type="currency">5s</measure> for him and his
                         pledges as he did not come when attached.</ab>
                      <ab>Richard Hamund, Reginald Hamund and Philip fitz Martin, <measure
-                           type="currency">20s.</measure> of a fine, by R. Turbot.</ab>
+                           type="currency">20s</measure> of a fine, by R. Turbot.</ab>
                   </div>
-                  <closer>SUM: 28s.4d.</closer>
+                  <closer>SUM: <measure type="currency">28s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-29">Wednesday 29 November</date></head>
                   <div>
                      <opener>LIMERICK</opener>
-                     <ab>The abbot of Wetheni, <measure type="currency">33s.4d.</measure> of a fine
+                     <ab>The abbot of Wetheni, <measure type="currency">33s 4d</measure> of a fine
                         for trespass.</ab>
-                     <ab>Hugh fitz Ralph and his associates, <measure type="currency">40s.</measure>
+                     <ab>Hugh fitz Ralph and his associates, <measure type="currency">40s</measure>
                         for the same.</ab>
-                     <ab>Robert Bagot, sheriff, <measure type="currency">£76.6s.8d.</measure> of the
+                     <ab>Robert Bagot, sheriff, <measure type="currency">£76 6s 8d</measure> of the
                         debts of divers persons.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>The farm of the city, <measure type="currency">£10</measure>, by W. Sampson de Calan and J. de Castelk'</ab>
+                     <ab>The farm of the city, <measure type="currency">£10</measure>, by W. Sampson
+                        de Calan and J. de Castelk'</ab>
                      <ab>Walter de la Haye, <measure type="currency">£9</measure> of the issues of
                         the archbishopric of Dublin, by J. Heyne.</ab>
                   </div>
-                  <closer>SUM: £99.</closer>
+                  <closer>SUM: <measure type="currency">£99</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-11-30">Thursday 30 November</date></head>
@@ -1333,12 +1358,12 @@
                   <head><date when="1301-12-01">Friday 1 December</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Richard de Cruis, <measure type="currency">30s.</measure> of a fine for
+                     <ab>Richard de Cruis, <measure type="currency">30s</measure> of a fine for
                         trespass.</ab>
-                     <ab>John Wodelok, sheriff, <measure type="currency">10s.</measure> of the debts
+                     <ab>John Wodelok, sheriff, <measure type="currency">10s</measure> of the debts
                         of divers persons, by Robert de Noctone.</ab>
                   </div>
-                  <closer>SUM: 40s.</closer>
+                  <closer>SUM: <measure type="currency">40s</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-12-02">Saturday 2 December</date></head>
@@ -1351,30 +1376,34 @@
                      <opener>DUBLIN</opener>
                      <ab>Nicholas Crombe, <measure type="currency">½ mark</measure> as he came not
                         when summoned.</ab>
-                     <ab>Reginald de Bernevalle, a mark of a fine for trespass.</ab>
+                     <ab>Reginald de Bernevalle, <measure type="currency">a mark</measure> of a fine for trespass.</ab>
                   </div>
-                  <closer> SUM: £101.</closer>
+                  <closer> SUM: <measure type="currency">£101</measure></closer>
                </div>
-               <closer>WEEKLY SUM: <measure type="currency">£233.6s.2d.</measure></closer>
+               <closer>WEEKLY SUM: <measure type="currency">£233 6s 2d</measure></closer>
             </div>
             <div n="11" type="week">
                <div type="day">
                   <head><date when="1301-12-04">Monday 4 December</date></head>
                   <div>
                      <opener>DROGHEDA IN MEATH</opener>
-                     <ab>Of the farm of the town, <measure type="currency">33s.4d.</measure>, by Ralph de Bigdone.</ab>
-                     <ab>Of the same, <measure type="currency">60s.</measure>, by Richard Botild.</ab>
-                     <ab>Of the promised king's aid, <measure type="currency">£27.5s.5d.</measure>, by the same R.</ab>
+                     <ab>Of the farm of the town, <measure type="currency">33s 4d</measure>, by
+                        Ralph de Bigdone.</ab>
+                     <ab>Of the same, <measure type="currency">60s</measure>, by Richard
+                        Botild.</ab>
+                     <ab>Of the promised king's aid, <measure type="currency">£27 5s 5d</measure>,
+                        by the same R.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
                      <ab>From the mayor and bailiffs of the city, <measure type="currency">½
                            mark</measure> of the arrears of their account, by W. le Lumbard.</ab>
-                     <ab>Of the same arrears, <measure type="currency">26s.8d.</measure>, by John Giffard.</ab>
-                     <ab>Of the same, <measure type="currency">13s.4d.</measure> by Nicholas the
+                     <ab>Of the same arrears, <measure type="currency">26s 8d</measure>, by John
+                        Giffard.</ab>
+                     <ab>Of the same, <measure type="currency">13s 4d</measure> by Nicholas the
                         clerk and W. de Calan.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£34.5s.5d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£34 5s 5d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-12-05">Tuesday 05 December</date></head>
@@ -1386,19 +1415,25 @@
                         mills of Dubleday, by the same W.</ab>
                      <ab>From the same, <measure type="currency">½ mark</measure> of the rent of
                         Caprath, by the same.</ab>
-                     <ab>From the same, <measure type="currency">8d.</measure> of the rent of New
+                     <ab>From the same, <measure type="currency">8d</measure> of the rent of New
                         Grange, by the same.</ab>
-                     <ab>From the mayor and bailiffs of the city, <measure type="currency"
-                           >33s.4d.</measure> of the arrears of their account, by T. de Slane.</ab>
-                     <ab><measure type="currency">5s.</measure> of the same by William Sampson de Calan.</ab>
-                     <ab><measure type="currency">½ mark</measure> of the same by Ralph de Balsham.</ab>
-                     <ab><measure type="currency">3s.4d.</measure> of the same by David Fraunceis.</ab>
-                     <ab><measure type="currency">3s.4d.</measure> of the same by Peter le Vale.</ab>
-                     <ab><measure type="currency">½ mark</measure> of the same by John de Hereford.</ab>
-                     <ab><measure type="currency">3s.4d.</measure> of the same by Adam de Hereford.</ab>
-                     <ab><measure type="currency">3s.4d.</measure> of the same by Ralph de Balsham.</ab>
+                     <ab>From the mayor and bailiffs of the city, <measure type="currency">33s
+                           4d</measure> of the arrears of their account, by T. de Slane.</ab>
+                     <ab><measure type="currency">5s</measure> of the same by William Sampson de
+                        Calan.</ab>
+                     <ab><measure type="currency">½ mark</measure> of the same by Ralph de
+                        Balsham.</ab>
+                     <ab><measure type="currency">3s 4d</measure> of the same by David
+                        Fraunceis.</ab>
+                     <ab><measure type="currency">3s 4d</measure> of the same by Peter le Vale.</ab>
+                     <ab><measure type="currency">½ mark</measure> of the same by John de
+                        Hereford.</ab>
+                     <ab><measure type="currency">3s 4d</measure> of the same by Adam de
+                        Hereford.</ab>
+                     <ab><measure type="currency">3s 4d</measure> of the same by Ralph de
+                        Balsham.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£7.5s.8d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£7 5s 8d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-12-06">Wednesday 6 December</date></head>
@@ -1410,30 +1445,31 @@
                   <head><date when="1301-12-07">Thursday 7 December</date></head>
                   <div>
                      <opener>TRIM</opener>
-                     <ab>Of the king's aid promised in the county of Trim, <measure type="currency">£9</measure>, by Thomas de
-                        Assheburne.</ab>
+                     <ab>Of the king's aid promised in the county of Trim, <measure type="currency"
+                           >£9</measure>, by Thomas de Assheburne.</ab>
                   </div>
                   <div>
                      <opener>DROGHEDA IN URIEL</opener>
-                     <ab>The mayor and bailiffs of the city, <measure type="currency"
-                           >114s.</measure> of the arrears of their account, by J. Bouneis and W.
-                        Brun in victuals there.</ab>
+                     <ab>The mayor and bailiffs of the city, <measure type="currency">114s</measure>
+                        of the arrears of their account, by J. Bouneis and W. Brun in victuals
+                        there.</ab>
                      <ab>Of the same arrears, <measure type="currency">£10</measure>.</ab>
                   </div>
                   <div>
                      <opener>DROGHEDA IN MEATH</opener>
-                     <ab>Of the debts of divers persons of the city, <measure type="currency">71s.</measure>, by Richard Botild.</ab>
+                     <ab>Of the debts of divers persons of the city, <measure type="currency"
+                           >71s</measure>, by Richard Botild.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Reginald de Bernevalle, <measure type="currency">17s.</measure> of a fine
+                     <ab>Reginald de Bernevalle, <measure type="currency">17s</measure> of a fine
                         for trespass.</ab>
-                     <ab>The mayor and bailiffs of the city, <measure type="currency">5s.</measure>
+                     <ab>The mayor and bailiffs of the city, <measure type="currency">5s</measure>
                         of the arrears of their account, by William Terry.</ab>
-                     <ab>Adam Karik, <measure type="currency">8s.4d.</measure> to remit the king's
+                     <ab>Adam Karik, <measure type="currency">8s 4d</measure> to remit the king's
                         suit, by Adam de Houthe.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£29.15s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£29 15s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-12-08">Friday 8 December, the feast of the Conception of
@@ -1446,14 +1482,14 @@
                   <head><date when="1301-12-09">Saturday 9 December</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>The farm of Newcastle Lyons, £8, by W. le Blund.</ab>
-                     <ab>Adam Cromelin, sheriff, <measure type="currency">106s.8d.</measure> of the
+                     <ab>The farm of Newcastle Lyons, <measure type="currency">£8</measure>, by W. le Blund.</ab>
+                     <ab>Adam Cromelin, sheriff, <measure type="currency">106s 8d</measure> of the
                         arrears of his account, by N. bishop of Leighlin of a fine for
                         trespass.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£13.6s.8d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£13 6s 8d</measure></closer>
                </div>
-               <closer>WEEKLY SUM: <measure type="currency">£84.13s.1d.</measure></closer>
+               <closer>WEEKLY SUM: <measure type="currency">£84 13s 1d</measure></closer>
             </div>
             <pb type="membrane" n="6"/>
             <div n="12" type="week">
@@ -1461,7 +1497,7 @@
                   <head><date when="1301-12-11">Monday 11 December</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Thomas Galroy, <measure type="currency">10s.</measure> of a fine for having
+                     <ab>Thomas Galroy, <measure type="currency">10s</measure> of a fine for having
                         peace.</ab>
                   </div>
                </div>
@@ -1469,72 +1505,76 @@
                   <head><date when="1301-12-12">Tuesday 12 December</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>The mayor and bailiffs of the city, a mark of the arrears of their account,
+                     <ab>The mayor and bailiffs of the city, <measure type="currency">a mark</measure> of the arrears of their account,
                         by J. Sampson.</ab>
-                     <ab>Adam Karrik, <measure type="currency">8s.4d.</measure> for the death of J.
+                     <ab>Adam Karrik, <measure type="currency">8s 4d</measure> for the death of J.
                         de Suttone, by Alice Crombe.</ab>
-                     <ab>The mayor and bailiffs, as above, <measure type="currency">21s.8d.</measure>, by T. de Coventr' and J. le
-                        Seriaunt.</ab>
-                     <ab><measure type="currency">5s.</measure> of the same by J. le Furetter.</ab>
-                     <ab><measure type="currency">6s.</measure> of the same by Robert de Wyleby for his curtillages.</ab>
+                     <ab>The mayor and bailiffs, as above, <measure type="currency">21s
+                        8d</measure>, by T. de Coventr' and J. le Seriaunt.</ab>
+                     <ab><measure type="currency">5s</measure> of the same by J. le Furetter.</ab>
+                     <ab><measure type="currency">6s</measure> of the same by Robert de Wyleby for
+                        his curtillages.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">54s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">54s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-12-13">Wednesday 13 December</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the farm of Tassagard, <measure type="currency">60s.</measure> by Robert
+                     <ab>Of the farm of Tassagard, <measure type="currency">60s</measure> by Robert
                         le Deveneis.</ab>
-                     <ab><measure type="currency">10s.</measure> of the same by Thomas Kisshok.</ab>
-                     <ab><measure type="currency">40s.</measure> of the same by William le Archer.</ab>
-                     <ab><measure type="currency">20s.</measure> by the same William.</ab>
-                     <ab><measure type="currency">10s.</measure> of the same by Simon de Camera.</ab>
+                     <ab><measure type="currency">10s</measure> of the same by Thomas Kisshok.</ab>
+                     <ab><measure type="currency">40s</measure> of the same by William le
+                        Archer.</ab>
+                     <ab><measure type="currency">20s</measure> by the same William.</ab>
+                     <ab><measure type="currency">10s</measure> of the same by Simon de Camera.</ab>
                   </div>
-                  <closer>SUM: £7.</closer>
+                  <closer>SUM: <measure type="currency">£7</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-12-14">Thursday 14 December</date></head>
                   <div>
                      <opener>DROGHEDA IN URIEL</opener>
-                     <ab>Of the arrears of the farm of the town, <measure type="currency">£10</measure>, by John Raffodan.</ab>
+                     <ab>Of the arrears of the farm of the town, <measure type="currency"
+                           >£10</measure>, by John Raffodan.</ab>
                   </div>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>John le Mareschal, clerk, <measure type="currency">20s.</measure> of a fine
+                     <ab>John le Mareschal, clerk, <measure type="currency">20s</measure> of a fine
                         for trespass.</ab>
-                     <ab>The rent of Crumlin, <measure type="currency">£6.6s.</measure>, by J. Russel and Allexander Coleman.</ab>
-                     <ab>Of pleas and perquisites of the court of Newcastle Lyons, <measure type="currency">33s.4d.</measure>, by T. de
-                        Kanc', seneschal.</ab>
+                     <ab>The rent of Crumlin, <measure type="currency">£6 6s</measure>, by J. Russel
+                        and Allexander Coleman.</ab>
+                     <ab>Of pleas and perquisites of the court of Newcastle Lyons, <measure
+                           type="currency">33s 4d</measure>, by T. de Kanc', seneschal.</ab>
                      <ab>Of pleas and perquisites of the court of Tassagard, <measure
-                           type="currency">25s.</measure> by the same seneschal T.</ab>
-                     <ab>Of the town of Killenien, <measure type="currency">10s.</measure> for the
+                           type="currency">25s</measure> by the same seneschal T.</ab>
+                     <ab>Of the town of Killenien, <measure type="currency">10s</measure> for the
                         escape of Henry Pudding.</ab>
-                     <ab>Of the rent of this last town, <measure type="currency">20s.</measure> by
+                     <ab>Of the rent of this last town, <measure type="currency">20s</measure> by
                         William Malroni.</ab>
-                     <ab>The mayor and bailiffs of the city, <measure type="currency"
-                           >100s.</measure> of the arrears of their account, by Geoffrey Brun.</ab>
+                     <ab>The mayor and bailiffs of the city, <measure type="currency">100s</measure>
+                        of the arrears of their account, by Geoffrey Brun.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£26.14s.4d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£26 14s 4d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-12-15">Friday 15 December</date></head>
                   <div>
                      <opener>DUBLIN</opener>
-                     <ab>Of the chattels of William fitz Richard, a fugitive, <measure type="currency">15s.</measure>, by John le
-                        Mareschal.</ab>
-                     <ab>Of the issues of the lands late of G. de Lisenee at Baliogary, <measure type="currency">£6.6s.</measure>, by
-                        R. de Kunword and W. Blisseit.</ab>
-                     <ab>The mayor and bailiffs of the city, <measure type="currency"
-                           >100s.</measure> of the arrears of their account, by G. Chimbard.</ab>
+                     <ab>Of the chattels of William fitz Richard, a fugitive, <measure
+                           type="currency">15s</measure>, by John le Mareschal.</ab>
+                     <ab>Of the issues of the lands late of G. de Lisenee at Baliogary, <measure
+                           type="currency">£6 6s</measure>, by R. de Kunword and W. Blisseit.</ab>
+                     <ab>The mayor and bailiffs of the city, <measure type="currency">100s</measure>
+                        of the arrears of their account, by G. Chimbard.</ab>
                   </div>
                   <div>
                      <opener>ENGLISH DEBTS BY THE MERCHANTS OF LUCCA</opener>
                      <ab>From the merchants of the society of the Riccardi of Lucca, <measure
-                           type="currency">£28.6s.8d.</measure> of their English debts, by the same
+                           type="currency">£28 6s 8d</measure> of their English debts, by the same
                         G.</ab>
                   </div>
-                  <closer>SUM: <measure type="currency">£40.7s.8d.</measure></closer>
+                  <closer>SUM: <measure type="currency">£40 7s 8d</measure></closer>
                </div>
                <div type="day">
                   <head><date when="1301-12-16">Saturday 16 December</date></head>
@@ -1542,8 +1582,8 @@
                      <ab>NOTHING</ab>
                   </div>
                </div>
-               <closer>WEEKLY SUM: <measure type="currency">£77.6s.4d.</measure></closer>
-               <closer>MONTHLY SUM: <measure type="currency">£402.5s.7d.</measure></closer>
+               <closer>WEEKLY SUM: <measure type="currency">£77 6s 4d</measure></closer>
+               <closer>MONTHLY SUM: <measure type="currency">£402 5s 7d</measure></closer>
             </div>
             <closer>SUM FOR MICHAELMAS TERM: <measure type="currency">£1718.5¼d.</measure></closer>
          </div>
