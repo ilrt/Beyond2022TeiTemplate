@@ -71,7 +71,11 @@
         <xsl:text>[...]</xsl:text>
     </xsl:template>
 
-    <xsl:template match="tei:supplied"> [<xsl:apply-templates/>] </xsl:template>
+    <xsl:template match="tei:supplied">[<xsl:apply-templates/>]</xsl:template>
+
+    <xsl:template match="tei:note">(<xsl:apply-templates/>)</xsl:template>
+
+    <xsl:template match="tei:ex">[<xsl:apply-templates/>]</xsl:template>
 
     <xsl:template match="text()">
         <xsl:value-of select="."/>
@@ -92,6 +96,12 @@
             <xsl:choose>
                 <xsl:when test=".[@type = 'membrane']">
                     <xsl:text>m. </xsl:text>
+                </xsl:when>
+                <xsl:when test=".[@type = 'folio']">
+                    <xsl:text>f. </xsl:text>
+                </xsl:when>
+                <xsl:when test=".[@type = 'rotulus']">
+                    <xsl:text>rot. </xsl:text>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:text>m. </xsl:text>
@@ -117,10 +127,16 @@
     </xsl:template>
 
     <xsl:template match="tei:ab">
-        <fo:block font-family="{$font}" text-align="left" margin-left="12px" font-size="10pt"
+        <fo:block font-family="{$font}" text-align="justify" margin-left="12px" font-size="11pt"
             space-before="4pt" space-after="4pt">
             <xsl:apply-templates/>
         </fo:block>
+    </xsl:template>
+
+    <xsl:template match="tei:add">
+        <xsl:text>^</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>^</xsl:text>
     </xsl:template>
 
     <xsl:template match="tei:closer">
@@ -130,7 +146,26 @@
         </fo:block>
     </xsl:template>
 
+    <xsl:template match="tei:w">
+        <xsl:choose>
+            <xsl:when test=".[@xml:lang = 'lat']">
+                <fo:inline font-style="italic">
+                    <xsl:apply-templates/>
+                </fo:inline>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="current()"/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
 
+    <xsl:template match="tei:foreign">
+        <fo:inline font-style="italic">
+            <xsl:apply-templates/>
+        </fo:inline>
+    </xsl:template>
+
+    <!--
     <xsl:template match="tei:note">
         <xsl:choose>
             <xsl:when test=".[@type = 'footnote']">
@@ -152,7 +187,7 @@
             <xsl:otherwise/>
         </xsl:choose>
     </xsl:template>
-
+-->
     <xsl:template match="tei:ref">
         <fo:basic-link external-destination="url({/@target/string()})" text-decoration="underline"
             color="blue">
@@ -185,13 +220,15 @@
         </xsl:variable>
         <fo:block font-family="{$font}" font-size="16pt" text-align="center" font-weight="bold">
             <xsl:value-of select="$title"/>
-            <xsl:text>, </xsl:text>
-            <xsl:value-of select="$date"/>
+            <!--           <xsl:text>, </xsl:text>
+            <xsl:value-of select="$date"/> -->
         </fo:block>
     </xsl:template>
 
     <xsl:template name="repository-id">
-        <fo:block border-bottom-width="1px" padding-bottom="12px" margin-bottom="12px" border-bottom-style="solid" font-family="{$font}" space-before="12pt" font-size="10pt" text-align="left">
+        <fo:block border-bottom-width="1px" padding-bottom="12px" margin-bottom="12px"
+            border-bottom-style="solid" font-family="{$font}" space-before="12pt" font-size="10pt"
+            text-align="left">
             <xsl:value-of
                 select="normalize-space(//tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:repository)"/>
             <xsl:text>, </xsl:text>
