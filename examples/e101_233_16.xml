@@ -647,7 +647,7 @@
                   <closer>SUM: <measure type="currency">£95 6s 11¼d.</measure></closer>
                </div>
                <div type="day">
-                  <head><date when="1301-10-18">Wednesday 18 October</date></head>
+                  <head><date when="1301-10-18">Wednesday 18 October, the feast of St Luke the Evangelist.</date></head>
                   <div>
                      <ab>NOTHING</ab>
                   </div>
@@ -1227,7 +1227,7 @@
             </div>
             <div n="9" type="week">
                <div type="day">
-                  <head><date when="1301-11-20">Monday 20 November</date></head>
+                  <head><date when="1301-11-20">Monday 20 November, the feast of St Edmund the King.</date></head>
                   <div>
                      <ab>NOTHING</ab>
                   </div>
@@ -1349,7 +1349,7 @@
                   <closer>SUM: <measure type="currency">£99</measure></closer>
                </div>
                <div type="day">
-                  <head><date when="1301-11-30">Thursday 30 November</date></head>
+                  <head><date when="1301-11-30">Thursday 30 November, the feast of St Andrew</date></head>
                   <div>
                      <ab>NOTHING</ab>
                   </div>
@@ -1436,7 +1436,7 @@
                   <closer>SUM: <measure type="currency">£7 5s 8d</measure></closer>
                </div>
                <div type="day">
-                  <head><date when="1301-12-06">Wednesday 6 December</date></head>
+                  <head><date when="1301-12-06">Wednesday 6 December, the feast of St Nicholas</date></head>
                   <div>
                      <ab>NOTHING</ab>
                   </div>
