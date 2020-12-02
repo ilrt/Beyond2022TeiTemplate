@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <!-- Details about the document -->
+      <fileDesc>
+         <!-- Title details. We put respsibility statements in the edition -->
+         <titleStmt>
+            <title>Pipe roll of the English Exchequer for Michaelmas 1304 to Michaelmas 1305 (33
+               Edward I)</title>
+         </titleStmt>
+         <!-- Edition details -->
+         <editionStmt>
+            <!-- For the description (database), use the edition? -->
+            <edition>TEI/XML English translation of the Pipe roll of the English Exchequer for
+               Michaelmas 1304 to Michaelmas 1305 (33 Edward I)</edition>
+            <!-- Responsibility for the edition. -->
+            <respStmt xml:id="peter-crooks">
+               <name>Peter Crooks</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="paul-dryburgh">
+               <name>Paul Dryburgh</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="lynn-kilgannon">
+               <name>Lynn Kilgannon</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="elizabeth-biggs">
+               <name>Elizabeth Biggs</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="mike-jones">
+               <name>Mike Jones</name>
+               <resp>editor</resp>
+            </respStmt>
+            <respStmt xml:id="brendan-smith">
+               <name>Brendan Smith</name>
+               <resp>editor</resp>
+            </respStmt>
+         </editionStmt>
+         <!-- Details about the extent of the original document. -->
+         <extent>A parchment roll of 18 membranes.</extent>
+         <!-- Publisher and licence -->
+         <publicationStmt>
+            <publisher>Trinity College Dublin, The University of Dublin</publisher>
+            <pubPlace>Dublin</pubPlace>
+            <availability>
+               <!-- License -->
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/"
+                  >Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</licence>
+            </availability>
+            <!-- Contact details -->
+            <address>
+               <name>Beyond 2022: Ireland's Virtual Record Treasury</name>
+               <addrLine>Trinty College Dublin, the University of Dublin</addrLine>
+               <addrLine>College Green</addrLine>
+               <addrLine>Dublin 2</addrLine>
+               <addrLine>D02 PN40</addrLine>
+               <country>Ireland</country>
+            </address>
+         </publicationStmt>
+         <!-- Part of a series? -->
+         <seriesStmt>
+            <title>Pipe rolls (The National Archives, E 372).</title>
+            <idno>E 372</idno>
+         </seriesStmt>
+         <!-- Details about the manuscript. -->
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>London</settlement>
+                  <repository>The National Archives</repository>
+                  <idno>E 372/150</idno>
+                  <idno type="b2022-idno">UK-KeNA E 372/150</idno>
+                  <idno type="URI"
+                     >https://discovery.nationalarchives.gov.uk/details/r/C4050642</idno>
+                  <msName>Pipe roll, 1304 Michaelmas – 1305 Michaelmas.</msName>
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="la">Latin</textLang>
+               </msContents>
+               <physDesc>
+                  <p>A parchment roll.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <!-- Details about the encoding -->
+      <encodingDesc>
+         <!-- Project description-->
+         <projectDesc>
+            <p>Created as part of the Medieval Gold Seam of the 'Beyond 2022: Ireland's Virtual
+               Record Treasury' Research Project, Phase 2 (2019–22)</p>
+         </projectDesc>
+         <!-- Editorial declaration -->
+         <editorialDecl>
+            <p>The guiding principle is to make this edition of the accounts of the medieval Irish
+               Exchequer (and other medieval records populating Beyond 2022 Virtual Record Treasury)
+               as intelligible as possible to as wide an audience as possible. To that end, due to
+               their generally brief, formulaic nature the records are more or less directly
+               translated into modern English without losing the literal, technical sense of the
+               original language, which is almost exclusively Latin.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <!-- Non bibliographic aspects of the text -->
+      <profileDesc>
+         <!-- Languages used in the encoding. -->
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <!-- Details about the creation of the text. -->
+         <creation>
+            <date from="1301-09-30" to="1302-09-29">30 September 1301 to 29 September 1302</date>
+         </creation>
+         <!-- Beyond 2022 knowledge graph. For people, places and organizations/offices -->
+         <textClass>
+            <keywords scheme="http://ont.beyond2022.ie/ontology#">
+               <term ref="https://kb.beyond2022.ie/person/615_-_0000_g>">Edward I</term>
+            </keywords>
+         </textClass>
+         <!-- searchFast: https://fast.oclc.org/searchfast/ -->
+         <textClass>
+            <keywords scheme="https://fast.oclc.org/">
+               <term ref="http://id.worldcat.org/fast/1205427.rdf.xml">Ireland</term>
+               <term ref="http://id.worldcat.org/fast/1020301.rdf.xml">Middle Ages</term>
+               <term ref="http://id.worldcat.org/fast/924349.rdf.xml">Finance</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <!-- Changes made to the document -->
+      <revisionDesc>
+         <listChange>
+            <change status="draft" when="2020-11-06" resp="#elizabeth-biggs">Initial draft</change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div>
+
+            <pb type="rotulus" n="40"/>
+            <pb type="membrane" n="1"/>
+
+            <p>Account of Richard de Bereford, treasurer of Ireland, of his receipts from the
+               treasury of Ireland from <date type="regnal" when="1300-06-08">8 June 28 Edward
+                  I</date> when he was granted the office of treasurer and from <date type="regnal"
+                  when="1300-07-06">6 July <supplied>1300</supplied> 28 Edward I</date> when he
+               arrived in Dublin until 33 Edward I. These expenses have been authenticated by the
+               counter rolls of Henry de Walton, Gilbert de Arderne, Robert de Whatton and John de
+               Donnore, successively chamberlains of the exchequer in Ireland for the same time.</p>
+
+            <div>
+               <opener>Receipts for the last part of 28 <supplied>Edward I</supplied></opener>
+
+               <ab>The same R accounts for <measure type="currency">£162 9s 1d</measure> of the
+                  farms returned and others received at the Dublin exchequer from the aforesaid
+                  translation of St Thomas the Martyr 28 <supplied>Edward I</supplied> to Michaelmas
+                  next following, as is contained in a roll of particulars of the upper receipt
+                  which the same Richard paid in the treasury, and in the aforesaid counter-roll of
+                  the aforesaid Henry de Walton, the chamberlain, for the aforesaid time.</ab>
+               <ab>And for <measure type="currency">£20</measure> received from merchants of the
+                  society of the Ricciardi <note><foreign xml:lang="lat"
+                        >Ric<ex>er</ex>or<ex>um</ex></foreign></note> of Lucca of his debts in
+                  England, viz. in part payment of debts in which the same merchants hold of the
+                  king, during the aforesaid time as is contained there.</ab>
+               <ab>And of <measure type="currency">46s 8 <supplied>d</supplied>d</measure> received
+                  from seizing wine <note><foreign xml:lang="lat">p<ex>ri</ex>sa
+                     vinorum</foreign></note> during the aforesaid time as is contained there.</ab>
+               <ab>And of <measure type="currency">£8 13s</measure> received from the <add
+                     place="above">issues</add> of the church benefices of Nicholas de Clere, once
+                  treasurer of Ireland in various bishoprics of Ireland in part payment of the
+                  arrears of his account for the time in which he was treasurer of Ireland as is
+                  contained in a roll of particulars received of the goods of the said Nicholas
+                  which were paid in the treasury, and in the counter-roll of the said Henry of the
+                  same goods.</ab>
+               <ab>And of <measure type="currency">£9 16s 8d</measure> received of arrears of the
+                  fifteenth, once granted to the king in Ireland for the same time as is contained
+                  in a roll of particulars of the same fifteenth which were paid in the treasury and
+                  the counter roll of the aforesaid Henry of the same fifteenth.</ab>
+            </div>
+
+            <div>
+               <opener><date from="1300-11-20" to="1301-11-19" type="regnal">29 <supplied>Edward
+                        I</supplied></date></opener>
+               <ab>And of <measure type="currency">£3659 10s 11d</measure> of the customs, farms,
+                  receipts, debts and other payments received at the same Dublin exchequer from the
+                  aforesaid Michaelmas 28 <supplied>Edward I</supplied>, the beginning of 29
+                     <supplied>Edward I</supplied> until the same day in the following year
+                        <note><foreign xml:lang="lat">anno revolutio</foreign></note>, viz. for
+                  Michaelmas term 28 <supplied>Edward I</supplied>, Hilary, Easter and Trinity terms
+                  29 <supplied>Edward I</supplied>, just as is contained in a roll of particulars of
+                  the great receipt <note><foreign xml:lang="lat">magne recepte</foreign></note> for
+                  the whole year 29 <supplied>Edward I</supplied> of the things which were paid in
+                  the treasury and in a counter roll of the said Henry for the same time.</ab>
+               <ab>And of <measure type="currency">£475 22d</measure> received during the same time
+                  from the merchants of the society of the Ricciardi of Lucca in part payment of the
+                  debts, which they hold of the king as is contained there.</ab>
+               <ab>And of <measure type="currency">£234 2s 3½d</measure> received at the same time
+                  from the new customs on wool, leather and wool-fells in Ireland as is contained
+                  there.</ab>
+               <ab>And of <measure type="currency">£200</measure> for the same time of the issues of
+                  the Dublin exchange by Tholosanus Donati as is contained there.</ab>
+               <ab>And of <measure type="currency">1 mark</measure> received during the same time of
+                  weighed gold, 16d found and sold as is contained there.</ab>
+               <ab>And of <measure type="currency">£8</measure> received during the same time from
+                  the profits of buying base coins <note><foreign xml:lang="lat"
+                        >pollardorum</foreign></note> and plate as is contained there.</ab>
+               <ab>And of £<measure type="currency">643 19s</measure> received during the same time
+                  from the aid granted to the king in Ireland as is contained there.</ab>
+               <ab>And of <measure type="currency">£15</measure> received during the same time from
+                  the issues held by Geoffrey de Lisniaco, the German, and of the power held from
+                  the lord king of France, in the hands of the king on account of the war between
+                  the king and the king of France, as is contained there.</ab>
+               <ab>And of <measure type="currency">100s</measure> received from John de Ponte in
+                  part payment of <measure type="currency">£52</measure> in which he is held by the
+                  king for wine formerly received at Leeds <note>Ledes</note> by a royal writ from
+                  the English exchequer directed to the said Dublin exchequer, as is contained
+                  there.</ab>
+               <ab>And of <measure type="currency">1 mar</measure> received from the goods of the
+                  foreign merchants in the power of the king of France, as is contained there.</ab>
+               <ab>And of <measure type="currency">£117 1d</measure> received for the aforesaid year
+                  29 <supplied>Edward I</supplied> of the ecclesiastical goods of Nicholas de Clere,
+                  once treasurer of Ireland in various bishoprics in Ireland in part payment of the
+                  arrears of his account when he was treasurer in Ireland as is contained in a roll
+                  of the same Nicholas’ goods received in the said year 29 <supplied>Edward
+                     I</supplied> and various years after, which were paid in the treasury and in
+                  the counter roll of Henry of the aforesaid goods during the same time.</ab>
+               <ab>And <measure type="currency">£53 14s 1½d</measure> received during the aforesaid
+                  time of the arrears of the fifteenth granted to the king as in contained in the
+                  roll of particulars of the said fifteenth of the said year 29 <supplied>Edward
+                     I</supplied> and other various years following which the said Richard paid in
+                  the treasury and in the counter roll of the said Henry of the aforesaid
+                  fifteenth.</ab>
+               <ab>And in <measure type="currency">£4 18s 9½d</measure> received in the said year 29
+                     <supplied>Edward I</supplied> of the arrears of the service of Cumbre in the
+                  time when J. Wogan was justiciar as is contained in a roll of the arrears of the
+                  same service of the said year 29 <supplied>Edward I</supplied> and various years
+                  following and in the counter-roll of the said Henry of the aforesaid service.</ab>
+            </div>
+            <div>
+               <opener>30 <supplied>Edward I</supplied></opener>
+               <ab>And of <measure type="currency">£4326 2s 1d</measure> of the customs, farms,
+                  receipts, debts and other payments received at the same Dublin exchequer from the
+                  aforesaid Michaelmas 29 <supplied>Edward I</supplied>, beginning 30
+                     <supplied>Edward I</supplied> until the same day in the following year, viz.
+                  Michaelmas term 29 <supplied>Edward I</supplied> and Hilary, Easter and Trinity
+                  terms 30 <supplied>Edward I</supplied> just as is contained in a roll of
+                  particulars of the great receipt, which were paid in the treasury and in the
+                  counter-roll of the said Henry for the same time.</ab>
+               <ab>And of <measure type="currency">£705 8s 1½d</measure> received during the same
+                  time of aids granted to the king as is contained there.</ab>
+               <ab>And of <measure type="currency">£530 16s 8½d</measure> received during the same
+                  time from the new customs of wool, leather and sheep-fells in Ireland as is
+                  contained there.</ab>
+               <ab>And of <measure type="currency">£13 6s 8d</measure> received from Geoffrey de
+                  Genevile, of what he had borrowed from? the king’s Wardrobe, as is contained
+                  there.</ab>
+               <ab>And of <measure type="currency">£7 8s</measure> received of the issues of the
+                  lands of Geoffrey de Lisignago <note>Lisniato</note>, the German, of the power
+                     <note>potestate</note> of the king of France in the hands of the king due to
+                  the war between the king and the king of France, as is contained there.</ab>
+               <ab>And of <measure type="currency">26s 8d</measure> received of the goods of the
+                  foreign merchants of the power of the king of France as is contained there.</ab>
+               <ab>And of <measure type="currency">£26 16 s 9½d</measure> received in the return of
+                  provisions sent to Scotland, as is contained there.</ab>
+               <ab>And of <measure type="currency">60s</measure> received during the same period of
+                  the profit from the purchase of debased coins, as is contained there.</ab>
+               <ab>And of <measure type="currency">£22</measure> received from seizing wine during
+                  the same time as is contained there.</ab>
+               <ab>And of <measure type="currency">£520</measure> received during the same time of
+                  the issues of the Dublin exchange by Tholosam Donati as is contained there.</ab>
+               <ab>And of <measure type="currency">£90 7s 2d</measure> received during the same year
+                  30 <supplied>Edward I</supplied> of the church goods of Nicholas de Clere, once
+                  treasurer of Ireland in various bishoprics in Ireland in part satisfaction of the
+                  arrears of his account, from the time when he was treasurer in Ireland as is
+                  contained in a roll of the goods of the same Nicholas received in various years
+                  which were paid in the treasury and in the counter-roll of the said Henry
+                  concerning the aforesaid goods.</ab>
+               <ab>And of <measure type="currency">£39 13 ¼d</measure> received during the aforesaid
+                  year 30 <supplied>Edward I</supplied> of the arrears of the fifteenth granted in
+                  Ireland as is contained in a roll of particulars of the arrears of the fifteenth
+                  in various years, which the said Richard paid in the treasury and in the
+                  counter-roll of the said Henry of the aforesaid fifteenth.</ab>
+               <ab>And of <measure type="currency">47s 9d</measure> received in Trinity term 30
+                     <supplied>Edward I</supplied> of the arrears of the service of Cumbre in the
+                  time when John Wogan was justiciar of Ireland as is contained in a roll of the
+                  same service in various years and in the counter-roll of the said Henry.</ab>
+            </div>
+            <div>
+               <opener>31 <supplied>Edward I</supplied></opener>
+               <ab>And of <measure type="currency">£4619 3s 4d</measure> of customs, farms,
+                  payments, debts and other payments received at the same Dublin exchequer from the
+                  aforesaid Michaelmas 30 <supplied>Edward I</supplied>, beginning 31
+                     <supplied>Edward I</supplied>, until the same day in the following year, viz.
+                  for Michaelmas term 30 <supplied>Edward I</supplied>, and Hilary, Easter and
+                  Trinity terms 31 <supplied>Edward I</supplied> as is contained in a roll of
+                  particulars of the great receipt <note>magne recepte</note> which were paid in the
+                  treasury and in a counter-roll of the said Henry of the same receipts for the same
+                  time.</ab>
+               <ab>And of <measure type="currency">£164</measure> received during the same time of
+                  the aid granted to the king in Ireland as is contained there.</ab>
+               <ab>And of <measure type="currency">£248 3s</measure> received during the same time
+                  from the merchants of the society of the Ricciardi of Lucca in part payment of the
+                  debts which they hold of the king as contained there.</ab>
+               <ab>And of <measure type="currency">£8 8s 1½d</measure> received during the same time
+                  of the the issues of the Dublin exchange by Tholosam? Donati as is contained
+                  there.</ab>
+               <ab>And of <measure type="currency">£7 6s 8d</measure> received from the return of
+                  provisions sent to Scotland as is contained there.</ab>
+               <ab>And of <measure type="currency">£229 1d</measure> received during the aforesaid
+                  time of the ecclesiastical goods of Nicholas de Clere, once treasurer, in various
+                  bishoprics in Ireland in part payment of the arrears of his account in the time
+                  when he was treasurer in Ireland as is contained in a roll of the goods of the
+                  same Nicholas received in various years which were paid in the treasury and in a
+                  counter-roll of the said Henry of the aforesaid goods.</ab>
+               <ab>And of <measure type="currency">£79 14s 8d</measure> received during the
+                  aforesaid time of the arrears of the fifteenth granted to the king in Ireland as
+                  is contained in a roll of particulars of the arrears of the said fifteenth during
+                  various years which the said Richard paid in the treasury and in the counter-roll
+                  of the said Henry of the aforesaid fifteenth.</ab>
+               <ab>And of <measure type="currency">100s</measure> received of the arrears of various
+                  services as is contained in a roll of arrears of the same services in various
+                  years, which the same Richard paid in the treasury and in a counter-roll of the
+                  said Henry of the aforesaid services.</ab>
+            </div>
+
+            <div>
+               <opener>32 <supplied>Edward I</supplied></opener>
+               <ab>And of <measure type="currency">£3,475 15s ¼d</measure> of customs, farms,
+                  payments, debts and other payments received at the said Dublin exchequer from the
+                  aforesaid Michaelmas ending 31 <supplied>Edward I</supplied> and beginning 32
+                     <supplied>Edward I</supplied> until the same day in the following year, viz for
+                  Michaelmas term at the end of 31 <supplied>Edward I</supplied> and Hilary, Easter
+                  and Trinity terms 32 <supplied>Edward I</supplied> as is contained in a roll of
+                  particulars of the great receipts paid in the treasury and in a counter-roll of
+                  the aforesaid Henry of the same receipts for the same time.</ab>
+               <ab>And of <measure type="currency">£187 14s 1¾d</measure> received of the return of
+                  provisions sent by the king to Scotland as is contained there.</ab>
+               <ab>And of <measure type="currency">£98 13s 6d</measure> received during the same
+                  time of the aid granted to the king as is contained there.</ab>
+               <ab>And of <measure type="currency">£11 13s 4d</measure> received during the same
+                  time of the new customs on wool, leather, and wool-fells as is contained
+                  there.</ab>
+               <ab>And <measure type="currency">106s 8d</measure> received from John de Ponte in
+                  part payment of the <measure type="currency">£52</measure> in which the king holds
+                  for the wine which was formerly received at Leeds <note>Ledes</note> by a writ of
+                  the king of the exchequer in England directing the said Dublin exchequer as is
+                  contained there.</ab>
+               <ab>And <measure type="currency">£192 13s 4d</measure> received during the same time
+                  from the merchants of the society of Ricciardi of Lucca in part payment of the
+                  debts which the same merchants hold of the king as is contained there.</ab>
+               <ab>And of <measure type="currency">£13 9s 10 ½d</measure> received from seizing wine
+                  during the same time as is contained there.</ab>
+               <ab>And of <measure type="currency">100s</measure> received of the goods of foreign
+                  merchants of the power of the king of France as is contained there.</ab>
+               <ab>And of <measure type="currency">£88 2s 1d</measure> received during the aforesaid
+                  time of the ecclesiastical goods of Nicholas de Clere, once treasurer of Ireland
+                  in various bishoprics in Ireland in part payment of the arrears of his account
+                  from the time when he was treasurer in Ireland, as is contained in a roll of the
+                  goods of the same Nicholas received in various years which were paid in the
+                  treasury and in a counter-roll of the said Henry of the aforesaid goods.</ab>
+               <ab>And of <measure type="currency">£68 16s 2¼d</measure> received during the same
+                  time of the arrears of the fifteenth granted to the king as is contained in a roll
+                  of particulars of the arrears of the fifteenth in various years which the same
+                  Richard paid in the treasury and in a counter-roll of the said Henry of the same
+                  fifteenth.</ab>
+               <ab>And of <measure type="currency">£17 10s</measure> received during the same time
+                  of various services in Ireland as are contained in a roll of particulars of the
+                  arrears of the same services paid by the said Richard in the treasury and in a
+                  counter-roll of the said Henry of the receipt of the same services.</ab>
+            </div>
+
+            <div>
+               <opener>First half of 33 <supplied>Edward I</supplied></opener>
+               <ab>And of <measure type="currency">£1962 11s 11¾d</measure> received from customs,
+                  farms, receipts, debts and other payments at the same Dublin exchequer from the
+                  aforesaid Michaelmas ending 32 <supplied>Edward I</supplied> and beginning 33
+                     <supplied>Edward I</supplied> until Easter next following, viz for Michaelmas
+                  term 32 <supplied>Edward I</supplied>, Hilary term 33 <supplied>Edward
+                     I</supplied>, viz for the first half of the year 33 <supplied>Edward
+                     I</supplied> as is contained in a roll of particulars of the great receipts
+                  which were paid in the treasury and in a counter-roll of the said Henry of the
+                  said receipts of the same time.</ab>
+               <ab>And of <measure type="currency">26s 8d</measure> received from John de Ponte in
+                  part payment of <measure type="currency">£52</measure> which he holds of the king
+                  for wine formerly received in Leeds by a writ of the king in the exchequer of
+                  England directed to the said Dublin exchequer as is contained there.</ab>
+               <ab>And of <measure type="currency">£355 4s 6d</measure> received during the same
+                  period from the society of the Ricciardi of Lucca in part payment of the debts
+                  which they hold of the king as is contained there.</ab>
+               <ab>And of <measure type="currency">£77 6s 8d</measure> received from the seizing of
+                  wine during the same time as is contained there.</ab>
+               <ab>And of <measure type="currency">£64 17s 11½d</measure> received during the same
+                  time of the ecclesiastical goods of Nicholas de Clere, once treasurer of Ireland
+                  in various bishoprics of Ireland in part payment of the arrears of his account
+                  from the time when he was treasurer in Ireland as is contained in a roll of the
+                  goods of the same Nicholas received in various years which were paid in the
+                  treasury and in a counter-roll of the said Henry of the aforesaid goods.</ab>
+               <ab>And of <measure type="currency">£54 12s 4 ¼d</measure> received during the
+                  aforesaid time of the arrears of the fifteenth granted to the king as is contained
+                  in a roll of particulars of the arrears of the said fifteenth in various years
+                  which the same Richard paid in the treasury and in a counter-roll of the said
+                  Henry of the aforesaid fifteenth.</ab>
+               <ab>And of <measure type="currency">£613s 4d</measure> received from the arrears of
+                  various services as are contained in a roll of particulars of the arrears of the
+                  service of the new castle of Makynegan in the time when Brother W de Ros, prior of
+                  St John of Jerusalem in Ireland was deputy to John Wogan, justiciar of Ireland as
+                  is contained in a roll of particulars which the said Richard paid in the treasury
+                  and in a counter-roll of the said Henry of the aforesaid service.</ab>
+               <ab>Totals of the receipts of the treasurer in Ireland from the last part of 28
+                  [Edward 1], 29 <supplied>Edward I</supplied> 30 <supplied>Edward I</supplied>, 31
+                     <supplied>Edward I</supplied>, 32 <supplied>Edward I</supplied> and the first
+                  half of 33 <supplied>Edward I</supplied></ab>
+
+               <closer>£24,499 17s 7½d</closer>
+            </div>
+            <div>
+               <div>
+                  <ab>In the treasury <measure type="currency">£11,267 4s 5d</measure></ab>
+                  <ab>Item in the treasury <measure type="currency">£60</measure> of the marriage of
+                     Margaret de Staunton of which charges <note>illeg. due to fold</note> term 30
+                        <supplied>Edward I</supplied></ab>
+                  <ab>Item in the treasury <measure type="currency">£55 2 marks</measure> by John
+                     Wogan for the same Richard de Bereford of the issues of Ireland</ab>
+               </div>
+               <div>
+                  <ab>Issues and Expenses</ab>
+
+                  <ab>Richard de Bereford for his annual fee £40 from 8 July 28 Edward I until
+                     Michaelmas next following and from the same Michaelmas to Easter 33
+                        <supplied>Edward I</supplied>, that is the last quarter of 28
+                        <supplied>Edward I</supplied> and for the years 29, 30, 31, 32
+                        <supplied>Edward I</supplied> and the first half of 32 <note>sic. should be
+                        33</note> £190</ab>
+               </div>
+            </div>
+
+
+         </div>
+         <pb type="mebrane" n="2"/>
+         <div>
+            <ab>And to Master Adam de Botindon, chancellor of the Dublin exchequer, receiving £10
+               yearly by the same ordinance and in the same manner of his fees in 29 and 30 [Edward
+               I] <measure type="currency">£20</measure> and the same Adam died on the third day
+               after Michaelmas <note><foreign xml:lang="lat">an’ festum sci’
+                  michis’</foreign></note> in the said 30 <supplied>Edward I</supplied> and from the
+               death of the same Adam the aforesaid office of chancellor was vacant until Hilary 31
+                  <supplied>Edward I</supplied> at which time the king granted to Gilbert de Ardern
+               the aforesaid office of chancellor as is contained there.</ab>
+            <ab>And to the aforesaid Gilbert de Ardern, chancellor of the said Dublin exchequer for
+               his customary fee £10 annually by the same ordinance from the aforesaid Hilary 31
+                  <supplied>Edward I</supplied> until Easter 33 <supplied>Edward I</supplied>, that
+               is from the last three quarters of 31 <supplied>Edward I</supplied>, 32
+                  <supplied>Edward I</supplied>, and the first half of 33 <supplied>Edward
+                  I</supplied>, £22 10s as is contained there.</ab>
+            <ab>And to Richard de Saham and William de Meones, the two barons of the said Dublin
+               exchequer each of whom received yearly 20 marks for their fee by the same ordinance
+               for 29, 30, 31, 32 and the first half of 32 <supplied>Edward I</supplied> £120 as is
+               contained there.</ab>
+            <ab>And for the two scribes writing the great rolls of the king in the said Dublin
+               exchequer from Sunday next after the octave of Trinity, that is from 30 June 28
+                  <supplied>Edward I</supplied> to 6 August next following when the said Dublin
+               exchequer was open, and also for various days in which the same exchequer similarly
+               was open in 29, 30, 31 and 32 <supplied>Edward I</supplied> and for the first half of
+               33 <supplied>Edward I</supplied> £46 19s 2d as is contained in a roll of payments and
+               expenses of various years which were paid in the treasury and in a counter-roll of
+               the said Henry for the same time, viz that 5d to each of these scribes daily when the
+               exchequer was open, as appears in the aforesaid ordinance.</ab>
+            <ab>And to the same scribes for their robes for 28, 29, 30, 31 and 31 <supplied>Edward
+                  I</supplied> £10, to each yearly 20s by the same ordinance, that is each year at
+               Michaelmas as is contained there.</ab>
+            <ab>And one of the remembrancers of the said Dublin exchequer for Trinity 28
+                  <supplied>Edward I</supplied> and 29, 30, 31, 32, and for the first half of 33
+                  <supplied>Edward I</supplied> £23 15s as is contained there, 100s yearly by the
+               same ordinance.</ab>
+            <ab>And the same remembrancer for his robes for the said years, 29, 30, 31, 32 and for
+               the whole year in 33 <supplied>Edward I</supplied> 5 marks, that is 1 mark yearly as
+               in the aforesaid ordinances, which mark he received once a year at Hilary according
+               to custom as the same Richard said and the said Henry, the chamberlain,
+               testified.</ab>
+            <ab>And to the two clerks writing summonses <note><foreign xml:lang="lat"
+                  >sum’</foreign></note>, for which they take yearly 2 marks according to the same
+               ordinance at Trinity 28 and 29, 30, 31, 32 <supplied>Edward I</supplied> and for the
+               first half of 33 <supplied>Edward I</supplied>, £12 <supplied>and</supplied> 1 mark
+               as is contained there.</ab>
+            <ab>And for the two chamberlains of the king there for their fees for 29, 30, 31, 32
+                  <supplied>Edward I</supplied> and for the first half of 33 <supplied>Edward
+                  I</supplied> £60, for which 10 marks yearly by the same ordinance, as is contained
+               there.</ab>
+            <ab>And for one of the aforesaid treasurer’s clerks in the king’s receipt in the said
+               Dublin exchequer for various days, on which the said exchequer was open, from the
+               aforesaid 13 June 28 <supplied>Edward I</supplied> to Michaelmas next following and
+               in 29, 30, 31, 32 and the first half of 33 <supplied>Edward I</supplied> £23 9s 1d,
+               5d daily at the open exchequer by the same ordinance as is contained there.</ab>
+            <ab>And one of the doorkeepers <note><foreign xml:lang="lat">hostiarum</foreign>, sic.
+                     <foreign xml:lang="lat">ostiarum</foreign></note> on each side of the exchequer
+               for Trinity 28 <supplied>Edward I</supplied> and 29, 30, 31, 32 and the first half of
+               33 <supplied>Edward I</supplied> £4 15s, receiving yearly 20s as is contained
+               there.</ab>
+            <ab>And for the two chaplains celebrating divine <note>office</note>, one in the chapel
+               of Dublin Castle and the other in the chapel of the Dublin exchequer for the final
+               quarter 28 <supplied>Edward I</supplied>, 29, 30, 31 and 32 <supplied>Edward
+                  I</supplied> and the first half of 33 <supplied>Edward I</supplied> £24 14s, each
+               for their yearly stipends of 50s yearly and for wax 2s as is allocated for the same
+               chaplains in the account of the said William de Essendon, treasurer of Ireland in the
+               said account for 28 <supplied>Edward I</supplied> and 27 <supplied>Edward
+                  I</supplied> and as is contained in the roll of particular payments and expenses
+               of various years, which the same Richard received in the treasury and in the
+               counter-roll of the said Henry, chamberlain, for the aforesaid time.</ab>
+            <ab>And for 6 ells <note><foreign xml:lang="lat">ulnis</foreign></note> of cloth
+                     <note><foreign xml:lang="lat">panni</foreign></note> bought to cover
+                     <note><foreign xml:lang="lat">coop<ex>er</ex>iend’</foreign></note> the great
+               exchequer and the exchequer of receipt at Dublin and for wax for sealing accounts and
+               royal writs and for carrying the same accounts and writs to various counties and
+               places, canvas <note><foreign xml:lang="lat">canauat’</foreign></note> for bags and
+               sacks, pouches, parchment, ink, litter, coffers and locks, and other various and
+               small things bought and repaired during the same time, <measure type="currency"
+                  >£4618s 4d</measure> as is contained there.</ab>
+         </div>
+      </body>
+   </text>
+</TEI>
