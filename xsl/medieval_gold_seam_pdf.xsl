@@ -73,13 +73,9 @@
 
     <xsl:template match="tei:supplied">[<xsl:apply-templates/>]</xsl:template>
 
-    <xsl:template match="tei:note">(<xsl:apply-templates/>)</xsl:template>
+    <!-- <xsl:template match="tei:note">(<xsl:apply-templates/>)</xsl:template> -->
 
     <xsl:template match="tei:ex">[<xsl:apply-templates/>]</xsl:template>
-
-    <xsl:template match="text()">
-        <xsl:value-of select="."/>
-    </xsl:template>
 
     <xsl:template match="tei:head">
         <fo:block font-family="{$font}" text-align="center" font-size="14pt" space-before="6pt"
@@ -168,31 +164,55 @@
     <!--
     <xsl:template match="tei:note">
         <xsl:choose>
-            <xsl:when test=".[@type = 'footnote']">
+            <xsl:when test=".[@type = 'editorial']">
                 <saxon:assign name="counter" select="$counter + 1"/>
-                <fo:footnote>
-                    <fo:inline font-size="6pt" baseline-shift="super">
-                        <xsl:value-of select="$counter"/>
-                    </fo:inline>
-                    <fo:footnote-body>
-                        <fo:block text-indent="1cm" font-size="10pt">
-                            <fo:inline font-size="6pt" baseline-shift="super" margin-right="5px">
-                                <xsl:value-of select="$counter"/>
-                            </fo:inline>
-                            <xsl:apply-templates/>
-                        </fo:block>
-                    </fo:footnote-body>
-                </fo:footnote>
+                <fo:block>
+                    <fo:footnote>
+                        <fo:inline font-size="6pt" baseline-shift="super">
+                            <xsl:value-of select="$counter"/>
+                        </fo:inline>
+                        <fo:footnote-body>
+                            <fo:block text-indent="1cm" font-size="10pt">
+                                <fo:inline font-size="6pt" baseline-shift="super" margin-right="5px">
+                                    <xsl:value-of select="$counter"/>
+                                </fo:inline>
+                                <xsl:apply-templates/>
+                            </fo:block>
+                        </fo:footnote-body>
+                    </fo:footnote>
+                </fo:block>
             </xsl:when>
-            <xsl:otherwise/>
+            <xsl:otherwise> (<xsl:apply-templates/>) </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
--->
+    -->
+    
+    
+    <xsl:template match="tei:note">
+        <xsl:choose>
+            <xsl:when test=".[@type = 'editorial']">
+                {<xsl:apply-templates/>}
+            </xsl:when>
+            <xsl:otherwise> (<xsl:apply-templates/>) </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+  
+
     <xsl:template match="tei:ref">
         <fo:basic-link external-destination="url({/@target/string()})" text-decoration="underline"
             color="blue">
             <xsl:apply-templates/>
         </fo:basic-link>
+    </xsl:template>
+
+    <xsl:template match="tei:del">
+        <fo:inline text-decoration="line-through">
+            <xsl:apply-templates/>
+        </fo:inline>
+    </xsl:template>
+
+    <xsl:template match="text()">
+        <xsl:value-of select="normalize-space(.)"/>
     </xsl:template>
 
     <!-- ===== NAMED TEMPLATES ===== -->
